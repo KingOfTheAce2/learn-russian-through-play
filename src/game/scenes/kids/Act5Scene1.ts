@@ -1,0 +1,62 @@
+import { StoryScene } from '../StoryScene';
+import { SceneScript, SCENE_1_MUSHROOMS } from '@/data/scenes/kids/act5_story_script';
+import { Character } from '@/game/sprites/Character';
+import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+
+export class Act5Scene1 extends StoryScene {
+  private masha!: Character;
+  private shura!: Character;
+  private mama?: Character;
+
+  constructor() {
+    super(SCENES.ACT5_SCENE1);
+  }
+
+  protected getScript(): SceneScript {
+    return SCENE_1_MUSHROOMS;
+  }
+
+  protected createBackground(): void {
+    const bg = this.add.graphics();
+    const PICTURE_HEIGHT = 360;
+    bg.fillGradientStyle(0x228B22, 0x228B22, 0x8B4513, 0x8B4513, 1);
+    bg.fillRect(0, 0, GAME_WIDTH, PICTURE_HEIGHT);
+    this.background = bg;
+  }
+
+  protected createCharacters(): void {
+    this.masha = new Character(this, {
+      name: 'masha',
+      x: GAME_WIDTH / 2 - 100,
+      y: 240,
+      scale: 1.5,
+      emotion: 'happy',
+    });
+
+    this.shura = new Character(this, {
+      name: 'shura',
+      x: GAME_WIDTH / 2 + 100,
+      y: 240,
+      scale: 1.5,
+      emotion: 'happy',
+    });
+
+    this.addCharacter('masha', this.masha);
+    this.addCharacter('shura', this.shura);
+  }
+
+  protected createHotspots(): void {}
+
+  protected playStage(stage: import('@/data/scenes/kids/act5_story_script').SceneStage): void {
+    super.playStage(stage);
+  }
+
+  protected playAmbientAudio(): void {}
+
+  protected transitionToNextScene(): void {
+    this.cameras.main.fadeOut(500);
+    this.time.delayedCall(500, () => {
+      this.scene.start(SCENES.ACT5_SCENE2);
+    });
+  }
+}

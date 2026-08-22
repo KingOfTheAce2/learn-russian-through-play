@@ -1,0 +1,88 @@
+# Dependencies
+node_modules/
+vendor/
+.pnp.*
+.yarn/
+
+# Build output
+dist/
+dist-itchio/
+dist-kids/
+dist-adults/
+build/
+out/
+*.bundle.js
+
+# Vite cache
+.vite/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+
+# claude-flow runtime
+.claude-flow/daemon.log
+.claude-flow/daemon.pid
+.claude-flow/daemon-state.json
+.claude-flow/metrics/
+.claude-flow/logs/
+
+# Game engine specific (Godot)
+.godot/
+*.import
+export_presets.cfg
+
+# Game engine specific (Unity)
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+
+# Game engine specific (Phaser/web)
+.cache/
+.parcel-cache/
+
+# Package lock files (uncomment if needed)
+# package-lock.json
+# yarn.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Temp files
+*.tmp
+*.bak
+*.orig

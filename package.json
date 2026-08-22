@@ -1,0 +1,23 @@
+{
+  "name": "russian-abcs-adventure",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:kids": "vite kids.html",
+    "dev:adults": "vite adults.html",
+    "build": "tsc && vite build",
+    "build:kids": "tsc && vite build --input kids.html",
+    "build:adults": "tsc && vite build --input adults.html",
+    "build:itchio": "tsc && vite build --config vite.config.itchio.ts",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vite": "^6.0.0"
+  }
+}

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learn Russian Alphabet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+    }
+
+    .container {
+      text-align: center;
+      padding: 2rem;
+      max-width: 1200px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      margin-bottom: 3rem;
+      opacity: 0.95;
+    }
+
+    .games {
+      display: flex;
+      gap: 2rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .game-card {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      padding: 2.5rem 2rem;
+      border-radius: 20px;
+      width: 320px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .game-card:hover {
+      transform: translateY(-10px);
+      background: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.4);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+    }
+
+    .game-card h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .game-card p {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 0.8rem;
+      opacity: 0.9;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background: white;
+      color: #667eea;
+      text-decoration: none;
+      border-radius: 50px;
+      font-weight: bold;
+      margin-top: 1.5rem;
+      transition: all 0.3s ease;
+      font-size: 1rem;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+
+    .features {
+      margin-top: 4rem;
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .features h3 {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .features ul {
+      list-style: none;
+      text-align: left;
+      display: inline-block;
+    }
+
+    .features li {
+      margin: 0.5rem 0;
+      font-size: 1rem;
+    }
+
+    .features li:before {
+      content: "✓ ";
+      font-weight: bold;
+      margin-right: 0.5rem;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .games {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .game-card {
+        width: 100%;
+        max-width: 400px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🇷🇺 Learn Russian Alphabet</h1>
+    <p class="subtitle">Master all 33 letters through interactive adventures</p>
+
+    <div class="games">
+      <div class="game-card" onclick="window.location.href='kids.html'">
+        <h2>🎮</h2>
+        <h3>Kids Edition</h3>
+        <p>Join Masha and Shura in a colorful village adventure!</p>
+        <p>Fun stories, playful characters, and exciting mini-games designed for young learners.</p>
+        <a href="kids.html" class="btn">Start Kids Game</a>
+      </div>
+
+      <div class="game-card" onclick="window.location.href='adults.html'">
+        <h2>💼</h2>
+        <h3>Professional Edition</h3>
+        <p>Learn practical Russian for real-world situations.</p>
+        <p>Business meetings, travel scenarios, and everyday conversations with a professional focus.</p>
+        <a href="adults.html" class="btn">Start Adult Game</a>
+      </div>
+    </div>
+
+    <div class="features">
+      <h3>What You'll Learn</h3>
+      <ul>
+        <li>All 33 Russian letters (Cyrillic alphabet)</li>
+        <li>Correct pronunciation with native audio</li>
+        <li>Letter recognition and writing practice</li>
+        <li>Practical vocabulary in context</li>
+        <li>Spaced repetition for long-term retention</li>
+        <li>Progress tracking and achievements</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
