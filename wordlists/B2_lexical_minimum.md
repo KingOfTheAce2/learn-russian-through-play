@@ -1,0 +1,3274 @@
+# Лексический минимум по русскому языку как иностранному. Второй сертификационный уровень (B2 / ТРКИ-2)
+
+*Lexical Minimum of Russian as a Foreign Language — Second Certification Level (B2, TRKI-2). 5th electronic edition. St. Petersburg: Zlatoust, 2014/2015.*
+
+Compiled by a team of teachers of the Faculty of Philology and the Centre for International Education of Lomonosov Moscow State University: N.P. Andryushina, I.N. Afanasyeva, G.A. Bitekhtina, L.P. Klobukova, I.I. Yatsenko, under the general editorship of N.P. Andryushina.
+
+This lexical minimum for the Second Certification Level (B2, TRKI-2) of general command of Russian as a foreign language contains approximately 5100 lexical units necessary and sufficient for the successful performance of the communicative tasks required at Level B2.
+
+## Предисловие
+
+The proposed lexical minimum for the Second Certification Level of general command of Russian as a foreign language (RFL) is a component of the Russian State Testing System for RFL. This system provides objective, unified control for determining the level of both general command of Russian and command of the language in professional and academic-scientific spheres of communication, regardless of the place, time, or form of instruction.
+
+Within the framework of the Russian testing system, the following levels of command of Russian are distinguished:
+
+- Elementary Level (ТЭУ)
+- Basic Level (ТБУ)
+- First Certification Level (ТРКИ-1)
+- Second Certification Level (ТРКИ-2)
+- Third Certification Level (ТРКИ-3)
+- Fourth Certification Level (ТРКИ-4)
+
+The Russian state multi-level testing system is incorporated into the European framework of language testing, ALTE. The levels of command of Russian as a foreign language correspond to the levels of command of European languages as follows: Elementary (ТЭУ) ≈ A1, Basic (ТБУ) ≈ A2, First Certification (ТРКИ-1) ≈ B1, Second Certification (ТРКИ-2) ≈ B2, Third Certification (ТРКИ-3) ≈ C1, Fourth Certification (ТРКИ-4) ≈ C2.
+
+Each level of command of Russian is based on a corresponding lexical minimum. The graduated series of lexical minimums created in this way has become an important component of the Russian State Testing System for Russian as a foreign language.
+
+The lexical minimum of the Elementary Level is maximally minimized and comprises 780 units; at the Basic Level the volume of the lexical minimum is about 1300 units; at the First Certification Level — 2300; at the Second — a little over 5000; at the Third — about 9000. Defining a lexical minimum for the Fourth Level is not relevant, since at that level a foreigner must command Russian at a level close to that of an educated native speaker. Thus, an approximate doubling of the thesaurus is one of the indicators of moving to the next, higher level of command of Russian as a foreign language.
+
+All components of the graduated dictionary series contain the most commonly used and stylistically neutral (with few exceptions) vocabulary of the modern Russian literary language. The dictionaries represent all parts of speech except interjections.
+
+The lexical minimum of each level has its own particular features. Compared with the word-list of the previous level, the word-list of the Second Certification Level has undergone certain changes.
+
+1. The volume of the word-list has doubled.
+2. The presentation of dictionary entries has also changed somewhat, although in its basic form it retains the same appearance as in the lexical minimums of previous levels. Thus, nouns denoting female persons are given within the same entry as the nouns denoting male persons. For example: африканец, мн.ч. африканцы; африканка.
+
+Adverbs ending in -о, -и are given together with the adjectives from which they are formed. For example: самостоятельный; самостоятельно, критический; критически. Other adverbs are placed in a separate dictionary entry. For example: больно, вдвоём, вдали, which is motivated by their greater thematic and functional activity compared with the corresponding adjectives, or by the adverb having a meaning of its own not characteristic of the adjective.
+
+3. In the lexical minimum of the Second Certification Level the number of polysemous words represented in their most commonly used and relevant lexico-semantic variants has significantly increased.
+
+4. The structure of the Appendix has changed; it now includes new sections: a) names of persons by nationality and place of residence; b) phraseological units, set expressions.
+
+The book does not contain thematic groups. This material (owing to its large volume) the authors intend to prepare for separate publication.
+
+In the minimum of the Second Level, as in the lexical minimums of previous levels, about 25% of the words make up passive vocabulary (i.e. vocabulary necessary only for the perception of information while reading and listening). Passive vocabulary includes:
+
+- fairly frequent vocabulary subject to obligatory activation at the Third Certification Level (for example, возмещать, предсказывать, наследство);
+- derived words containing word-formation elements that contribute to the formation of a potential vocabulary (несправедливость, осетрина, бездарный, бездельничать);
+- a small group of words with a fairly high frequency that are stylistically restricted in their use in speech (for example, ладно coll., визитка coll.), as well as words used in everyday situations (вешалка, домофон, etc.).
+
+The word-list presents various formulas of speech etiquette necessary for learners of Russian in solving relevant communicative tasks.
+
+The minimum does not include all words denoting male and female persons by nationality. The main word-list gives designations only for some nationalities. A fuller list of names of persons by nationality and place of residence is placed in the Appendix.
+
+The lexical minimum of the Second Certification Level contains about 5100 units and ensures that a foreigner can solve the communicative tasks defined by the standard of the Second Certification Level.
+
+Lexical units were selected according to the following criteria:
+1) semantic value (i.e. the ability of a word to denote objects and phenomena most frequently encountered in real life);
+2) the ability of a word to enter into various word combinations, i.e. the breadth of its semantic-syntactic connections;
+3) stylistic unmarkedness;
+4) frequency (data from frequency dictionaries, frequency of use in RFL textbooks, and also "thematic" frequency were taken into account);
+5) high word-formation potential.
+
+The lexical minimum consists of an alphabetical word-list and Appendices containing 5 sections. Appendix 1 gives names of persons by nationality and place of residence. Appendix 2 contains synonym pairs, Appendix 3 — antonyms and correlative words. These sections make it possible to better understand the meanings of words, their paradigmatic relations, and the specifics of their use in speech. The synonym series and antonym pairs are limited to the vocabulary included in the lexical minimum (word-list). In addition, function words are not included.
+
+The list of synonyms contains not only pairs but also synonym series. The list is presented in alphabetical order, so the same synonym may be repeated two or more times (for example: грустный — невесёлый, печальный; невесёлый — грустный, печальный; печальный — грустный, невесёлый).
+
+Synonym series present words of a single grammatical category, as well as phraseological and set combinations of words from the corresponding Appendix (for example: нравиться — быть по душе).
+
+Polysemous words enter a synonym group usually in one of their meanings; this meaning is indicated by a number in parentheses (for example: бедный (1) — нищий, бедный (2) — несчастный). Homonyms belonging to different synonym series are indicated by a number without parentheses, as in the main word-list (for example: мир 1 — земля, мир 2 — согласие).
+
+Words with emotional colouring were not included in the synonym series.
+
+In the list of antonyms, pairs of words are given in alphabetical order, so each antonym is represented twice in the list (for example: холодный — горячий; горячий — холодный).
+
+The list includes both antonyms with different roots (большой – маленький) and antonyms with the same root (вход — выход), except for words to which the prefix не- gives an antonymic meaning (привычный — непривычный).
+
+This section also gives correlative words (ад — рай, дети — взрослые).
+
+For the first time, the lexical minimum includes an Appendix containing phraseological units and set expressions (see Appendix 4). The authors consider this layer of vocabulary an integral part of the formation of a secondary linguistic personality. Mastery of this subsystem of the Russian language at this level will allow foreigners to better understand the living speech of native speakers and to master the peculiarities of word functioning in speech.
+
+Appendix 5 contains a limited range of linguistic terms necessary for mastering Russian grammar at this stage.
+
+In working on the word-list the compilers used Ozhegov's "Explanatory Dictionary of the Russian Language", Sklyarevskaya's "Explanatory Dictionary of the Russian Language of the Late 20th Century. Language Changes", Rozanova's "Concise Explanatory Dictionary for Foreigners", Evgenyeva's "Dictionary of Synonyms", Novikov's "Dictionary of Antonyms", Zasorina's "Frequency Dictionary", Shansky's "4000 Most Frequently Used Words of the Russian Language", and others.
+
+During 2003–2007 this lexical minimum underwent trial testing at Moscow State University in teaching Russian to foreign students and in preparing them for certification testing.
+
+The authors express their deep gratitude to Prof. I.P. Lysakova, Doctor of Philology, and Prof. G.M. Levina, Doctor of Pedagogy, for their careful reading of the manuscript and valuable comments that helped improve the final version.
+
+## Как пользоваться лексическим минимумом
+
+The order of words in the dictionary is alphabetical.
+
+The grammatical commentary in this book (as in the dictionary series as a whole) is presented in minimal volume, which is determined by the tasks it is meant to solve; therefore the set of grammatical labels in it is fairly limited.
+
+Words intended for active mastery are given in bold type; words offered for passive mastery are given in regular (non-bold) type.
+
+Stress is indicated in all words and their forms.
+
+The dictionary does not explain the meanings of words; instead, where necessary, illustrative phrases are given for a word. Illustrations are given when a word at this level should be mastered in only one of several possible meanings (for example, наблюдательный — наблюдательный человек), and also if a word has several meanings (for example, мягкий — 1) мягкий диван, 2) мягкий хлеб, 3) мягкий характер).
+
+Homonyms are given as separate entries and are marked with Arabic numerals, for example: долг 1, долг 2.
+
+Illustrations of different lexico-semantic variants of one word are marked with Arabic numerals with a bracket, for example: пакет 1) пакет молока 2) пакет акций 3) полиэтиленовый пакет.
+
+For all verbs an indication of aspect and conjugation type (I or II) is given.
+
+If a verb has specific inflectional forms, the dictionary gives, at the infinitive of imperfective verbs, the forms of the 1st and 2nd person singular (for example: доставать (достаю, достаёшь) нсв — достать (достану, достанешь) св) and the forms of the perfective past tense (for example: ложиться нсв II — лечь (прош.вр. лёг, легла, легли) св).
+
+For verbs with strong government, the corresponding questions (with or without a preposition) are given. For example: влиять нсв I — повлиять св I на что?; доказывать нсв I — доказать (докажу, докажешь) св что? кому?
+
+Although imperfective and perfective verbs are forms of one word, the authors nevertheless considered it necessary to present them as independent dictionary entries. Such an approach makes it much easier for the foreigner to find the word needed and helps to differentiate these forms in his mind. Thus, the arrangement of the lexical material proposed, in the opinion of the compilers, should promote understanding, mastery, and correct use of verbs of various aspects.
+
+Regarding the category of verbal aspect, the book gives the following information: for imperfective verbs (since they are taken as the basic aspectual form), the corresponding perfective verbs are indicated (for example: выяснять нсв I — выяснить св II); for perfective verbs a cross-reference to the corresponding imperfective verb is given (for example: одобрить св см. одобрять); the absence of an aspectual pair for a verb means that: a) the correlate is absent from the language system, in which case the labels are used: только нсв, только св (for example: заплакать только св); b) the correlate is not relevant for this level of command of Russian (for example: волноваться нсв); for two-aspect verbs the label нсв и св is given (for example: адаптироваться нсв и св).
+
+Adjectives are given in the nominative singular masculine form, with the feminine and neuter singular endings and the nominative plural ending given alongside (for example: заботливый, -ая, -ое, -ые; мягкий, -ая, -ое, -ие).
+
+Adverbs (syntactic derivatives) are given together with the adjectives from which they are formed. Homonymous forms of the comparative degree of adjectives and adverbs are given in one dictionary entry with the corresponding source words, with the label сравн.ст.
+
+For example: громкий, -ая, -ое, -ие; громко сравн. ст. громче.
+
+This lexical minimum uses abbreviations and the following labels:
+
+The sign / is used to present variant forms of verbal government (for example: переходить что? / через что?; начинать что? / + инф. нсв);
+
+сущ. — after nouns homonymous with adjectives (for example: мороженое сущ., учёный сущ.). In other cases the label indicating part of speech is absent;
+
+ж.р. — after feminine nouns ending in -ь (for example: новость ж.р.). In other cases the label indicating feminine gender of the noun is absent;
+
+м.р. — after masculine nouns with the ending -а (for example: юноша м.р.) and indeclinable nouns (for example: кофе м.р.). In other cases the label indicating masculine gender of the noun is absent;
+
+ср.р. — after nouns with non-standard endings (for example: имя ср.р.) and indeclinable nouns (for example: такси ср.р.). In other cases the label indicating neuter gender of the noun is absent;
+
+р.п., д.п., в.п., т.п., п.п. — denote the corresponding cases of Russian and are placed after prepositions with which they are used (for example: до + р.п.). In cases where there are peculiarities in the formation of case forms, the genitive form is given as an illustration with the label р.п. (for example: лоб, р.п. лба);
+
+неизм. — indeclinable form; this label is placed after indeclinable nouns (for example: хобби неизм.);
+
+ед.ч. — used when the genitive singular form is given, formed according to a non-standard model (for example: звонок, р.п. ед.ч. звонка), and when the singular form is given after nouns used mainly in the plural (for example: лыжи мн.ч.; ед.ч. лыжа);
+
+только ед.ч. — after singularia tantum nouns (for example: баскетбол только ед.ч.);
+
+ум. — after nouns with a diminutive meaning;
+
+мн.ч. — after nouns used mainly in the plural (for example: коньки мн.ч.), and before nouns forming the plural according to a non-standard model (for example: марка; р.п. мн.ч. марок; стул; р.п. мн.ч. стульев);
+
+только мн.ч. — placed after pluralia tantum nouns (for example: очки только мн.ч.);
+
+безл. — after impersonal verbs (for example: приходиться II нсв — прийтись I св безл.);
+
+инф. — for illustrating verb government;
+
+нсв — after the infinitive of imperfective verbs (for example: мешать нсв);
+
+св — after the infinitive of perfective verbs (for example: произвести св);
+
+нсв и св — after the infinitive of two-aspect verbs (for example: исследовать нсв и св);
+
+прош.вр. — past tense of the verb;
+
+л. — person of the verb (in the book, as a rule, 1st and 2nd person);
+
+см. — for a cross-reference to the imperfective verb, and also in the Appendix (terms);
+
+не употр. — placed when a given verb form is not used or is used extremely rarely (for example: исполниться св II (1 и 2 л. не употр.);
+
+кр.ф. — this label is used in the following cases: when the short form has a meaning different from the meanings of the full form of the adjective (for example: мал, -а, -о, -ы кр.ф. (от маленький); велик, -а, -о, -и кр.ф. (от большой)); when the short form is more frequent than the corresponding full form (for example: закрыт, -а, -о, -ы кр.ф. (от закрытый));
+
+разг. — for words used in the sphere of informal communication (for example: визитка разг., маршрутка разг.).
+
+## Список сокращений
+
+- ж.р. — женский род (feminine gender)
+- м.р. — мужской род (masculine gender)
+- ср.р. — средний род (neuter gender)
+- ед.ч. — единственное число (singular)
+- мн.ч. — множественное число (plural)
+- сущ. — имя существительное (noun)
+- им.п. — именительный падеж (nominative case)
+- р.п. — родительный падеж (genitive case)
+- д.п. — дательный падеж (dative case)
+- в.п. — винительный падеж (accusative case)
+- т.п. — творительный падеж (instrumental case)
+- п.п. — предложный падеж (prepositional case)
+- кр.ф. — краткая форма (short form)
+- неизм. — неизменяемая форма (indeclinable form)
+- сравн.ст. — сравнительная степень (comparative degree)
+- безл. — безличное (impersonal)
+- л. — лицо глагола (person of the verb)
+- инф. — инфинитив, неопределённая форма глагола (infinitive)
+- нсв — несовершенный вид глагола (imperfective aspect)
+- св — совершенный вид глагола (perfective aspect)
+- прош.вр. — прошедшее время глагола (past tense)
+- I — модель изменения глаголов I спряжения (1st conjugation pattern)
+- II — модель изменения глаголов II спряжения (2nd conjugation pattern)
+- см. — смотри (see)
+- не употр. — не употребляется (not used)
+- разг. — разговорное (colloquial)
+- ум. — уменьшительное (diminutive)
+
+# Часть I. Лексический минимум (алфавитный словник)
+
+## А
+
+- **а** — and, but
+- **абзац** — paragraph
+- **аборт** — abortion
+- **абрикос** — apricot
+- **абсолютный, -ая, -ое, -ые; абсолютно** — absolute; absolutely
+- **абстрактный, -ая, -ое, -ые; абстрактно** — abstract; abstractly
+- **абсурд** — absurdity
+- **абсурдный, -ая, -ое, -ые** — absurd
+- **авария** — accident, crash
+- **август** — August
+- **автобиография** — autobiography
+- **автобус** — bus
+- **автобусный, -ая, -ое, -ые** — bus (adj.)
+- **автомат** — automatic machine
+- **автоматически** — automatically
+- **автомобиль** — car
+- **автономный, -ая, -ое, -ые** — autonomous
+- **автоответчик** — answering machine
+- **автор** — author
+- **авторитет** — authority
+- **агент** — agent
+- **агентство** — agency
+- **агрессивный, -ая, -ое, -ые; агрессивно** — aggressive; aggressively
+- **ад** — hell
+- **адаптироваться (адаптируюсь, адаптируешься) нсв I и св I к чему?** — to adapt (to)
+- **адвокат** — lawyer
+- **адекватный, -ая, -ое, -ые; адекватно** — adequate; adequately
+- **административный, -ая, -ое, -ые** — administrative
+- **администратор** — administrator
+- **администрация** — administration
+- **адрес — почтовый адрес, электронный адрес** — address — postal address, e-mail address
+- **азартный, -ая, -ое, -ые; азартно** — passionate/reckless (gambling); recklessly
+- **азиатский, -ая, -ое, -ие** — Asian
+- **академик** — academician
+- **академия** — academy
+- **акварель ж.р.** — watercolour
+- **аккуратный, -ая, -ое, -ые; аккуратно** — neat, careful; neatly, carefully
+- **акт 1) террористический акт 2) трагедия в 3 актах 3) законодательный акт** — act: 1) act of terror 2) tragedy in 3 acts 3) legislative act
+- **актёр; актриса** — actor; actress
+- **активный, -ая, -ое, -ые; активно** — active; actively
+- **актуальный, -ая, -ое, -ые; актуально** — topical, urgent; topically
+- **акцент** — accent
+- **акционерный, -ая, -ое, -ые** — joint-stock
+- **акция 1) акции предприятия 2) акция протеста** — share/action: 1) company shares 2) protest action
+- **алгебра** — algebra
+- **алкоголь только ед.ч.** — alcohol
+- **аллергия только ед.ч.** — allergy
+- **аллея** — alley
+- **алфавит** — alphabet
+- **альбом** — album
+- **альпинист** — mountain climber
+- **американец; мн.ч. американцы; американка; р.п. мн.ч. американок** — American (man; woman)
+- **американский, -ая, -ое, -ие** — American (adj.)
+- **анализ** — analysis
+- **анализировать (анализирую, анализируешь) нсв I — проанализировать (проанализирую, проанализируешь) св I что?** — to analyse
+- **ананас** — pineapple
+- **анатомия только ед.ч.** — anatomy
+- **ангел** — angel
+- **ангина** — tonsillitis
+- **английский, -ая, -ое, -ие** — English
+- **англичанин; мн.ч. англичане р.п. мн.ч. англичан; англичанка; р.п. мн.ч. англичанок** — Englishman; Englishwoman
+- **англо-русский, -ая, -ое, -ие** — English-Russian
+- **анекдот** — funny story, joke
+- **анкета** — questionnaire
+- **ансамбль** — ensemble
+- **анти- (антивоенный, антисанитарный и т. д.)** — anti- (anti-war, unsanitary, etc.)
+- **антибиотик** — antibiotic
+- **антисемитизм только ед.ч.** — anti-Semitism
+- **античный, -ая, -ое, -ые** — ancient, classical
+- **антракт** — intermission
+- **апельсин** — orange
+- **аплодировать (аплодирую, аплодируешь) нсв I** — to applaud
+- **аплодисменты только мн.ч.** — applause
+- **аппетит** — appetite
+- **апрель** — April
+- **аптека** — pharmacy
+- **арбуз** — watermelon
+- **аргумент** — argument, reason
+- **аргументировать (аргументирую, аргументируешь) нсв I и св I что?** — to argue, to give reasons
+- **аренда только ед.ч.** — rent, lease
+- **арендовать (арендую, арендуешь) нсв I и св I** — to rent, to lease
+- **арест** — arrest
+- **арестовать св см. арестовывать** — to arrest
+- **арестовывать нсв I — арестовать (арестую, арестуешь) св I кого?** — to arrest
+- **армия** — army
+- **аромат** — aroma
+- **ароматный, -ая, -ое, -ые** — aromatic
+- **артист; артистка; р.п. мн.ч. артисток** — performer, artiste
+- **археолог** — archaeologist
+- **археология только ед.ч.** — archaeology
+- **архитектор** — architect
+- **архитектура только ед.ч.** — architecture
+- **архитектурный, -ая, -ое, -ые** — architectural
+- **аспирант; аспирантка; р.п. мн.ч. аспиранток** — postgraduate student
+- **аспирантура** — postgraduate study
+- **атеизм только ед.ч.** — atheism
+- **атлетика только ед.ч.** — athletics
+- **атмосфера** — atmosphere
+- **атомный, -ая, -ое, -ые** — atomic
+- **аудирование** — listening comprehension
+- **аудитория** — lecture-hall
+- **аукцион** — auction
+- **афиша** — poster
+- **африканец, мн.ч. африканцы; африканка, р.п. мн.ч. африканок** — African (man; woman)
+- **африканский, -ая, -ое, -ие** — African (adj.)
+- **аэропорт** — airport
+
+## Б
+
+- **бабушка; р.п. мн.ч. бабушек** — grandmother
+- **багаж только ед.ч.** — luggage
+- **бадминтон только ед.ч.** — badminton
+- **база 1) материальная, техническая база 2) военная база 3) туристическая база 4) база данных** — base: 1) resource base 2) military base 3) tourist camp 4) database
+- **базар** — market, bazaar
+- **бакалавр** — bachelor (degree)
+- **баклажан** — aubergine
+- **бал** — ball, dance
+- **балалайка; р.п. мн.ч. балалаек** — balalaika
+- **балерина** — ballerina
+- **балет** — ballet
+- **балкон** — balcony
+- **балл** — mark, point
+- **баловать (балую, балуешь) нсв I — избаловать (избалую, избалуешь) св I кого?** — to spoil
+- **баловаться (балуюсь, балуешься) нсв I** — to fool around
+- **банан** — banana
+- **бандероль ж.р.** — postal package
+- **банк** — bank
+- **банка; р.п. мн.ч. банок** — can, jar
+- **банкет** — banquet
+- **банкир** — banker
+- **банкомат** — cash machine, ATM
+- **банкрот** — bankrupt
+- **баня** — bath-house
+- **бар** — bar, pub
+- **барабан** — drum (musical instrument)
+- **баран** — ram (male sheep)
+- **баранина только ед.ч.** — mutton
+- **баранка; р.п. мн.ч. баранок** — baranka (ring-shaped roll)
+- **бас — петь басом** — bass — to sing bass
+- **баскетбол только ед.ч.** — basketball
+- **баскетболист; баскетболистка; р.п. мн.ч. баскетболисток** — basketball player
+- **бассейн** — swimming pool
+- **бастовать (бастую, бастуешь) нсв I** — to be on strike
+- **батон** — long loaf
+- **башня; р.п. мн.ч. башен** — tower
+- **бегать нсв I** — to run (multidirectional)
+- **бегун; бегунья; р.п. мн.ч. бегуний** — runner
+- **беда** — misfortune, trouble
+- **беднеть нсв I — обеднеть св I** — to become poorer
+- **бедность ж.р., только ед.ч.** — poverty
+- **бедный, -ая, -ое, -ые; бедно 1) Он бедный человек: у него нет денег. 2) Бедный Антон, он так долго болеет!** — poor; poorly: 1) He is a poor man: he has no money. 2) Poor Anton, he has been ill for so long!
+- **бедствие — стихийное бедствие** — disaster — natural disaster
+- **бежать (бегу, бежишь) только нсв I куда? откуда?** — to run (unidirectional)
+- **бежевый, -ая, -ое, -ые** — beige
+- **беженец; мн.ч. беженцы, р.п. мн.ч. беженцев; беженка; р.п. мн.ч. беженок** — refugee
+- **без (безо) + р.п.** — without
+- **безвкусный, -ая, -ое, -ые; безвкусно 1) безвкусная еда 2) безвкусная одежда** — tasteless; in poor taste: 1) tasteless food 2) tasteless clothes
+- **безвыходный, -ая, -ое, -ые — безвыходная ситуация** — desperate — desperate situation
+- **безграмотный, -ая, -ое, -ые; безграмотно** — illiterate; illiterately
+- **безграничный, -ая, -ое, -ые; безгранично** — boundless, unlimited; infinitely
+- **бездарный, -ая, -ое, -ые; бездарно** — untalented; without talent
+- **бездействовать (бездействую, бездействуешь) только нсв I** — to be inactive
+- **бездельничать только нсв I** — to idle, to loaf
+- **бездетный, -ая, -ое, -ые** — childless
+- **бездушный, -ая, -ое, -ые** — soulless
+- **беззаботный, -ая, -ое, -ые; беззаботно** — carefree; carelessly
+- **беззащитный, -ая, -ое, -ые** — defenceless
+- **безлюдный, -ая, -ое, -ые; безлюдно** — deserted; it's deserted
+- **безнадёжный, -ая, -ое, -ые; безнадёжно** — hopeless; hopelessly
+- **безнравственный, -ая, -ое, -ые; безнравственно** — immoral; immorally
+- **безобразный, -ая, -ое, -ые; безобразно** — ugly, outrageous; disgracefully
+- **безопасность ж.р. только ед.ч.** — safety
+- **безопасный, -ая, -ое, -ые; безопасно** — safe; safely
+- **безработица только ед.ч.** — unemployment
+- **безработный, -ая, -ые сущ.** — unemployed (person)
+- **безусловно** — certainly, of course
+- **бекон только ед.ч.** — bacon
+- **белеть нсв I — побелеть св I** — to whiten, to turn white
+- **белка; р.п. мн.ч. белок** — squirrel
+- **белок, р.п. ед.ч. белка — яичный белок** — protein; white — egg white
+- **белый, -ая, -ое, -ые** — white
+- **бельё только ед.ч.** — underwear, linen
+- **бензин только ед.ч.** — petrol, fuel
+- **берег** — bank (of a river), shore
+- **бережливый, -ая, -ое, -ые** — thrifty, economical
+- **бережно** — carefully
+- **берёза** — birch
+- **беременная, -ые** — pregnant
+- **берет** — beret
+- **беречь (берегу, бережёшь; прош.вр. берёг, берегла, берегли) нсв I — сберечь (сберегу, сбережёшь; прош.вр. сберёг, сберегла, сберегли) св I кого? что?** — to keep, to protect, to save
+- **беседа** — conversation
+- **беседка; р.п. мн.ч. беседок** — garden house, pavilion
+- **беседовать (беседую, беседуешь) нсв I — побеседовать (побеседую, побеседуешь) св I о ком? о чём? с кем?** — to talk, to converse
+- **бесконечный, -ая, -ое, -ые; бесконечно** — endless; endlessly
+- **бескорыстный, -ая, -ое, -ые; бескорыстно** — unmercenary, selfless; selflessly
+- **бесплатный, -ая, -ое, -ые; бесплатно** — free (of charge)
+- **беспокоить нсв II кого?** — to bother, to disturb
+- **беспокоиться нсв II о ком? о чём?** — to worry (about)
+- **беспокойный, -ая, -ое, -ые; беспокойно** — anxious, restless; anxiously
+- **бесполезный, -ая, -ое, -ые; бесполезно** — useless; uselessly
+- **беспомощный, -ая, -ое, -ые** — helpless
+- **беспорядок, р.п. ед.ч. беспорядка 1) только ед.ч. — беспорядок в комнате 2) только мн.ч. — беспорядки в стране** — disorder, mess: 1) mess in the room 2) disorders in the country
+- **бесправный, -ая, -ое, -ые** — rightless, deprived of rights
+- **бессмысленный, -ая, -ое, -ые; бессмысленно** — senseless; senselessly
+- **бессовестный, -ая, -ое, -ые** — shameless
+- **бессонница только ед.ч.** — insomnia
+- **бессрочный, -ая, -ое, -ые** — indefinite, termless
+- **бестактный, -ая, -ое, -ые; бестактно** — tactless; tactlessly
+- **бесцветный, -ая, -ое, -ые** — colourless
+- **бесценный, -ая, -ое, -ые** — priceless
+- **бесшумный, -ая, -ое, -ые; бесшумно** — noiseless; noiselessly
+- **бетон только ед.ч.** — concrete
+- **библиотека** — library
+- **библиотекарь** — librarian
+- **Библия** — Bible
+- **бизнес только ед.ч.** — business
+- **бизнесмен** — businessman
+- **билет 1) билет на поезд 2) билет на концерт 3) экзаменационный билет** — ticket: 1) train ticket 2) concert ticket 3) exam paper
+- **бильярд** — billiards
+- **биография** — biography
+- **биолог** — biologist
+- **биологический, -ая, -ое, -ие** — biological
+- **биология** — biology
+- **биржа** — stock exchange
+- **бить (бью, бьёшь) нсв I — избить (изобью, изобьёшь) св I; разбить (разобью, разобьёшь) св I 1) кого? — Его избили. 2) что? — Антон разбил стакан.** — to beat, to hit; to break: 1) He was beaten up. 2) Anton broke the glass.
+- **благодарить нсв II — поблагодарить св II кого? за что?** — to thank
+- **благодарный, -ая, -ое, -ые** — grateful
+- **благодаря + д.п.** — thanks to
+- **благородный, -ая, -ое, -ые; благородно** — noble; nobly
+- **благотворительный, -ая, -ое, -ые** — charitable
+- **бланк** — form
+- **бледнеть нсв I — побледнеть св I** — to turn pale
+- **бледный, -ая, -ое, -ые** — pale
+- **блестеть нсв II** — to shine, to glitter
+- **блестящий, -ая, -ее, -ие 1) блестящие украшения 2) блестящее выступление** — shiny, brilliant: 1) shiny jewellery 2) brilliant performance
+- **близкий, -ая, -ое, -ие; близко; сравн.ст. ближе 1) Аптека близко. 2) Это наши близкие родственники. 3) Олег — мой близкий друг.** — close, near: 1) The chemist's is nearby. 2) These are our close relatives. 3) Oleg is my close friend.
+- **близнецы мн.ч.; ед.ч. близнец** — twins; twin
+- **блины мн.ч.; ед.ч. блин** — pancakes; pancake
+- **блок 1) политический блок 2) блок сигарет** — bloc/block: 1) political bloc 2) block (carton) of cigarettes
+- **блокнот** — notepad
+- **блондин; блондинка; р.п. мн.ч. блондинок** — blond(e)
+- **блузка; р.п. мн.ч. блузок** — blouse
+- **блюдо 1) серебряное блюдо 2) вкусное блюдо** — dish: 1) silver dish 2) tasty dish
+- **блюдце; р.п. мн.ч. блюдец** — saucer
+- **бог** — god
+- **богатеть нсв I — разбогатеть св I** — to grow rich
+- **богатство** — richness, wealth
+- **богатый, -ая, -ое, -ые; богато** — rich; richly
+- **боевик — смотреть боевик** — action movie — to watch an action movie
+- **бой** — battle, combat
+- **бок** — side
+- **бокал** — wineglass
+- **бокс только ед.ч.** — boxing
+- **боксёр** — boxer
+- **более** — more
+- **болезнь ж.р.** — illness
+- **болельщик** — fan (sports)
+- **болеть 1 нсв I — заболеть 1 св I 1) чем? — гриппом 2) за кого? за что? только нсв — болеть за футбольную команду** — to be ill; to fall ill: 1) with the flu 2) to root for a football team
+- **болеть 2 — заболеть 2 (1 и 2 л. не употр.) — Болит голова.** — to ache — My head aches
+- **болотистый, -ая, -ое, -ые** — swampy
+- **болото** — swamp, marsh
+- **болтать нсв I — поболтать св I разг. — болтать по телефону** — to chat — to chat on the phone
+- **боль ж.р.** — pain
+- **больница** — hospital
+- **больной, -ая, -ое, -ые; больно; болен, -на, -но, -ны кр. ф. 1) больной зуб 2) больное общество** — ill, sore; painful: 1) sore tooth 2) sick society
+- **больной, -ая, -ые сущ.** — sick person, patient
+- **большинство только ед.ч.** — majority
+- **большой, -ая, -ое, -ие; сравн. ст. больше** — big; bigger, more
+- **бомба** — bomb
+- **бомбить нсв II что?** — to bomb
+- **бомж** — homeless person
+- **борец, р.п. ед.ч. борца; мн.ч. борцы** — fighter, wrestler
+- **борода** — beard
+- **бородатый, -ая, -ое, -ые** — bearded
+- **бороться (борюсь, борешься) только нсв I за что? против чего? / с кем? с чем?** — to fight, to struggle
+- **борщ** — borsch (beet soup)
+- **борьба только ед.ч. 1) соревнования по борьбе 2) борьба с инфляцией** — struggle, wrestling: 1) wrestling competition 2) fight against inflation
+- **босоножки мн.ч., р.п. мн.ч. босоножек; ед.ч. босоножка** — sandals; sandal
+- **ботаник** — botanist
+- **ботаника только ед.ч.** — botany
+- **ботинки мн.ч.; р.п. мн.ч. ботинок; ед.ч. ботинок, р.п. ед.ч. ботинка** — boots; boot
+- **бояться (боюсь, боишься) только нсв II кого? чего? / + инф.** — to be afraid (of)
+- **брак 1 — вступить в брак** — marriage — to marry
+- **брак 2 только ед.ч. — товар с браком** — defect, reject — faulty goods
+- **браслет** — bracelet
+- **брат; мн.ч. братья, р.п. мн.ч. братьев** — brother
+- **брать (беру, берёшь) нсв I — взять (возьму, возьмёшь) св I кого? что? 1) взять ребёнка на руки 2) брать брата в кино, вещи в поездку 3) взять билеты в театр 4) брать деньги в долг 5) взять такси** — to take: 1) to take a child in one's arms 2) to take one's brother to the cinema, to take things on a trip 3) to buy theatre tickets 4) to borrow money 5) to take a taxi
+- **бредить (брежу, бредишь) только нсв II** — to rave, to be delirious
+- **брести (бреду, бредёшь, прош.вр. брёл, брела, брели) только нсв I куда? откуда?** — to trudge, to plod
+- **бриллиант** — diamond
+- **бритва** — razor
+- **бриться (бреюсь, бреешься) нсв I — побриться (побреюсь, побреешься) св I** — to shave (oneself)
+- **брови мн.ч.; ед.ч. бровь ж.р.** — eyebrows; eyebrow
+- **бродить (брожу, бродишь) только нсв II где? — бродить по лесу** — to wander, to roam — to wander in the forest
+- **бронировать (бронирую, бронируешь) нсв I — забронировать (забронирую, забронируешь) св I что? — забронировать номер в гостинице, билеты** — to book, to reserve — to book a hotel room, tickets
+- **бронхит** — bronchitis
+- **бросать нсв I — бросить (брошу, бросишь) св II кого? что? / + инф. 1) бросать мяч 2) бросить курить 3) бросить работу, семью** — to throw, to give up, to abandon: 1) to throw a ball 2) to give up smoking 3) to leave one's job, family
+- **бросить св см. бросать** — to throw, to give up, to abandon
+- **брошь ж.р.; брошка; р.п. мн.ч. брошек** — brooch
+- **брюки только мн.ч.** — trousers
+- **брюнет; ж.р. брюнетка; р.п. мн.ч. брюнеток** — brunet(te)
+- **буддизм только ед.ч.** — Buddhism
+- **буддист** — Buddhist
+- **будильник** — alarm clock
+- **будить (бужу, будишь) нсв II — разбудить (разбужу, разбудишь) св II кого?** — to wake (someone) up
+- **будни только мн.ч.; р.п. будней** — weekdays
+- **будто (бы)** — as if
+- **будущее сущ., только ед.ч.** — the future
+- **будущий, -ая, -ее, -ие** — future (adj.)
+- **буква** — letter (of alphabet)
+- **букет** — bouquet
+- **булка; р.п.мн.ч. булок** — white bread roll
+- **булочка; р.п. мн.ч. булочек** — bun, roll
+- **булочная сущ.** — bakery
+- **бульвар** — boulevard
+- **бульон** — broth, bouillon
+- **бумага 1) только ед.ч. — бумага для письма 2) подписать бумаги у директора** — paper: 1) writing paper 2) to sign papers at the director's office
+- **бумажник** — wallet
+- **бумажный, -ая, -ое, -ые** — paper (adj.)
+- **буржуазный, -ая, -ое, -ые** — bourgeois
+- **буря** — storm
+- **бусы только мн.ч.** — beads, bead necklace
+- **бутерброд** — sandwich
+- **бутылка; р.п. мн.ч. бутылок** — bottle
+- **буфет** — buffet, snack bar
+- **буханка; р.п. мн.ч. буханок** — loaf (of bread)
+- **бы, б — Если б я знал...; я хотел бы...** — would, if — If only I knew...; I would like to...
+- **бывать нсв I — побывать св I 1) 1 и 2 л. не употр. — Такие случаи бывают редко. 2) где? — Андрей часто бывает в Петербурге.** — to happen, to occur; to visit: 1) Such occasions happen seldom. 2) Andrey often visits Petersburg.
+- **бывший, -ая, -ее, -ие** — former, ex-
+- **бык** — bull
+- **быстрый, -ая, -ое, -ые; быстро** — fast, quick; quickly
+- **быт только ед.ч.** — everyday life
+- **бытовой, -ая, -ое, -ые** — household, everyday (adj.)
+- **быть (буду, будешь) только нсв I 1) где? у кого? — Мы были на даче, у друга. 2) Вчера был дождь. 3) кем? — Саша хочет быть инженером.** — to be: 1) We were at the dacha, at a friend's. 2) Yesterday it rained. 3) Sasha wants to be an engineer.
+- **бюджет** — budget
+- **бюро неизм. — туристическое бюро** — bureau, office — travel agency
+- **бюрократ** — bureaucrat
+
+## В
+
+- **в; во 1) в.п. куда? — войти в комнату 2) в.п. когда? — в среду 3) п.п. когда? — в январе, в детстве 4) п.п. где? — быть в музее 5) п.п. в чём? — девушка в куртке** — in, into, at, on: 1) to enter the room 2) on Wednesday 3) in January, in childhood 4) in the museum 5) girl in a jacket
+- **вагон** — carriage, coach
+- **важный, -ая, -ое, -ые; важно** — important; it's important
+- **ваза** — vase
+- **вальс** — waltz
+- **валюта** — currency
+- **ванна** — bathtub
+- **ванная сущ.** — bathroom
+- **варежки мн.ч., р.п. мн.ч. варежек; ед.ч. варежка, р.п. ед.ч. варежки** — mittens; mitten
+- **варенье** — jam
+- **варёный, -ая, -ое, -ые** — boiled
+- **вариант** — variant, version
+- **варить нсв II — сварить св II что?** — to cook, to boil
+- **вата только ед.ч.** — cotton wool
+- **ватрушка; р.п. мн.ч. ватрушек** — curd tart
+- **вафли мн.ч., р.п. вафель; ед.ч. вафля** — wafers; wafer
+- **ваш, -а, -е, -и** — your, yours
+- **вбегать нсв I — вбежать (вбегу, вбежишь) св I куда?** — to run in
+- **вбежать св I см. вбегать** — to run in
+- **ввезти св I см. ввозить** — to bring in, to import
+- **вверх** — up, upwards
+- **вверху** — above, up top
+- **ввести св см. вводить** — to lead in, to introduce
+- **вводить (ввожу, вводишь) нсв II — ввести (введу, введёшь; прош.вр. ввёл, ввела) св I кого? что? куда? откуда?** — to lead in, to introduce
+- **ввоз только ед.ч.** — import
+- **ввозить (ввожу, ввозишь) нсв II — ввезти (ввезу, ввезёшь) св I кого? что? куда? откуда?** — to bring in, to import
+- **вглядеться св см. вглядываться** — to peer into
+- **вглядываться нсв I — вглядеться (вгляжусь, вглядишься) св II в кого? во что?** — to peer into
+- **вдали** — in the distance, far off
+- **вдаль** — into the distance
+- **вдвое** — twice, double
+- **вдвоём** — both, the two of (them/us)
+- **вдовец, р.п. вдовца; мн.ч. вдовцы; вдова** — widower; widow
+- **вдоль + р.п.** — along
+- **вдохновение только ед.ч.** — inspiration
+- **вдруг** — suddenly
+- **вегетарианец, р.п. ед.ч. вегетарианца; мн.ч. вегетарианцы** — vegetarian
+- **ведро; мн.ч. вёдра, р.п. мн.ч. вёдер** — bucket
+- **ведущий, -ая, -ие сущ. — ведущий программы** — presenter — programme presenter
+- **ведь** — after all, indeed
+- **вежливый, -ая, -ое, -ые; вежливо** — polite; politely
+- **везде** — everywhere
+- **везти 1 (везу, везёшь; прош.вр. вёз, везла, везли) только нсв I кого? что? куда? откуда?** — to carry, to convey (by transport)
+- **везти 2 (везёт) безл. нсв I — повезти 2 (повезёт) св I кому? в чём? с чем? — Ему везёт в жизни. Ему повезло с работой.** — to be lucky — He is lucky in life. He was lucky with his job.
+- **везучий, -ая, -ее, -ие** — lucky
+- **век** — century
+- **веко; мн.ч. веки** — eyelid
+- **велик, -а, -о, -и кр.ф. — Этот костюм мне велик.** — too big — This suit is too big for me.
+- **великий, -ая, -ое, -ие** — great
+- **великолепный, -ая, -ое, -ые; великолепно** — splendid, magnificent; splendidly
+- **велогонка; р.п. мн.ч. велогонок** — bicycle race
+- **велосипед** — bicycle
+- **велосипедист** — cyclist
+- **веник** — besom, broom
+- **венчаться нсв I — обвенчаться св I** — to get married (in church)
+- **вера только ед.ч.** — faith, belief
+- **верблюд** — camel
+- **верёвка; р.п. мн.ч. верёвок** — rope, string
+- **верить нсв II — поверить св II кому? чему? / в кого? во что?** — to believe (in)
+- **вермишель ж.р., только ед.ч.** — vermicelli
+- **верность ж.р., только ед.ч.** — faithfulness, loyalty
+- **вернуть св см. возвращать** — to give back, to return
+- **вернуться св см. возвращаться** — to return, to come back
+- **верный, -ая, -ое, -ые; верно 1) верное решение 2) верный друг** — correct, true, faithful; correctly: 1) correct decision 2) faithful friend
+- **вероятно** — probably
+- **вероятность ж.р., только ед.ч.** — probability
+- **версия** — version
+- **вертикальный, -ая, -ое, -ые; вертикально** — vertical; vertically
+- **вертолёт** — helicopter
+- **верующий, -ая, -ие сущ.** — believer
+- **верх** — top, upper part
+- **верхний, -яя, -ее, -ие** — upper
+- **вершина** — peak, summit
+- **вес только ед.ч.** — weight
+- **веселиться только нсв II** — to have fun, to enjoy oneself
+- **весенний, -яя, -ее, -ие** — spring (adj.)
+- **весёлый, -ая, -ое, -ые; весело** — merry, jolly; merrily
+- **весить (вешу, весишь) только нсв I — Ребёнок весит 10 кг.** — to weigh — The child weighs 10 kg.
+- **весна; мн.ч. вёсны, р.п.мн.ч. вёсен** — spring (season)
+- **весной** — in spring
+- **вести (веду, ведёшь; прош.вр. вёл, вела, вели) нсв I 1) кого? куда? откуда? — вести сына из парка домой 2) что? — вести машину 3) что? — вести домашнее хозяйство 4) что? — вести дневник, разговор, урок 5) вести себя — Ребёнок ведёт себя хорошо.** — to lead, to conduct: 1) to lead one's son home from the park 2) to drive a car 3) to run a household 4) to keep a diary, to hold a conversation/lesson 5) to behave — The child behaves well.
+- **весы только мн.ч.** — scales
+- **весь, вся, всё, все** — all, the whole
+- **ветер, р.п. ед.ч. ветра** — wind
+- **ветеран** — veteran
+- **ветка; р.п. мн.ч. веток** — branch, twig
+- **ветчина только ед.ч.** — ham
+- **вечер** — evening
+- **вечеринка; р.п. мн.ч. вечеринок** — party
+- **вечерний, -яя, -ее, -ие** — evening (adj.)
+- **вечером** — in the evening
+- **вечный, -ая, -ое, -ые; вечно** — everlasting, eternal; eternally, forever
+- **вешалка; р.п. мн.ч. вешалок** — hanger
+- **вешать нсв I — повесить (повешу, повесишь) св I что? куда?** — to hang
+- **вещь ж.р.** — thing
+- **взаимный, -ая, -ое, -ые; взаимно** — mutual; mutually
+- **взаимо- — взаимодействие, взаимосвязь** — inter- — interaction, interrelation
+- **взвесить св I см. взвешивать** — to weigh (something)
+- **взвешивать нсв I — взвесить (взвешу, взвесишь) св I кого? что?** — to weigh (something)
+- **взволнованный, -ая, -ое, -ые; взволнованно** — excited; excitedly
+- **взволновать св см. волновать** — to excite, to alarm
+- **взгляд 1) весёлый взгляд 2) взгляд на жизнь** — look, view: 1) cheerful look 2) view of life
+- **взглянуть св I** — to glance
+- **вздохнуть св I см. вздыхать** — to sigh
+- **вздрагивать нсв I — вздрогнуть св I** — to shudder, to flinch
+- **вздрогнуть св I см. вздрагивать** — to shudder, to flinch
+- **вздыхать нсв I — вздохнуть св I** — to sigh
+- **взлетать нсв I — взлететь (взлечу, взлетишь) св II** — to fly up, to take off
+- **взлететь св II см. взлетать** — to fly up, to take off
+- **взорвать св II см. взрывать** — to blow up
+- **взрослый, -ая, -ое, -ые** — adult (adj.)
+- **взрослый, -ые сущ.** — adult (noun)
+- **взрыв** — explosion
+- **взрывать нсв I — взорвать (взорву, взорвёшь) св I что?** — to blow up
+- **взятка; р.п. мн.ч. взяток** — bribe
+- **взять св I см. брать** — to take
+- **вид 1) только ед.ч. — иметь усталый вид 2) вид из окна на море** — appearance, view: 1) to look tired 2) sea view from the window
+- **виден, видна, -о, -ы кр.ф.** — visible, can be seen
+- **видео неизм.** — video
+- **видеокамера** — video camera
+- **видеомагнитофон** — video cassette recorder
+- **видеть (вижу, видишь) нсв II — увидеть (увижу, увидишь) св II кого? что?** — to see
+- **видеться (вижусь, видишься) нсв II — увидеться (увижусь, увидишься) св II с кем?** — to see one another
+- **видимо** — apparently
+- **виза** — visa
+- **визит** — visit
+- **визитка; р.п. мн.ч. визиток разг. — визитная карточка** — business card
+- **вилка; р.п. мн.ч. вилок** — fork
+- **винегрет** — vinaigrette (beetroot salad)
+- **вино** — wine
+- **виноват, -а, -о, -ы кр.ф.** — guilty, at fault
+- **виноград только ед.ч.** — grapes
+- **вирус 1) вирус гриппа 2) компьютерный вирус** — virus: 1) flu virus 2) computer virus
+- **висеть нсв II где?** — to hang (be hanging)
+- **висок, р.п. ед.ч. виска; мн.ч. виски, р.п. мн.ч. висков** — temple (of the head)
+- **витамин** — vitamin
+- **витрина** — shop window
+- **вишня; р.п. мн.ч. вишен** — sour cherry
+- **вкладывать нсв I — вложить св II что? куда? во что? 1) вложить письмо в конверт 2) вкладывать деньги в производство** — to put in, to invest: 1) to put a letter in an envelope 2) to invest money in production
+- **включать нсв I — включить св II 1) что? — включить телевизор 2) кого? — включить его в состав делегации** — to switch on; to include: 1) to switch on the TV 2) to include him in the delegation
+- **вкус 1) только ед.ч. — У этого напитка приятный вкус. 2) У Лены хороший вкус. Она одевается со вкусом.** — taste: 1) This drink has a nice taste. 2) Lena has good taste. She dresses tastefully.
+- **вкусный, -ая, -ое, -ые; вкусно** — tasty, delicious; deliciously
+- **владелец, р.п. ед.ч. владельца; мн.ч. владельцы, р.п. мн.ч. владельцев** — owner
+- **владеть нсв I чем? 1) владеть землёй 2) владеть иностранным языком** — to own, to master: 1) to own land 2) to master a foreign language
+- **влажный, -ая, -ое, -ые; влажно** — damp, humid; it's humid
+- **властный, -ая, -ое, -ые; властно** — imperious, commanding; commandingly
+- **власть ж.р. 1) только ед.ч. государственная власть, власть закона 2) местная власть, местные власти** — power, authority: 1) state power, rule of law 2) local authority, local authorities
+- **влево** — to the left
+- **влетать нсв I — влететь (влечу, влетишь) св II куда? откуда?** — to fly in
+- **влететь св II см. влетать** — to fly in
+- **влияние только ед.ч.** — influence
+- **влиять нсв I — повлиять св I на кого? на что?** — to influence
+- **вложить св II см. вкладывать** — to put in, to invest
+- **влюбиться св II см. влюбляться** — to fall in love
+- **влюблённый, -ая, -ое, -ые; кр.ф. влюблён, влюблена, -ы в кого?** — in love, enamoured (with)
+- **влюбляться нсв I — влюбиться (влюблюсь, влюбишься) св II в кого?** — to fall in love
+- **вместе** — together
+- **вместо + р.п.** — instead of
+- **вмешаться св I см. вмешиваться** — to interfere, to intervene
+- **вмешиваться нсв I — вмешаться св I во что?** — to interfere, to intervene
+- **вначале** — at first, in the beginning
+- **внезапный, -ая, -ое, -ые; внезапно** — sudden; suddenly
+- **внести св I см. вносить** — to bring in, to pay in, to insert
+- **внешний, -яя, -ее, -ие; внешне** — outward, external; outwardly
+- **внешность ж.р. только ед.ч.** — appearance, looks
+- **вниз** — down, downwards
+- **внизу** — below, downstairs
+- **внимание только ед.ч. 1) привлечь внимание к проблеме 2) уделять внимание детям 3) обращать внимание на ошибки** — attention: 1) to draw attention to the problem 2) to pay attention to the children 3) to pay attention to mistakes
+- **внимательный, -ая, -ое, -ые; внимательно 1) внимательный читатель 2) внимательный муж** — attentive; attentively: 1) attentive reader 2) attentive husband
+- **вничью** — to a draw/tie (in a game)
+- **вносить (вношу, вносишь) нсв II — внести (прош.вр. внёс, внесла, внесли) св I кого? что? куда? 1) внести вещи в вагон 2) внести деньги 3) пункт в договор, поправку в текст** — to bring in, to pay in, to insert: 1) to bring things into the carriage 2) to pay in money 3) to insert a clause into the contract, an amendment into the text
+- **внук; внучка; р.п.мн.ч. внучек** — grandson; granddaughter
+- **внутренний, -яя, -ее, -ие; внутри** — inner, internal; inside
+- **вовремя** — on time
+- **во время + р.п.** — during
+- **во-вторых** — secondly
+- **вода** — water
+- **водитель** — driver
+- **водить (вожу, водишь) только нсв II 1) кого? куда? — водить ребёнка в парк; 2) что? — водить машину** — to lead, to drive (multidirectional): 1) to take a child to the park 2) to drive a car
+- **водка** — vodka
+- **водопад** — waterfall
+- **воевать (воюю, воюешь) только нсв I с кем? с чем? за что?** — to wage war, to fight
+- **военный, -ая, -ое, -ые** — military
+- **возвратить св II см. возвращать** — to return, to give back
+- **возвратиться св II см. возвращаться** — to return, to come back
+- **возвращать нсв I — возвратить (возвращу, возвратишь) св II, вернуть (верну, вернёшь) св I что? кому?** — to return, to give back
+- **возвращаться нсв I — возвратиться (возвращусь, возвратишься) св II, вернуться (вернусь, вернёшься) св I куда? откуда?** — to return, to come back
+- **возглавить св II см. возглавлять** — to head, to be in charge of
+- **возглавлять нсв I — возглавить (возглавлю, возглавишь) св II что?** — to head, to be in charge of
+- **воздух только ед.ч.** — air
+- **возить (вожу, возишь) нсв II кого? что? куда?** — to carry, to transport (multidirectional)
+- **возле** — near
+- **возможно вводн. сл.** — it is possible, maybe
+- **возможность ж.р.** — possibility, opportunity
+- **возможный, -ая, -ое, -ые; возможно** — possible; possibly
+- **возмутиться св II см. возмущаться** — to be indignant
+- **возмущаться нсв I — возмутиться (возмущусь, возмутишься) св II чем?** — to be indignant
+- **возникать нсв I — возникнуть (прош.вр. возник, возникла, возникли) св I** — to arise, to originate
+- **возникнуть св I см. возникать** — to arise, to originate
+- **возражать нсв I — возразить (возражу, возразишь) св II кому?** — to object
+- **возражение** — objection
+- **возразить св II см. возражать** — to object
+- **возраст** — age
+- **возрождение только ед.ч.** — rebirth, revival, renaissance
+- **война** — war
+- **войти св I см. входить** — to come in, to enter
+- **вокзал** — railway station
+- **вокруг 1) + р.п. — Вокруг дома росли ели. 2) Вокруг было тихо.** — around: 1) Fir trees grew around the house. 2) It was quiet around.
+- **волевой, -ая, -ое, -ые** — strong-willed
+- **волейбол только ед.ч.** — volleyball
+- **волейболист; волейболистка; р.п. мн.ч. волейболисток** — volleyball player
+- **волк** — wolf
+- **волна 1) морская волна 2) радиоволна 3) волна протеста** — wave: 1) sea wave 2) radio wave 3) wave of protest
+- **волнение** — excitement, agitation
+- **волновать (волную, волнуешь) нсв I — взволновать (взволную, взволнуешь) св I кого?** — to excite, to worry (someone)
+- **волноваться (волнуюсь, волнуешься) нсв** — to worry, to be nervous
+- **волосы мн.ч.; ед.ч. волос** — hair
+- **воля только ед.ч.** — will, willpower
+- **вон — Аптека вон там.** — over there — The chemist's is over there.
+- **воображение только ед.ч.** — imagination
+- **вообще** — generally, in general
+- **вооружённый, -ая, -ое, -ые** — armed
+- **во-первых** — first of all, firstly
+- **вопреки + д.п.** — despite, in defiance of
+- **вопрос** — question
+- **вор** — thief
+- **воробей, р.п. воробья; мн.ч. воробьи** — sparrow
+- **воровать (ворую, воруешь) нсв I** — to steal
+- **ворона** — crow
+- **ворота только мн.ч.** — gate(s); goal (sports)
+- **воротник** — collar
+- **ворчать нсв II** — to grumble, to grouch
+- **восемнадцать** — eighteen
+- **восемь** — eight
+- **восемьдесят** — eighty
+- **восемьсот** — eight hundred
+- **воскресенье** — Sunday
+- **воскресный, -ая, -ое, -ые** — Sunday (adj.)
+- **воспитание только ед.ч.** — upbringing
+- **воспитанный, -ая, -ое, -ые** — well-mannered, well-bred
+- **воспитать св I см. воспитывать** — to bring up, to raise
+- **воспитывать нсв I — воспитать св I кого?** — to bring up, to raise
+- **воспоминание** — memory, remembrance
+- **восстанавливать нсв I — восстановить (восстановлю, восстановишь) св II что?** — to reconstruct, to restore
+- **восстание** — uprising, revolt
+- **восстановить св II см. восстанавливать** — to reconstruct, to restore
+- **восток только ед.ч.** — east, orient
+- **восточный, -ая, -ое, -ые** — eastern, oriental
+- **восхититься св II см. восхищаться** — to admire, to be delighted
+- **восхищаться нсв I — восхититься (восхищусь, восхитишься) св II кем? чем?** — to admire, to be delighted (with)
+- **восход** — sunrise
+- **восьмой, -ая, -ое, -ые** — eighth
+- **вот** — here is, there is
+- **впервые** — for the first time
+- **вперёд** — forward
+- **впереди** — in front, ahead
+- **впечатление** — impression
+- **впечатлительный, -ая, -ое, -ые** — impressionable, sensitive
+- **вписать св I см. вписывать** — to write in, to enter (in)
+- **вписывать нсв I — вписать (впишу, впишешь) св I кого? что? куда?** — to write in, to enter (in)
+- **вполголоса** — in an undertone, in a low voice
+- **вполне** — quite, fully
+- **впоследствии** — afterwards, subsequently
+- **вправо** — to the right
+- **впускать нсв I — впустить (впущу, впустишь) св II кого? куда?** — to let in
+- **впустить св II см. впускать** — to let in
+- **враг** — enemy
+- **враждебный, -ая, -ое, -ые; враждебно** — hostile; in a hostile manner
+- **враждовать (враждую, враждуешь) только нсв I** — to be at odds, to feud
+- **вратарь** — goalkeeper
+- **врать (вру, врёшь) нсв I — наврать (навру, наврёшь) св I; соврать (совру, соврёшь) св I разг.** — to lie, to tell lies
+- **врач** — doctor
+- **вредный, -ая, -ое, -ые; вредно 1) вредные продукты 2) вредные привычки** — harmful; harmfully: 1) harmful foods 2) harmful habits
+- **временный, -ая, -ое, -ые; временно** — temporary; temporarily
+- **время ср.р., р.п. ед.ч. времени; мн.ч. времена, р.п. мн.ч. времён 1) только ед.ч. — Сколько времени? 2) только ед.ч. — У меня нет времени. 3) ед. и мн.ч. — времена года** — time: 1) What time is it? 2) I have no time. 3) seasons
+- **вручать нсв I — вручить св II что? кому?** — to hand over, to present
+- **вручить св II см. вручать** — to hand over, to present
+- **вряд ли** — hardly, unlikely
+- **всегда** — always
+- **всего 1) Мы истратили всего 50 рублей. 2) Всего мы заплатили 1500 рублей.** — only, in all, total: 1) We spent only 50 roubles. 2) We paid 1500 roubles in all.
+- **всемирный, -ая, -ое, -ые** — worldwide
+- **всеобщий, -ая, -ее, -ие** — general, universal
+- **всерьёз** — seriously
+- **всесторонний, -яя, -ее, -ие; всесторонне** — all-round, comprehensive; comprehensively
+- **всё** — everything, all
+- **всё-таки** — still, after all, nevertheless
+- **вскипеть св II (1 и 2 л. не употр.)** — to boil up
+- **вскипятить св II см. кипятить** — to boil
+- **вскоре** — soon
+- **вследствие + р.п.** — as a result of, owing to
+- **вслух** — aloud
+- **всматриваться нсв I — всмотреться (всмотрюсь, всмотришься) св II во что?** — to peer into, to take a close look
+- **всмотреться св II см. всматриваться** — to peer into, to take a close look
+- **вспоминать нсв I — вспомнить св II кого? что? о ком? о чём?** — to remember, to recall
+- **вспомнить св II см. вспоминать** — to remember, to recall
+- **вставать (встаю, встаёшь) нсв I — встать (встану, встанешь) св I 1) вставать со стула 2) вставать рано 3) Солнце встаёт.** — to get up, to rise: 1) to get up from a chair 2) to get up early 3) The sun is rising.
+- **вставить св II см. вставлять** — to insert
+- **вставлять нсв I — вставить (вставлю, вставишь) св II что? куда?** — to insert
+- **встать св I см. вставать** — to get up, to stand up
+- **встретить св II см. встречать** — to meet
+- **встретиться св II см. встречаться** — to meet
+- **встреча** — meeting
+- **встречать нсв I — встретить (встречу, встретишь) св II кого? что?** — to meet
+- **встречаться нсв I — встретиться (встречусь, встретишься) св II с кем? с чем?** — to meet (one another)
+- **вступать нсв I — вступить (вступлю, вступишь) св II куда? во что? 1) вступить в организацию 2) вступать в спор** — to join, to enter: 1) to join an organization 2) to enter into an argument
+- **вступить св II см. вступать** — to join, to enter
+- **вступление** — introduction, entry
+- **всякий, -ая, -ое, -ие** — every, any
+- **вторник** — Tuesday
+- **второй, -ая, -ое, -ые** — second
+- **в-третьих** — thirdly
+- **втроём** — three together, all three
+- **вуз** — university, higher education institution
+- **вулкан** — volcano
+- **вульгарный, -ая, -ое, -ые; вульгарно** — vulgar; vulgarly
+- **вход** — entrance
+- **входить (вхожу, входишь) нсв II — войти (войду, войдёшь; прош.вр. вошёл, вошла, вошли) св I куда? 1) входить в комнату 2) войти в историю 3) входить в состав чего-либо 4) войти в моду, в употребление** — to enter, to come in: 1) to enter the room 2) to go down in history 3) to be part of something 4) to come into fashion, into use
+- **в частности** — in particular
+- **вчера** — yesterday
+- **вчерашний, -яя, -ее, -ие** — yesterday's
+- **въезжать нсв I — въехать (въеду, въедешь) св I куда? 1) въехать во двор 2) въехать в новую квартиру** — to drive in, to move in: 1) to drive into the yard 2) to move into a new flat
+- **въехать св I см. въезжать** — to drive in, to move in
+- **вы** — you (plural/polite)
+- **выбегать нсв I — выбежать (выбегу, выбежишь) св II куда? откуда?** — to run out
+- **выбежать св см. выбегать** — to run out
+- **выбирать нсв I — выбрать (выберу, выберешь) св I кого? что?** — to choose
+- **выбор 1) только ед.ч. — большой выбор продуктов 2) только мн.ч. — выборы президента** — choice; elections: 1) wide choice of products 2) presidential elections
+- **выбрасывать нсв I — выбросить (выброшу, выбросишь) св II что? куда?** — to throw away
+- **выбрать св I см. выбирать** — to choose
+- **выбросить св II см. выбрасывать** — to throw away
+- **вывезти св I см. вывозить** — to export, to take out
+- **вывести св I см. выводить** — to take out, to lead out
+- **вывод** — conclusion
+- **выводить (вывожу, выводишь) нсв II — вывести (выведу, выведешь; прош.вр. вывел, вывела, вывели) св I кого? что? куда? откуда? 1) выводить детей гулять, выводить машину из гаража 2) вывести из себя** — to lead out, to take out: 1) to take children for a walk, to drive a car out of the garage 2) to make someone lose their temper
+- **вывоз только ед.ч.** — export
+- **вывозить (вывожу, вывозишь) нсв II — вывезти (прош.вр. вывез, вывезла, вывезли) св I кого? что? куда? откуда?** — to export, to take out
+- **выглядеть (выгляжу, выглядишь) только нсв II — выглядеть молодо** — to look — to look young
+- **выгнать св II см. выгонять** — to expel, to turn out
+- **выгодный, -ая, -ое, -ые; выгодно** — profitable; profitably
+- **выгонять нсв I — выгнать (выгоню, выгонишь) св II кого? куда? откуда? 1) выгнать кошку из дома на улицу 2) выгнать с работы** — to expel, to turn out: 1) to turn the cat out onto the street 2) to fire (from work)
+- **выдавать нсв I — выдать (выдам, выдашь, выдаст, выдадим, выдадите, выдадут) св I что?** — to give out, to issue
+- **выдать св I см. выдавать** — to give out, to issue
+- **выезжать нсв I — выехать (выеду, выедешь) св I куда? откуда?** — to leave, to drive out
+- **выехать св I см. выезжать** — to leave, to drive out
+- **выживать нсв I — выжить (выживу, выживешь) св I** — to survive
+- **выжить св I см. выживать** — to survive
+- **вызвать св I см. вызывать** — to call, to summon
+- **выздоравливать нсв I — выздороветь (выздоровею, выздоровеешь) св I** — to recover, to get better
+- **выздороветь св I см. выздоравливать** — to recover, to get better
+- **вызывать нсв I — вызвать (вызову, вызовешь) св I кого? что? — вызвать врача, вызвать такси** — to call — to call a doctor, to call a taxi
+- **выиграть св I см. выигрывать** — to win
+- **выигрывать нсв I — выиграть св I что? 1) выиграть футбольный матч 2) выиграть деньги в лотерею 3) выиграть спор 4) выигрывать время** — to win, to gain: 1) to win a football match 2) to win money in the lottery 3) to win an argument 4) to gain time
+- **выйти св I см. выходить** — to come out, to leave
+- **выключатель** — switch
+- **выключать нсв I — выключить св II что?** — to switch off
+- **выключить св II см. выключать** — to switch off
+- **вылетать нсв I — вылететь (вылечу, вылетишь) св II куда? откуда?** — to fly out, to depart
+- **вылететь св II см. вылетать** — to fly out, to depart
+- **вылечить св II см. лечить** — to cure
+- **выливать нсв I — вылить (вылью, выльешь) св I что? куда?** — to pour out
+- **вылить св I см. выливать** — to pour out
+- **вымыть св I см. мыть** — to wash
+- **вымыться св I см. мыться** — to wash oneself
+- **вынести св I см. выносить** — to carry out, to pass (a decision)
+- **вынимать нсв I — вынуть св I что?** — to take out
+- **выносить (выношу, выносишь) нсв II — вынести (прош.вр. вынес, вынесла, вынесли) св I кого? что? 1) выносить вещи 2) вынести решение, приговор** — to carry out; to pass: 1) to carry things out 2) to pass a decision, a sentence
+- **выносливый, -ая, -ое, -ые** — enduring, hardy
+- **вынуть св I см. вынимать** — to take out
+- **выписать св I см. выписывать** — to write out, to subscribe, to discharge
+- **выписывать нсв I — выписать (выпишу, выпишешь) св I кого? что? откуда? 1) что? откуда? — выписывать слова из книги 2) что? — выписывать газеты 3) кого? откуда? — выписать больного из больницы** — to write out; to subscribe; to discharge: 1) to write out words from a book 2) to subscribe to newspapers 3) to discharge a patient from hospital
+- **выпить св I см. пить** — to drink
+- **выполнить св II см. выполнять** — to carry out, to fulfil
+- **выполнять нсв I — выполнить св II что?** — to carry out, to fulfil
+- **выпуск 1) только ед.ч. — выпуск продукции 2) выпуск новостей** — output, issue: 1) output of goods 2) news bulletin
+- **выпускать нсв I — выпустить (выпущу, выпустишь) св II кого? что? 1) выпускать птиц 2) выпускать продукцию 3) выпускать (готовить) специалистов** — to release, to produce: 1) to release birds 2) to manufacture goods 3) to train specialists
+- **выпускник; выпускница** — graduate
+- **выпустить св II см. выпускать** — to release, to produce
+- **выражать нсв I — выразить (выражу, выразишь) св II что?** — to express
+- **выразительный, -ая, -ое, -ые; выразительно** — expressive; expressively
+- **выразить св I см. выражать** — to express
+- **вырасти св II см. расти** — to grow
+- **вырастить св II см. выращивать** — to grow, to raise
+- **выращивать нсв I — вырастить (выращу, вырастишь) св II кого? что?** — to grow, to raise
+- **выселить св II см. выселять** — to evict
+- **выселять нсв I — выселить св II кого? куда? откуда?** — to evict
+- **высказывать нсв I — высказать (выскажу, выскажешь) св I что?** — to express, to voice
+- **выслушать св I см. выслушивать** — to hear out, to listen to
+- **выслушивать нсв I — выслушать св I кого?** — to hear out, to listen to
+- **высокий, -ая, -ое, -ие; высоко; сравн. ст. выше 1) высокий рост 2) высокое давление** — high, tall; high(ly); higher: 1) tall stature 2) high blood pressure
+- **высота только ед.ч.** — height
+- **высотный, -ая, -ое, -ые** — high-rise
+- **высохнуть св I см. сохнуть, высыхать** — to dry out
+- **выспаться св II см. высыпаться** — to get enough sleep
+- **выставка; р.п. мн.ч. выставок** — exhibition
+- **выстрелить св II см. стрелять** — to shoot, to fire
+- **выступать нсв I — выступить (выступлю, выступишь) св II 1) где? — выступать на сцене, на конференции 2) против чего? за что? — выступать против терроризма, за мир** — to perform, to speak out: 1) to perform on stage, to speak at a conference 2) to speak out against terrorism, for peace
+- **выступить св II см. выступать** — to perform, to speak out
+- **выступление** — performance, speech
+- **высушить св II см. сушить** — to dry
+- **высший, -ая, -ее, -ие 1) высший сорт 2) высшая награда 3) высшее образование** — highest, superior: 1) top grade 2) highest award 3) higher education
+- **высыпаться нсв I — выспаться (высплюсь, выспишься) св II** — to get enough sleep
+- **высыхать нсв I — высохнуть св I** — to dry out
+- **вытаскивать нсв I — вытащить св II кого? что?** — to drag out, to pull out
+- **вытащить св II см. вытаскивать** — to drag out, to pull out
+- **вытереть св I см. вытирать** — to wipe
+- **вытирать нсв I — вытереть (вытру, вытрешь) св I кого? что?** — to wipe
+- **выучить св II см. учить 1** — to learn
+- **выход** — exit
+- **выходить (выхожу, выходишь) нсв II — выйти (выйду, выйдешь; прош.вр. вышел, вышла, вышли) св I куда? откуда? 1) выходить из дома 2) выйти на пенсию 3) Окна выходят во двор. 4) Книга вышла недавно.** — to come out, to go out: 1) to leave the house 2) to retire 3) The windows face the yard. 4) The book was recently published.
+- **выходной, -ая, -ое, -ые** — day off, weekend (adj.)
+- **вышивать нсв I** — to embroider
+- **выяснить св II см. выяснять** — to find out, to clarify
+- **выяснять нсв I — выяснить св II что?** — to find out, to clarify
+- **вьющийся, вьющаяся, вьющееся, вьющиеся** — curly, wavy; climbing (plant)
+- **вязаный, -ая, -ое, -ые** — knitted
+- **вязать (вяжу, вяжешь) нсв I — связать (свяжу, свяжешь) св I что?** — to knit
+- **вянуть нсв I — завянуть св I** — to wilt, to fade
+
+## Г
+
+- **газ** — gas
+- **газета** — newspaper
+- **газопровод** — gas pipeline
+- **галерея** — gallery
+- **галстук** — tie
+- **гараж** — garage
+- **гарантировать (гарантирую, гарантируешь) нсв I и св I что?** — to guarantee
+- **гарантия** — guarantee, warranty
+- **гардероб** — cloakroom, wardrobe
+- **гармоничный, -ая, -ое, -ые; гармонично** — harmonious; harmoniously
+- **гарнир** — side dish, garnish
+- **гасить (гашу, гасишь) нсв II — погасить (погашу, погасишь) св II что?** — to extinguish, to put out
+- **гаснуть (1 и 2 л. не употр., прош.вр. гас, гасла, гасли) нсв I — погаснуть (прош.вр. погас, погасла, погасли) св I** — to go out, to fade, to dim
+- **гастроли только мн.ч.** — tour (of performers)
+- **гастроном** — grocery store
+- **гвоздика** — carnation (flower)
+- **гвоздь** — nail
+- **где** — where
+- **где-либо** — somewhere, anywhere
+- **где-нибудь** — somewhere, anywhere
+- **где-то** — somewhere
+- **гель** — gel
+- **ген** — gene
+- **генерал** — general
+- **генетик** — geneticist
+- **генетический, -ая, -ое, -ие — генетический код** — genetic — genetic code
+- **гениальный, -ая, -ое, -ые; гениально** — of genius, brilliant; brilliantly
+- **гений** — genius
+- **геноцид только ед.ч.** — genocide
+- **географ** — geographer
+- **географический, -ая, -ое, -ие** — geographical
+- **география** — geography
+- **геолог** — geologist
+- **геологический, -ая, -ое, -ие** — geological
+- **геология** — geology
+- **герб** — coat of arms, emblem
+- **героический, -ая, -ое, -ие; героически** — heroic; heroically
+- **герой 1) герой войны, труда 2) герой литературного произведения** — hero, character: 1) war hero, hero of labour 2) character of a literary work
+- **гибель ж.р., только ед.ч.** — death, ruin, destruction
+- **гибкий, -ая, -ое, -ие; гибко** — flexible; flexibly
+- **гибнуть нсв I — погибнуть св I** — to perish, to die
+- **гигантский, -ая, -ое, -ие** — giant, huge
+- **гид** — guide
+- **гидроэлектростанция (ГЭС)** — hydroelectric power station
+- **гимн** — anthem, hymn
+- **гимназия** — gymnasium (school)
+- **гимнаст; гимнастка; р.п. мн.ч. гимнасток** — gymnast
+- **гинеколог** — gynaecologist
+- **гитара** — guitar
+- **гитарист** — guitarist
+- **глава 1 — глава книги** — chapter — chapter of a book
+- **глава 2 — глава правительства, семьи** — head — head of government, of a family
+- **главный, -ая, -ое, -ые** — main, chief
+- **гладить (глажу, гладишь) нсв II — погладить (поглажу, погладишь) св II 1) что? гладить одежду 2) кого? гладить ребёнка по голове** — to iron; to stroke: 1) to iron clothes 2) to stroke a child's head
+- **гладкий, -ая, -ое, -ие; гладко** — smooth; smoothly
+- **глаз; мн.ч. глаза** — eye
+- **глина** — clay
+- **глохнуть нсв I — оглохнуть св I** — to go deaf
+- **глубина** — depth
+- **глубокий, -ая, -ое, -ие; глубоко; сравн.ст. глубже 1) глубокая река 2) глубокие знания 3) глубокая тайна 4) глубокий сон, глубокий кризис** — deep; deeply; deeper: 1) deep river 2) deep knowledge 3) deep secret 4) deep sleep, severe crisis
+- **глупость ж.р.** — stupidity, foolishness
+- **глупый, -ая, -ое, -ые; глупо** — stupid, foolish; foolishly
+- **глухой, -ая, -ое, -ие** — deaf
+- **глядеть (гляжу, глядишь) нсв II — поглядеть (погляжу, поглядишь) св II на кого? на что?** — to look, to glance (at)
+- **гнать (гоню, гонишь) только нсв II кого? что?** — to drive, to chase
+- **гнаться (гонюсь, гонишься) только нсв II за кем? за чем?** — to chase, to pursue
+- **гнездо; мн.ч. гнёзда** — nest
+- **гнилой, -ая, -ое, -ые** — rotten
+- **говорить нсв II — сказать (скажу, скажешь) св I кому? что? о ком? о чём?** — to speak, to say, to tell
+- **говядина только ед.ч.** — beef
+- **год** — year
+- **годовщина** — anniversary
+- **гол** — goal (sports)
+- **голова** — head
+- **голод только ед.ч.** — hunger
+- **голодать нсв I** — to starve, to go hungry
+- **голодный, -ая, -ое, -ый** — hungry
+- **гололёд только ед.ч.** — ice-covered ground, black ice
+- **голос; мн.ч. голоса 1) приятный голос 2) бороться за голоса избирателей** — voice; vote: 1) pleasant voice 2) to fight for voters' votes
+- **голосовать (голосую, голосуешь) нсв I — проголосовать (проголосую, проголосуешь) св I за кого? за что?** — to vote
+- **голубой, -ая, -ое, -ые** — light blue
+- **голубь** — pigeon, dove
+- **голый, -ая, -ое, -ые** — naked, bare
+- **гольфы мн.ч.; ед.ч. гольф** — knee socks
+- **гонка; р.п. мн.ч. гонок (спорт.)** — race
+- **гора** — mountain
+- **гораздо** — much, far (with comparatives)
+- **горбуша только ед.ч.** — pink salmon
+- **гордиться (горжусь, гордишься) нсв II кем? чем?** — to be proud (of)
+- **гордый, -ая, -ое, -ые; гордо** — proud; proudly
+- **горе только ед.ч.** — grief, sorrow
+- **гореть нсв II — сгореть св II 1) Огонь горит. 2) Глаза горят. Звёзды горят.** — to burn, to be alight: 1) The fire is burning. 2) Her eyes are shining. The stars are shining.
+- **горизонтальный, -ая, -ое, -ые; горизонтально** — horizontal; horizontally
+- **горло** — throat
+- **горничная, -ые сущ.** — chambermaid
+- **горнолыжный, -ая, -ое, -ые** — alpine-skiing (adj.)
+- **горный, -ая, -ое, -ые** — mountain, mining (adj.)
+- **город** — city, town
+- **городской, -ая, -ое, -ие** — city, municipal
+- **горчица** — mustard
+- **горький, -ая, -ое, -ие; горько 1) горькое лекарство 2) горькая правда** — bitter; bitterly: 1) bitter medicine 2) bitter truth
+- **горячий, -ая, -ее, -ие; горячо 1) горячий чай 2) горячая любовь, горячее желание** — hot, passionate; hotly: 1) hot tea 2) passionate love, ardent desire
+- **госпиталь** — (military) hospital
+- **господин; мн.ч. господа** — Mr, gentleman, sir
+- **госпожа** — Ms, Mrs, lady
+- **гостеприимный, -ая, -ое, -ые; гостеприимно** — hospitable; hospitably
+- **гостиная сущ.** — living room
+- **гостиница** — hotel
+- **гость** — guest
+- **государственный, -ая, -ое, -ые** — state (adj.)
+- **государство** — state
+- **готовить (готовлю, готовишь) нсв II — приготовить (приготовлю, приготовишь) св II, подготовить (подготовлю, подготовишь) св II что? 1) что? — приготовить обед 2) что? — готовить домашнее задание 3) кого? что? — подготовить специалистов, подготовить выступление** — to prepare, to cook: 1) to prepare dinner 2) to do homework 3) to train specialists, to prepare a speech
+- **готовиться (готовлюсь, готовишься) нсв II — подготовиться (подготовлюсь, подготовишься) св II, приготовиться (приготовлюсь, приготовишься) св II к чему?** — to prepare (oneself), to get ready
+- **готовый, -ая, -ое, -ые; кр.ф. готов, -а, -о, -ы** — ready
+- **грабить (граблю, грабишь) нсв II — ограбить (ограблю, ограбишь) св II кого? что?** — to rob
+- **гравюра** — engraving
+- **град только ед.ч.** — hail
+- **градус** — degree
+- **градусник** — thermometer
+- **гражданин; мн.ч. граждане; гражданка; р.п. мн.ч. гражданок** — citizen
+- **гражданство только ед.ч.** — citizenship
+- **грамм** — gram
+- **грамматика** — grammar
+- **грамотный, -ая, -ое, -ые; грамотно** — literate; correctly, competently
+- **гранит только ед.ч.** — granite
+- **граница** — border, boundary
+- **граничить нсв II с чем?** — to border (on)
+- **графика только ед.ч.** — graphic art
+- **греть нсв I что?** — to warm, to heat
+- **греться нсв I — согреться св I** — to warm oneself
+- **грех** — sin
+- **гречка только ед.ч.** — buckwheat
+- **гриб** — mushroom
+- **грипп только ед.ч.** — flu
+- **гроб** — coffin
+- **гроза** — thunderstorm
+- **гром** — thunder
+- **громадный, -ая, -ое, -ые** — huge
+- **громкий, -ая, -ое, -ие; громко сравн.ст. громче 1) громкий голос, громкие звуки 2) громкий процесс, скандал** — loud; loudly; louder: 1) loud voice, loud sounds 2) big trial/case, scandal
+- **грубить (грублю, грубишь) нсв II — нагрубить (нагрублю, нагрубишь) св II кому?** — to be rude (to)
+- **грубый, -ая, -ое, -ые; грубо 1) грубый человек 2) грубая ткань 3) грубый голос 4) грубая ошибка** — rough, rude, coarse; roughly: 1) rude person 2) coarse fabric 3) rough voice 4) gross mistake
+- **грудь ж.р.** — breast, chest
+- **груз** — load, cargo
+- **грузовик** — lorry, truck
+- **грузчик** — loader, stevedore
+- **группа** — group
+- **грустить (грущу, грустишь) нсв II** — to be sad, to grieve
+- **грустный, -ая, -ое, -ые; грустно** — sad; sadly
+- **грусть ж.р. только ед.ч.** — sadness, sorrow
+- **груша** — pear
+- **грязный, -ая, -ое, -ые; грязно** — dirty; dirtily
+- **грязь ж.р., только ед.ч.** — mud, dirt
+- **губа; мн.ч. губы** — lip
+- **губернатор** — governor
+- **гулять нсв I — погулять св I где? с кем?** — to walk, to stroll
+- **гуляш только ед.ч.** — goulash
+- **гуманный, -ая, -ое, -ые; гуманно** — humane; humanely
+- **гуманитарный, -ая, -ое, -ые** — humanitarian
+- **густой, -ая, -ое, -ые; густо; сравн.ст. гуще 1) густой лес 2) густая каша** — thick, dense; thickly; thicker: 1) dense forest 2) thick porridge
+- **гусь** — goose
+
+## Д
+
+- **да** — yes
+- **давать (даю, даёшь) нсв I — дать (дам, дашь, даст, дадим, дадите, дадут) св I кому? что? 1) дать книгу 2) дать совет, согласие, отзыв 3) давать возможность** — to give: 1) to give a book 2) to give advice, consent, feedback 3) to give a chance
+- **давление только ед.ч. 1) кровяное давление 2) оказывать давление на кого?** — pressure: 1) blood pressure 2) to put pressure on someone
+- **давно** — long ago, for a long time
+- **даже** — even
+- **далее** — further
+- **далёкий, -ая, -ое, -ие; далеко; сравн. ст. дальше** — far, distant; far; farther
+- **дальний, -яя, -ее, -ие** — distant, remote
+- **дальновидный, -ая, -ое, -ые** — far-sighted
+- **дама** — lady
+- **данные только мн.ч. сущ. — статистические, паспортные данные** — data — statistical data, passport data
+- **данный** — given, present
+- **дарить нсв II — подарить св II кому? что?** — to give as a present
+- **даром разг.** — for free
+- **дата** — date
+- **дать св I см. давать** — to give
+- **дача** — dacha, country cottage
+- **два, две** — two
+- **двадцать** — twenty
+- **дважды** — twice
+- **двенадцать** — twelve
+- **дверь ж.р.** — door
+- **двести** — two hundred
+- **двигаться нсв I** — to move
+- **движение** — movement, traffic
+- **двое** — two (collective)
+- **двойка; р.п. мн.ч. двоек разг.** — "two" (poor school grade)
+- **двор** — yard, courtyard
+- **дворец, р.п. ед.ч. дворца; мн.ч. дворцы 1) царский дворец 2) дворец спорта, бракосочетаний** — palace: 1) tsar's palace 2) sports palace, wedding palace
+- **дворник** — yard-keeper, street cleaner
+- **дворянин; мн.ч. дворяне; р.п. мн.ч. дворян; дворянка, р.п. мн.ч. дворянок** — nobleman; noblewoman
+- **двоюродный, -ая, -ое, -ые** — (of cousin) once removed
+- **двухлетний, -яя, -ее, -ие — двухлетний ребёнок, двухлетний план** — two-year-old, two-year: two-year-old child, two-year plan
+- **двухместный, -ая, -ое, -ые** — two-seater, double, for two
+- **двухтысячный, -ая, -ое, -ые** — two-thousandth
+- **двухэтажный, -ая, -ое, -ые** — two-storeyed
+- **девочка; р.п. мн.ч. девочек** — girl
+- **девушка; р.п. мн.ч. девушек** — girl, young woman
+- **девяносто** — ninety
+- **девятнадцать** — nineteen
+- **девятый, -ая, -ое, -ые** — ninth
+- **девять** — nine
+- **девятьсот** — nine hundred
+- **деградировать (деградирую, деградируешь) нсв и св I** — to degrade
+- **дедушка; р.п. мн.ч. дедушек** — grandfather
+- **дежурный, -ая, -ое, -ые — дежурный врач, дежурная аптека** — on duty — doctor on duty, duty pharmacy
+- **дезодорант** — deodorant
+- **действие** — action
+- **действительно** — really, indeed
+- **действовать (действую, действуешь) нсв I — подействовать (подействую, подействуешь) св I 1) Кондиционер не действует. 2) Лекарство подействовало.** — to act, to work, to take effect: 1) The air conditioner doesn't work. 2) The medicine took effect.
+- **декабрь** — December
+- **декан** — dean (head of faculty)
+- **декларация 1) таможенная декларация 2) Декларация прав человека** — declaration: 1) customs declaration 2) Declaration of Human Rights
+- **декорация** — decoration, scenery
+- **делать нсв I — сделать св I что?** — to do, to make
+- **делегат** — delegate
+- **делегация** — delegation
+- **деликатный, -ая, -ое, -ые; деликатно** — delicate, tactful; delicately
+- **делить нсв II — разделить св II, поделить св II что?** — to divide
+- **делиться нсв II — разделиться св II; поделиться св II 1) на что? — разделиться на части, на группы 2) чем? с кем? — поделиться новостями с друзьями** — to divide, to share: 1) to divide into parts, into groups 2) to share news with friends
+- **дело** — business, matter, affair
+- **деловой, -ая, -ое, -ые** — business, business-like
+- **демагог** — demagogue
+- **демографический, -ая, -ое, -ие** — demographic
+- **демократ** — democrat
+- **демократический, -ая, -ое, -ие** — democratic
+- **демократичный, -ая, -ое, -ые** — democratic (in manner), open
+- **демонстрация 1) праздничная демонстрация 2) демонстрация силы** — demonstration: 1) holiday demonstration 2) show of force
+- **демонстрировать (демонстрирую, демонстрируешь) нсв I — продемонстрировать (продемонстрирую, продемонстрируешь) св I что?** — to demonstrate, to show
+- **день, р.п. ед.ч. дня; мн.ч. дни** — day
+- **деньги только мн.ч., р.п. денег** — money
+- **депрессия** — depression
+- **депутат** — deputy
+- **деревня; р.п. мн.ч. деревень** — village, countryside
+- **дерево; мн.ч. деревья** — tree
+- **деревянный, -ая, -ое, -ые** — wooden
+- **держать (держу, держишь) нсв II 1) кого? что? — держать ручку 2) что? — держать деньги в банке** — to hold, to keep: 1) to hold a pen 2) to keep money in the bank
+- **держаться нсв II за что? — держаться за перила** — to hold on — to hold on to the railing
+- **десерт** — dessert
+- **десятый, -ая, -ое, -ые** — tenth
+- **десять** — ten
+- **деталь 1) деталь машины 2) художественные детали** — detail, part: 1) car part 2) artistic details
+- **детектив** — detective story
+- **дети мн.ч.; ед.ч. ребёнок, р.п. ед.ч. ребёнка** — children; child
+- **детский, -ая, -ое, -ие** — child's, children's
+- **детство только ед.ч.** — childhood
+- **дефект** — defect
+- **дешеветь нсв I — подешеветь св I** — to become cheaper
+- **дешёвый, -ая, -ое, -ые; дёшево; сравн. ст. дешевле** — cheap; cheaply; cheaper
+- **деятель** — public/statesman, figure
+- **деятельность ж.р. только ед.ч.** — activity
+- **джаз только ед.ч.** — jazz
+- **джем** — jam
+- **джинсы только мн.ч.** — jeans
+- **диабет только ед.ч.** — diabetes
+- **диагноз** — diagnosis
+- **диалог** — dialogue
+- **диван** — sofa, couch
+- **диета** — diet
+- **диетический, -ая, -ое, -ие** — dietary
+- **дизайнер** — designer
+- **дикий, -ая, -ое, -ие** — wild
+- **диктант** — dictation
+- **диктатор** — dictator
+- **диктор** — (radio/TV) announcer
+- **динамичный, -ая, -ое, -ые; динамично** — dynamic; dynamically
+- **диплом** — diploma
+- **дипломат** — diplomat
+- **дипломатический, -ая, -ое, -ие** — diplomatic
+- **дипломатичный, -ая, -ое, -ые; дипломатично** — diplomatic, tactful; tactfully
+- **директор** — director
+- **дирижёр** — conductor (of orchestra)
+- **диск — лазерный диск** — disk — laser disk
+- **дискета** — floppy disk
+- **дискотека** — disco
+- **дискуссионный, -ая, -ое, -ые** — debatable, discussion (adj.)
+- **дискуссия** — discussion
+- **диссертация** — dissertation
+- **длина** — length
+- **длинный, -ая, -ое, -ые 1) длинное пальто 2) длинный день** — long: 1) long coat 2) long day
+- **для + р.п.** — for
+- **дневной, -ая, -ое, -ые** — day, daily (adj.)
+- **днём** — in the daytime, in the afternoon
+- **дно** — bottom
+- **до + р.п.** — until, up to, as far as
+- **добавить св II см. добавлять** — to add
+- **добавлять нсв I — добавить (добавлю, добавишь) св II что?** — to add
+- **добиваться нсв I — добиться (добьюсь, добьёшься) св I чего?** — to achieve, to strive for
+- **добираться нсв I — добраться (доберусь, доберёшься) св I куда? до чего?** — to reach, to get to
+- **добиться св I см. добиваться** — to achieve, to attain
+- **добраться св I см. добираться** — to reach, to get to
+- **добродушный, -ая, -ое, -ые; добродушно** — good-natured; good-naturedly
+- **доброжелательный, -ая, -ое, -ые; доброжелательно** — benevolent; benevolently
+- **добросовестный, -ая, -ое, -ые; добросовестно** — conscientious; conscientiously
+- **доброта только ед.ч.** — kindness
+- **добрый, -ая, -ое, -ые 1) добрый человек 2) добрые глаза 3) Доброе утро! Добрый день (вечер)! 4) добрые отношения, добрые друзья** — good, kind: 1) kind person 2) kind eyes 3) Good morning! Good afternoon (evening)! 4) friendly relations, good friends
+- **доверие только ед.ч.** — trust
+- **доверить св II см. доверять** — to entrust
+- **доверять нсв I — доверить св II кому?** — to trust
+- **доволен, довольна, -о, -ы кр.ф. чем?** — pleased, satisfied (with)
+- **догадаться св I см. догадываться** — to guess
+- **догадываться нсв I — догадаться св I о чём?** — to guess
+- **догнать св II см. догонять** — to catch up (with)
+- **договор; мн.ч. договоры** — contract, agreement
+- **догонять нсв I — догнать (догоню, догонишь) св II кого? что?** — to catch up (with)
+- **договариваться нсв I — договориться св II о чём? с кем?** — to come to an agreement
+- **договориться св II см. договариваться** — to come to an agreement
+- **доделать св I см. доделывать** — to finish, to complete
+- **доделывать нсв I — доделать св I что?** — to finish, to complete
+- **доезжать нсв I — доехать (доеду, доедешь) св II до чего?** — to reach (by transport)
+- **доехать св I см. доезжать** — to reach (by transport)
+- **дождливый, -ая, -ое, -ые** — rainy
+- **доживать нсв I — дожить (доживу, доживёшь) св I** — to live to, to live out
+- **дожить св I см. доживать** — to live to, to live out
+- **дождь** — rain
+- **дозваниваться нсв I — дозвониться св II** — to get through (by phone)
+- **дозвониться св II см. дозваниваться** — to get through (by phone)
+- **дойти св I см. доходить** — to reach, to get to
+- **доказательство** — proof
+- **доказать св I см. доказывать** — to prove
+- **доказывать нсв I — доказать (докажу, докажешь) св I что? кому?** — to prove
+- **доклад** — lecture, report
+- **доктор** — doctor
+- **документ** — document
+- **документальный, -ая, -ое, -ые** — documentary
+- **долг 1 — брать в долг, отдавать долг** — debt — to borrow, to pay back a debt
+- **долг 2 только ед.ч. — гражданский долг** — duty — civic duty
+- **долгий, -ая, -ое, -ие; долго сравн.ст. дольше** — long; for a long time; longer
+- **должен, должна, -о, мн.ч. должны + инф.** — must, obliged to
+- **должность ж.р.** — position, post
+- **долина** — valley
+- **доллар** — dollar
+- **дом; мн.ч. дома** — house
+- **дома** — at home
+- **домашний, -яя, -ее, -ие** — home, domestic
+- **домой** — home(ward)
+- **домофон** — doorphone, intercom
+- **домохозяйка; р.п. мн.ч. домохозяек** — housewife
+- **домработница** — housemaid
+- **дописать св I см. дописывать** — to finish writing
+- **дописывать нсв I — дописать (допишу, допишешь) св I что?** — to finish writing
+- **дополнительный, -ая, -ое, -ые; дополнительно** — additional; additionally
+- **дополнить св II см. дополнять** — to add, to supplement
+- **дополнять нсв I — дополнить св II кого? что?** — to add, to supplement
+- **дорога** — road, way
+- **дорогой 1, -ая, -ое, -ие; дорого — дорогой костюм; сравн. ст. дороже** — expensive; dear — an expensive suit; more expensive
+- **дорогой 2, -ая, -ие — Дорогая Анна Петровна!** — dear — Dear Anna Petrovna!
+- **дорожать нсв I — подорожать св I** — to become more expensive
+- **До свидания!** — Goodbye!
+- **доска; р.п. мн.ч. досок** — board
+- **досрочный, -ая, -ое, -ые; досрочно** — ahead of schedule; early
+- **достаточно** — enough
+- **доставать (достаю, достаёшь) нсв I — достать (достану, достанешь) св I что? 1) достать письмо из почтового ящика 2) достать билет, редкую книгу** — to get, to obtain: 1) to take a letter out of the mailbox 2) to get hold of a ticket, a rare book
+- **достать св I см. доставать** — to get, to obtain
+- **достигать нсв I — достигнуть, достичь (достигну, достигнешь; прош.вр. достиг, достигла, достигли) св I чего? 1) достичь вершины 2) достигать цели, успеха** — to achieve, to reach: 1) to reach the summit 2) to achieve a goal, success
+- **достижение** — achievement
+- **достигнуть св I см. достигать** — to achieve, to reach
+- **достичь св I см. достигать** — to achieve, to reach
+- **достоин, достойна, -о, достойны кр. ф. чего?** — worthy (of)
+- **достоинство** — dignity, merit
+- **достопримечательность ж.р.** — sight, place of interest
+- **досуг только ед.ч.** — leisure
+- **доход** — income
+- **доходить (дохожу, доходишь) нсв II — дойти (дойду, дойдёшь; прош.вр. дошёл, дошла, дошли) св I до кого? до чего? 1) Надо дойти до остановки. 2) Письмо до нас не дошло.** — to reach, to get to: 1) One has to walk to the bus stop. 2) The letter never reached us.
+- **дочка разг.; р.п. мн.ч. дочек** — daughter (coll.)
+- **дочь ж.р., р.п. ед.ч. дочери; мн.ч. дочери** — daughter
+- **драгоценный, -ая, -ое, -ые** — precious
+- **драка** — fight, scuffle
+- **драма** — drama
+- **драматический, -ая, -ое, -ие** — dramatic
+- **драться (дерусь, дерёшься) нсв I — подраться (подерусь, подерёшься) св I** — to fight, to scuffle
+- **древний, -яя, -ее, -ие** — ancient
+- **дрожать нсв II** — to tremble, to shiver
+- **друг; мн.ч. друзья** — friend
+- **другой, -ая, -ое, -ие** — other, another
+- **дружба только ед.ч.** — friendship
+- **дружеский, -ая, -ое, -ие** — friendly
+- **дружественный, -ая, -ое, -ые** — friendly, amicable
+- **дружить нсв II** — to be friends
+- **дружный, -ая, -ое, -ые; дружно** — close-knit, united; in unison, together
+- **дуб** — oak
+- **дублёнка; р.п. мн.ч. дублёнок** — sheepskin coat
+- **дума — Государственная дума** — Duma — the State Duma
+- **думать нсв I — подумать св I о ком? о чём?** — to think
+- **дуть нсв I — подуть св I** — to blow
+- **духовный, -ая, -ое, -ые** — spiritual
+- **душ только ед.ч.** — shower
+- **душа** — soul
+- **душно** — it is stuffy
+- **дым только ед.ч.** — smoke
+- **дыня** — melon
+- **дыра** — hole
+- **дышать (дышу, дышишь) только нсв II** — to breathe
+- **дьявол** — devil
+- **дядя м.р.** — uncle
+
+## Е
+
+- **Евангелие** — the Gospel
+- **европеец, р.п. ед.ч. европейца; мн.ч. европейцы, р.п. мн.ч. европейцев** — European (person)
+- **европейский, -ая, -ое, -ие** — European (adj.)
+- **его** — his, him
+- **еда только ед.ч.** — food, meal
+- **единица** — one, unit, "very poor" grade
+- **единичный, -ая, -ое, -ые** — single, isolated
+- **единогласный, -ая, -ое, -ые; единогласно** — unanimous; unanimously
+- **единомышленник** — like-minded person
+- **единственный, -ая, -ое, -ые** — the only, sole
+- **единый, -ая, -ое, -ые** — united, single
+- **её** — her, hers
+- **ежегодный, -ая, -ое, -ые; ежегодно** — yearly, annual; annually
+- **ежедневный, -ая, -ое, -ые; ежедневно** — daily; daily
+- **ежемесячный, -ая, -ое, -ые; ежемесячно** — monthly; monthly
+- **еженедельный, -ая, -ое, -ые; еженедельно** — weekly; weekly
+- **ездить (езжу, ездишь) нсв II куда? откуда?** — to go, to travel (multidirectional, by transport)
+- **ель ж.р.** — fir tree
+- **если** — if
+- **естественный, -ая, -ое, -ые; естественно 1) естественные науки 2) естественная реакция** — natural; naturally: 1) natural sciences 2) natural reaction
+- **есть 1 — У меня есть брат.** — to have — I have a brother.
+- **есть 2 (ем, ешь, ест, едим, едите, едят; прош.вр.: ел, ела, ели) нсв I — поесть (поем, поешь, поест, поедим, поедите, поедят) св I / съесть (съем, съешь, съест, съедим, съедите, съедят) св I что?** — to eat
+- **ехать (еду, едешь) нсв I куда? откуда?** — to go, to travel (unidirectional, by transport)
+- **ещё** — still, yet, more
+
+## Ё
+
+- **ёж, ёжик; мн.ч. ежи** — hedgehog
+- **ёлка; р.п. мн.ч. ёлок** — fir tree, Christmas tree
+
+## Ж
+
+- **жадность ж.р. только ед.ч.** — greed
+- **жадный, -ая, -ое, -ые; жадно** — greedy; greedily
+- **жалеть нсв I — пожалеть св I кого? что? о ком? о чём?** — to pity, to regret
+- **жалко** — it's a pity
+- **жаловаться (жалуюсь, жалуешься) нсв I — пожаловаться (пожалуюсь, пожалуешься) св I кому? на кого? на что?** — to complain
+- **жалость ж.р. только ед.ч.** — pity, compassion
+- **жаль** — it's a pity
+- **жара только ед.ч.** — heat
+- **жаргон** — slang, jargon
+- **жареный, -ая, -ое, -ые** — fried
+- **жарить нсв II — пожарить св II что?** — to fry
+- **жаркий, -ая, -ое, -ие; жарко** — hot; it is hot
+- **жаркое сущ. только ед.ч.** — roast meat
+- **ждать (жду, ждёшь) нсв I — подождать (подожду, подождёшь) св I 1) кого? — ждать подругу 2) чего? — ждать автобуса, помощи** — to wait: 1) to wait for a friend 2) to wait for the bus, for help
+- **же** — but, as for, indeed (emphatic particle)
+- **желание** — wish, desire
+- **желательно** — it is desirable
+- **желать нсв I — пожелать св I кому? чего? / + инф.** — to wish
+- **железнодорожный, -ая, -ое, -ые** — railway (adj.)
+- **железный, -ая, -ое, -ые** — iron, made of iron
+- **железо только ед.ч.** — iron
+- **желтеть нсв I — пожелтеть св I** — to turn yellow
+- **желудок, р.п. ед.ч. желудка** — stomach
+- **жемчуг** — pearl
+- **жена** — wife
+- **женат; мн.ч. -ы кр.ф.** — married (of a man)
+- **жениться нсв и св II на ком?** — to marry (of a man)
+- **жених** — fiancé, bridegroom
+- **женский, -ая, -ое, -ие** — female, women's
+- **женщина** — woman
+- **жертва** — victim, sacrifice
+- **жертвовать (жертвую, жертвуешь) нсв I — пожертвовать (пожертвую, пожертвуешь) св I что? кому? на что? / чем?** — to sacrifice, to donate
+- **жест** — gesture
+- **жестокий, -ая, -ое, -ие; жестоко 1) жестокий человек 2) жестокая борьба** — cruel; cruelly: 1) cruel person 2) fierce struggle
+- **жёлтый, -ая, -ое, -ые** — yellow
+- **жёсткий, -ая, -ое, -ие 1) жёсткое мясо 2) жёсткий диван** — tough, hard: 1) tough meat 2) hard sofa
+- **живой, -ая, -ое, -ые; кр.ф. жив, -а, живо, -ы 1) живая рыба 2) живой ум** — alive, living, lively: 1) live fish 2) lively mind
+- **живопись ж.р., только ед.ч.** — painting (art)
+- **живот** — belly, stomach
+- **животное, -ые сущ.** — animal
+- **жидкий, -ая, -ое, -ие** — liquid, watery
+- **жидкость ж.р.** — liquid, fluid
+- **жизнерадостный, -ая, -ое, -ые** — cheerful
+- **жизнь ж.р.** — life
+- **жилой, -ая, -ое, -ые** — residential
+- **жир** — fat
+- **жирный, -ая, -ое, -ые 1) жирное мясо 2) жирное пятно** — fatty, greasy: 1) fatty meat 2) grease stain
+- **житель; жительница** — inhabitant, resident
+- **жить (живу, живёшь) нсв I где? у кого?** — to live
+- **жук** — beetle, bug
+- **журнал** — magazine
+- **журналист; журналистка; р.п. мн.ч. журналисток** — journalist
+- **журналистика только ед.ч.** — journalism
+- **жюри ср.р. неизм.** — jury
+
+## З
+
+- **за 1) в.п. за что? — благодарить за помощь 2) в.п. за сколько времени? — сделать за час 3) в.п. куда? — сесть за стол 4) т.п. где? — дом за магазином 5) т.п. за чем? — пойти за хлебом** — for, behind: 1) to thank for help 2) to do (something) within an hour 3) to sit down at the table 4) the house is behind the shop 5) to go to buy bread
+- **забастовка; р.п. мн.ч. забастовок** — strike
+- **забивать нсв I — забить (забью, забьёшь) св I — забить гвоздь, гол** — to hammer in; to score — to hammer in a nail, to score a goal
+- **забить св I см. забивать** — to hammer in, to score
+- **заболеть св I см. болеть** — to fall ill
+- **забор** — fence
+- **заботиться (забочусь, заботишься) нсв II — позаботиться (позабочусь, позаботишься) св II о ком? о чём?** — to take care (of), to look after
+- **заботливый, -ая, -ое, -ые; заботливо** — caring; caringly
+- **забронировать св I см. бронировать** — to book, to reserve
+- **забывать нсв I — забыть (забуду, забудешь) св I кого? что? / о ком? о чём?** — to forget
+- **забыть св I см. забывать** — to forget
+- **заваривать нсв I — заварить св II — заварить чай** — to brew — to brew tea
+- **заварить св II см. заваривать** — to brew
+- **завернуть св I см. заворачивать** — to wrap up, to turn
+- **завести св I см. заводить** — to bring in, to acquire, to wind up
+- **завещание** — will, testament
+- **завидовать (завидую, завидуешь) нсв I — позавидовать (позавидую, позавидуешь) св I кому? чему?** — to envy
+- **зависеть (завишу, зависишь) только нсв II от кого? от чего?** — to depend (on)
+- **зависть ж.р. только ед.ч.** — envy
+- **завод** — factory, plant
+- **заводить (завожу, заводишь) нсв II — завести (заведу, заведёшь) св I 1) кого? куда? — завести в лес 2) что? — заводить часы 3) кого? — завести собаку** — to bring in, to wind up, to acquire: 1) to lead into the forest 2) to wind up a clock 3) to get a dog
+- **завоевать св см. завоёвывать** — to conquer, to win
+- **завоёвывать нсв I — завоевать (завоюю, завоюешь) св I что?** — to conquer, to win
+- **заворачивать нсв I — завернуть св I куда?** — to wrap up, to turn
+- **завтра** — tomorrow
+- **завтрак** — breakfast
+- **завтракать нсв I — позавтракать св I** — to have breakfast
+- **завтрашний, -яя, -ее, -ие** — tomorrow's
+- **завязать св I см. завязывать** — to tie up
+- **завязывать нсв I — завязать (завяжу, завяжешь) св I что? 1) завязать галстук 2) завязать больной палец 3) завязывать знакомство** — to tie up: 1) to tie a necktie 2) to bandage a sore finger 3) to strike up an acquaintance
+- **завянуть св I см. вянуть** — to wilt, to fade
+- **загадка; р.п. мн.ч. загадок** — riddle, mystery
+- **загадочный, -ая, -ое, -ые; загадочно** — mysterious; mysteriously
+- **заговор** — conspiracy, plot
+- **заголовок, р.п. заголовка; мн.ч. заголовки** — headline, title
+- **загорать нсв I — загореть св II** — to sunbathe, to get a tan
+- **загорелый, -ая, -ое, -ые** — sunburnt, tanned
+- **загореть св II см. загорать** — to sunbathe, to get a tan
+- **заграничный, -ая, -ое, -ые** — foreign
+- **загрязнение — загрязнение окружающей среды** — pollution — environmental pollution
+- **загрязнить св II см. загрязнять** — to pollute
+- **загрязнять нсв I — загрязнить св II что?** — to pollute
+- **задавать (задаю, задаёшь) нсв I — задать (задам, задашь) св I что? 1) задавать вопрос 2) задать задание** — to set, to ask: 1) to ask a question 2) to assign a task
+- **задание** — task, assignment
+- **задать св I см. задавать** — to set, to ask
+- **задача 1) задача по физике 2) задачи государства** — task, problem: 1) physics problem 2) tasks of the state
+- **задуматься св I** — to become thoughtful, to muse
+- **зажечь св I см. зажигать** — to light
+- **зажигать нсв I — зажечь (зажгу, зажжёшь, зажгут) св I что?** — to light
+- **зажигалка; р.п. мн.ч. зажигалок** — lighter
+- **заинтересовать (заинтересую, заинтересуешь) св I кого? чем?** — to interest, to make interested
+- **заинтересоваться (заинтересуюсь, заинтересуешься) св I кем? чем?** — to become interested (in)
+- **зайти св I см. заходить** — to drop in, to call, to go behind
+- **заказать св I см. заказывать** — to order
+- **заказывать нсв I — заказать (закажу, закажешь) св I что?** — to order
+- **заканчивать нсв I — закончить св II что?** — to finish
+- **заканчиваться нсв I — закончиться св II** — to end, to finish
+- **закат** — sunset
+- **заключаться (1 и 2 л. не употр.) только нсв I в чём? — Не знаем, в чём заключается проблема.** — to consist (in), to lie (in) — We don't know what the problem consists in.
+- **заключение — заключение специалиста** — conclusion — an expert's conclusion
+- **заключительный, -ая, -ое, -ые** — final, concluding
+- **закон** — law
+- **закономерный, -ая, -ое, -ые; закономерно** — regular, natural; naturally
+- **законспектировать св I см. конспектировать** — to make notes, to summarize
+- **закончить св II см. заканчивать** — to finish
+- **закончиться св II см. заканчиваться** — to end, to finish
+- **закричать (закричу, закричишь) св II** — to cry out, to shout
+- **закрывать нсв I — закрыть (закрою, закроешь) св I что? 1) закрывать дверь 2) закрыть конференцию** — to close, to shut: 1) to close the door 2) to close the conference
+- **закрываться нсв I — закрыться (закроюсь, закроешься) св I** — to close, to shut (itself)
+- **закрыт, -а, -о, -ы кр.ф.** — closed
+- **закрыть св I см. закрывать** — to close, to shut
+- **закрыться св I см. закрываться** — to close, to shut
+- **закурить св II** — to light up (a cigarette), to start smoking
+- **закуска; р.п. мн.ч. закусок** — snack, appetizer
+- **зал** — hall
+- **залив** — bay, gulf
+- **заложник** — hostage
+- **заменить св II см. заменять** — to replace
+- **заменять нсв I — заменить св II кого? что?** — to replace
+- **заместитель** — deputy, assistant
+- **заметить св II см. замечать** — to notice
+- **замечание** — remark, reprimand
+- **замечательный, -ая, -ое, -ые; замечательно** — remarkable, wonderful; remarkably
+- **замечать нсв I — заметить (замечу, заметишь) св II кого? что?** — to notice
+- **замёрзнуть св см. мёрзнуть** — to freeze
+- **замок, р.п. замка** — lock; castle
+- **замолчать (замолчу, замолчишь) св II** — to fall silent, to stop talking
+- **заморозки только мн.ч.** — (ground) frost
+- **замуж — выйти замуж за кого?** — (of a woman) to marry — to get married to someone
+- **замужем** — married (of a woman)
+- **занимать нсв I — занять (займу, займёшь) св I что? 1) занимать много места 2) занимать деньги** — to occupy; to borrow: 1) to take up a lot of space 2) to borrow money
+- **заниматься нсв I 1) чем? — заниматься спортом, русским языком; 2) где? — заниматься в библиотеке, дома** — to study, to be engaged in: 1) to do sports, to study Russian 2) to study in the library, at home
+- **занят, -а, -о, -ы кр.ф.** — busy, occupied
+- **занятие 1) занятие по русскому языку 2) Коллекционирование — интересное занятие.** — lesson, occupation: 1) Russian language lesson 2) Collecting is an interesting occupation.
+- **занять св I см. занимать** — to occupy, to borrow
+- **запад только ед.ч.** — west
+- **западный, -ая, -ое, -ые** — western
+- **запах** — smell
+- **записать св I см. записывать** — to write down, to record
+- **записка; р.п. мн.ч. записок** — note
+- **записывать нсв I — записать (запишу, запишешь) св I что? / кого? куда? 1) что? — записать лекцию 2) что? — записать музыку, фильм 3) кого? — записать друга на экскурсию** — to write down, to record, to sign up: 1) to write down a lecture 2) to record music, a film 3) to sign a friend up for an excursion
+- **заплакать (заплачу, заплачешь) только св I** — to burst into tears
+- **запланировать св I см. планировать** — to plan
+- **заплатить св II см. платить** — to pay
+- **заповедник** — (nature) reserve
+- **запоминать нсв I — запомнить св II кого? что?** — to memorize
+- **запомнить св II см. запоминать** — to memorize
+- **запрет** — prohibition, ban
+- **запретить св II см. запрещать** — to forbid, to ban
+- **запрещать нсв I — запретить (запрещу, запретишь) св II кому? + инф. / что?** — to forbid, to ban
+- **зарабатывать нсв I — заработать св I** — to earn
+- **заработать св I см. зарабатывать** — to earn
+- **заражать (заражаю, заражаешь) нсв I — заразить (заражу, заразишь) св II кого? чем?** — to infect
+- **заражаться нсв I — заразиться (заражусь, заразишься) св II чем?** — to catch, to become infected (with)
+- **заразить св II см. заражать** — to infect
+- **заразиться св II см. заражаться** — to catch, to become infected
+- **заранее** — in advance
+- **зарегистрироваться св I см. регистрироваться** — to register
+- **зарплата** — salary
+- **зарубежный, -ая, -ое, -ые** — foreign
+- **заседание** — meeting, session
+- **засмеяться (засмеюсь, засмеёшься) только св I** — to start laughing
+- **засмотреться св II** — to be absorbed in watching
+- **заснуть св I см. засыпать** — to fall asleep
+- **застегнуть св I см. застёгивать** — to fasten, to button up
+- **застегнуться св I см. застёгиваться** — to fasten, to button up (oneself)
+- **застёгивать нсв I — застегнуть св I что?** — to fasten, to button up
+- **застёгиваться нсв I — застегнуться св I** — to fasten, to button up (oneself)
+- **засыпать нсв I — заснуть св I** — to fall asleep
+- **затем** — then, after that
+- **затормозить св II см. тормозить** — to brake
+- **заходить (захожу, заходишь) нсв II — зайти (зайду, зайдёшь; прош.вр. зашёл, зашла, зашли) св I куда? 1) куда? — зайти в магазин по дороге домой 2) куда? — зайти за угол 3) за кем? за чем? — зайти за другом, за книгой 4) солнце зашло** — to drop in, to call: 1) to drop into the shop on the way home 2) to turn round the corner 3) to call for a friend, for a book 4) the sun set
+- **захотеть (захочу, захочешь) св I + инф.** — to want, to wish
+- **зачем** — what for, why
+- **зачем-то** — for some purpose
+- **зачёт** — test, pass/fail exam
+- **зачитаться св I см. зачитываться** — to become absorbed in reading
+- **зачитываться нсв I — зачитаться св I** — to become absorbed in reading
+- **защитить св II см. защищать** — to defend
+- **защищать нсв I — защитить (защищу, защитишь) св II кого? что? от кого? от чего?** — to defend
+- **защитник** — defender, protector
+- **заявить св II см. заявлять** — to declare, to state
+- **заявление** — statement, application
+- **заявлять нсв I — заявить (заявлю, заявишь) св II** — to declare, to state
+- **заяц, р.п. ед.ч. зайца; мн.ч. зайцы, р.п. мн.ч. зайцев** — hare
+- **звать 1 только нсв I — Его зовут Андрей.** — to call — His name is Andrey.
+- **звать 2 (зову, зовёшь) нсв I — позвать (позову, позовёшь) св I кого?** — to call (someone)
+- **звезда; мн.ч. звёзды** — star
+- **зверь** — beast, wild animal
+- **звонить нсв II — позвонить св II кому?** — to phone, to call
+- **звонок, р.п. ед.ч. звонка; мн.ч. звонки** — bell, phone call
+- **звук** — sound
+- **звучать нсв II — прозвучать св II** — to sound
+- **здание** — building
+- **здесь** — here
+- **здороваться нсв I — поздороваться св I c кем?** — to greet, to say hello
+- **здоровый, -ая, -ое, -ые; кр.ф. здоров, -а, -о, -ы** — healthy
+- **здоровье только ед.ч.** — health
+- **здравствуй(те)** — hello
+- **зевать нсв I — зевнуть св I** — to yawn
+- **зевнуть св I см. зевать** — to yawn
+- **зелень ж.р. только ед.ч. — Купи зелень — петрушку и укроп.** — greens — Buy some greens — parsley and dill.
+- **зелёный, -ая, -ое, -ые** — green
+- **землетрясение** — earthquake
+- **земля; р.п. мн. ч. земель 1) только ед.ч. — планета Земля 2) посадить цветок в землю** — earth, land, ground: 1) planet Earth 2) to plant a flower in the ground
+- **земной, -ая, -ое, -ые** — earthly, terrestrial
+- **зеркало** — mirror
+- **зима** — winter
+- **зимний, -яя, -ее, -ие** — winter (adj.)
+- **зимой** — in winter
+- **злиться нсв II — разозлиться св II** — to be angry, to get angry
+- **злой, -ая, -ое, -ые; зло** — angry, evil, mean; angrily
+- **змея** — snake
+- **знак** — sign
+- **знакомить (знакомлю, знакомишь) нсв II — познакомить (познакомлю, познакомишь) св II кого? с кем? с чем?** — to introduce, to acquaint
+- **знакомиться (знакомлюсь, знакомишься) нсв II — познакомиться (познакомлюсь, познакомишься) св II с кем? с чем?** — to become acquainted (with), to meet
+- **знакомый, -ая, -ое, -ые; кр. ф. знаком, -а, -о, -ы** — familiar, acquainted
+- **знакомый, -ые сущ.** — acquaintance
+- **знаменитый, -ая, -ое, -ые** — famous
+- **знание** — knowledge
+- **знать нсв I кого? что?** — to know
+- **значение** — meaning, significance
+- **значит** — so, therefore, consequently
+- **значить только нсв II** — to mean, to signify
+- **значок, р.п. значка; им.п. мн.ч. значки** — badge
+- **золото только ед. ч.** — gold
+- **золотой, -ая, -ое, -ые** — golden
+- **зонт; зонтик** — umbrella
+- **зоопарк** — zoo
+- **зрение только ед.ч.** — eyesight, vision
+- **зритель** — viewer, spectator
+- **зрительный, -ая, -ое, -ые** — visual
+- **зря** — in vain
+- **зуб** — tooth
+- **зубной, -ая, -ое, -ые** — dental
+- **зять** — son-in-law
+
+## И
+
+- **и** — and
+- **игла, иголка; р.п. мн.ч. иголок** — needle
+- **игра** — game, play
+- **играть нсв I — сыграть св I 1) во что? — в теннис 2) на чём? — на гитаре** — to play: 1) to play tennis 2) to play the guitar
+- **игрушка; р.п. мн.ч. игрушек** — toy
+- **идеал** — ideal
+- **идеалист** — idealist
+- **идеальный, -ая, -ое, -ые; идеально** — ideal, perfect; perfectly
+- **идея** — idea
+- **идти (иду, идёшь; прош.вр. шёл, шла, шли) нсв I куда? откуда? 1) идти домой, на работу, с работы 2) автобус идёт 3) время идёт 4) дождь идёт 5) фильм, передача идёт 6) урок идёт 7) ремонт, строительство идёт 8) кому? — Ей идёт синий цвет.** — to go, to walk: 1) to go home, to work, from work 2) the bus is coming 3) time passes 4) it is raining 5) the film/programme is on 6) the lesson is going on 7) repairs/construction are underway 8) Blue suits her.
+- **из, изо + р.п. 1) выйти из магазина 2) узнать из газеты 3) спросить из любопытства** — from, out of: 1) to leave the shop 2) to learn from the newspaper 3) to ask out of curiosity
+- **изба** — peasant hut
+- **избаловать св I см. баловать** — to spoil
+- **избиратель** — voter
+- **избирательный, -ая, -ое, -ые** — electoral
+- **избить св I см. бить** — to beat up
+- **известный, -ая, -ое, -ые; известно; кр.ф. известен, известна, -о, -ы чем?** — famous, known; it is known
+- **извинить св II см. извинять** — to excuse, to forgive
+- **извиниться св II см. извиняться** — to apologize
+- **извинять нсв I — извинить св II кого? за что?** — to excuse, to forgive
+- **извиняться нсв I — извиниться св II за что?** — to apologize
+- **издавать (издаю, издаёшь) нсв I — издать (издам, издашь) св I что?** — to publish, to issue
+- **издательство** — publishing house
+- **издать св I см. издавать** — to publish, to issue
+- **из-за + р.п. 1) выйти из-за угла 2) опоздать из-за транспорта** — because of, from behind: 1) to come out from behind the corner 2) to be late because of transport
+- **измена** — betrayal, treason
+- **изменение** — change
+- **изменить 1 св II см. изменять 1** — to change, to alter
+- **изменить 2 св II см. изменять 2** — to betray
+- **измениться св II см. изменяться** — to change, to alter
+- **изменять 1 нсв I — изменить 1 св II что? — изменить свою жизнь, ситуацию** — to change, to alter — to change one's life, the situation
+- **изменять 2 нсв I — изменить 2 св II кому? чему? 1) изменить родине 2) изменять жене** — to betray, to be unfaithful: 1) to betray one's country 2) to be unfaithful to one's wife
+- **изменяться нсв I — измениться св II** — to change, to alter
+- **измерить св II см. измерять** — to measure
+- **измерять нсв I — измерить св II кого? что?** — to measure
+- **изображать нсв I — изобразить (изображу, изобразишь) св II кого? что?** — to depict, to portray
+- **изображение** — image, picture
+- **изобразить св II см. изображать** — to depict, to portray
+- **изобретатель** — inventor
+- **изобретение** — invention
+- **из-под + р.п. 1) достать из-под стола 2) пакет из-под молока** — from under: 1) to take from under the table 2) an empty milk carton
+- **изучать нсв I — изучить св II что?** — to study
+- **изучение только ед.ч.** — study, learning
+- **изучить св II см. изучать** — to study
+- **изюм только ед.ч.** — raisins
+- **изящный, -ая, -ое, -ые; изящно** — graceful, elegant; gracefully
+- **икона** — icon
+- **икра только ед.ч.** — caviar
+- **или** — or
+- **именно** — precisely, namely
+- **иметь нсв I что?** — to have
+- **имидж** — image (public)
+- **иммигрант** — immigrant
+- **иммигрировать (иммигрирую, иммигрируешь) нсв и св I** — to immigrate
+- **иммунитет только ед.ч.** — immunity
+- **импорт только ед.ч.** — import
+- **имя ср.р., р.п. ед.ч. имени; мн.ч. имена, р.п. мн.ч. имён** — name
+- **иначе** — otherwise
+- **инвалид** — disabled person
+- **инвестировать (инвестирую, инвестируешь) нсв и св I что? во что?** — to invest
+- **инвестиция** — investment
+- **инвестор** — investor
+- **индекс — почтовый индекс** — index, code — postcode
+- **индивидуалист** — individualist
+- **индивидуальный, -ая, -ое, -ые; индивидуально** — individual; individually
+- **индуизм только ед.ч.** — Hinduism
+- **индустриальный, -ая, -ое, -ые** — industrial
+- **инженер** — engineer
+- **инициалы только мн.ч.** — initials
+- **инициатива** — initiative
+- **инициативный, -ая, -ое, -ые** — enterprising, taking initiative
+- **иногда** — sometimes
+- **иностранец; мн.ч. иностранцы; иностранка; р.п. мн.ч. иностранок** — foreigner
+- **иностранный, -ая, -ое, -ые** — foreign
+- **инспектор** — inspector
+- **инспекция — налоговая, автодорожная инспекция** — inspection (agency) — tax inspectorate, traffic police
+- **институт** — institute
+- **инструкция** — instruction
+- **инструмент** — instrument, tool
+- **интеллект** — intellect
+- **интеллектуал** — intellectual (person)
+- **интеллектуальный, -ая, -ое, -ые** — intellectual
+- **интеллигент** — member of the intelligentsia
+- **интеллигентный, -ая, -ое, -ые** — cultured, educated
+- **интеллигенция** — intelligentsia
+- **интенсивный, -ая, -ое, -ые; интенсивно** — intensive; intensively
+- **интервал** — interval
+- **интервью ср.р. неизм.** — interview
+- **интерес 1) к чему? — интерес к музыке 2) + только мн.ч. — интересы общества** — interest: 1) interest in music 2) interests of society
+- **интересный, -ая, -ое, -ые; интересно** — interesting; interestingly
+- **интересовать нсв I кого?** — to interest
+- **интересоваться (интересуюсь, интересуешься) нсв I — поинтересоваться (поинтересуюсь, поинтересуешься) св I кем? чем?** — to be interested (in)
+- **интернациональный, -ая, -ое, -ые** — international
+- **Интернет только ед.ч.** — the Internet
+- **интимный, -ая, -ое, -ые** — intimate
+- **интонация** — intonation
+- **интуиция только ед.ч.** — intuition
+- **инфаркт** — heart attack
+- **инфекция** — infection
+- **информативный, -ая, -ое, -ые** — informative
+- **информационный, -ая, -ое, -ые** — information (adj.)
+- **информация только ед.ч.** — information
+- **ироничный, -ая, -ое, -ые; иронично** — ironic; ironically
+- **ирония только ед.ч.** — irony
+- **искать (ищу, ищешь) нсв I — найти (найду, найдёшь; прош.вр. нашёл, нашла, нашли) св I кого? что? / чего?** — to look for, to search; to find
+- **исключение** — exception
+- **исключать нсв I — исключить св II кого? что? откуда?** — to exclude, to expel
+- **исключительно 1) исключительно талантливый человек 2) Она выздоровела исключительно благодаря диете.** — exceptionally, exclusively: 1) an exceptionally talented person 2) She recovered exclusively thanks to the diet.
+- **исключить св II см. исключать** — to exclude, to expel
+- **искренний, -яя, -ее, -ие; искренне** — sincere; sincerely
+- **искусственный, -ая, -ое, -ые; искусственно** — artificial; artificially
+- **искусство только ед.ч.** — art
+- **ислам только ед.ч.** — Islam
+- **испанец; мн.ч. испанцы; испанка; р.п. мн.ч. испанок** — Spaniard
+- **испанский, -ая, -ое, -ие** — Spanish
+- **испанско-русский, -ая, -ое, -ие** — Spanish-Russian
+- **испачкать св I см. пачкать** — to dirty, to soil
+- **испачкаться св I см. пачкаться** — to get dirty
+- **испечь св I см. печь** — to bake
+- **исполнить св II см. исполнять** — to perform, to fulfil
+- **исполниться св II см. исполняться** — to come true, to be fulfilled
+- **исполнять нсв I — исполнить св II что? — исполнить песню** — to perform, to carry out — to perform a song
+- **исполняться нсв I — исполниться св II (1 и 2 л. не употр.)** — to come true, to turn (of age)
+- **использовать (использую, используешь) нсв и св I что?** — to use
+- **испортить св II см. портить** — to spoil, to damage
+- **испортиться св II см. портиться** — to go bad, to break down
+- **исправить св II см. исправлять** — to correct, to fix
+- **исправлять нсв I — исправить (исправлю, исправишь) св II что?** — to correct, to fix
+- **испугать св I см. пугать** — to frighten
+- **испугаться св I см. пугаться** — to get scared
+- **исследование** — research, study
+- **исследователь** — researcher
+- **исследовать (исследую, исследуешь) нсв и св I что?** — to research, to investigate
+- **историк** — historian
+- **исторический, -ая, -ое, -ие** — historical
+- **история 1) только ед.ч. — изучать историю 2) рассказывать разные истории** — history, story: 1) to study history 2) to tell various stories
+- **истратить св II см. тратить** — to spend
+- **итак** — so, thus
+- **итог** — sum, result
+- **итого** — total, in all
+- **иудаизм только ед.ч.** — Judaism
+- **их** — their, theirs
+- **июль** — July
+- **июнь** — June
+
+## Й
+
+- **йод только ед.ч.** — iodine
+
+## К
+
+- **к, ко + д.п. 1) идти к парку 2) закончить работу к январю 3) варенье к чаю** — to, towards, by: 1) to go towards the park 2) to finish work by January 3) jam for tea
+- **кабинет** — office, study
+- **каждый, -ая, -ое, -ые** — every, each
+- **казаться нсв I — показаться 2 св I 1) каким? — Он показался мне грустным. 2) Мне кажется, что она талантлива.** — to seem: 1) He seemed sad to me. 2) It seems to me that she is talented.
+- **как 1) Как он работает? 2) Он высокий, как отец. 3) Как он поёт!** — how, as, like: 1) How does he work? 2) He is as tall as his father. 3) How wonderfully he sings!
+- **какао неизм.** — cocoa
+- **как будто** — as if
+- **как ..., так и ...** — both ... and ..., not only ... but also ...
+- **как-нибудь** — somehow, some time
+- **каков, -а, -о, -ы** — what, what like
+- **какой, -ая, -ое, -ие** — which, what kind of
+- **какой-либо** — some, any
+- **какой-нибудь** — some, any
+- **какой-то** — some
+- **как-то** — sometime, somehow
+- **календарь** — calendar
+- **калорийный, -ая, -ое, -ые** — caloric, high-calorie
+- **калькулятор** — calculator
+- **каменный, -ая, -ое, -ые** — stone (adj.)
+- **камень, р.п. ед.ч. камня; мн.ч. камни, р.п. мн.ч. камней** — stone
+- **кампания — избирательная кампания** — campaign — election campaign
+- **канал 1) Суэцкий канал 2) телевизионный канал** — canal, channel: 1) Suez Canal 2) TV channel
+- **кандидат** — candidate
+- **каникулы только мн.ч.** — (school) holidays
+- **капитализм только ед.ч.** — capitalism
+- **капиталистический, -ая, -ое, -ие** — capitalist
+- **капитан** — captain
+- **капуста** — cabbage
+- **карамель ж.р. только ед.ч.** — caramel
+- **карандаш** — pencil
+- **карман** — pocket
+- **карта** — map
+- **картина** — picture, painting
+- **картофель только ед.ч.** — potatoes
+- **карточка; р.п. мн.ч. карточек — визитная, кредитная карточка** — card — business card, credit card
+- **картошка только ед.ч. разг.** — potatoes (coll.)
+- **карьера только ед.ч.** — career
+- **касаться нсв I — коснуться св I чего? 1) касаться плеча 2) коснуться вопроса** — to touch, to concern: 1) to touch a shoulder 2) to touch on a question
+- **касса** — cash desk, ticket office
+- **кассета** — cassette
+- **кассир** — cashier
+- **кастрюля** — saucepan
+- **каталог** — catalogue
+- **катастрофа** — catastrophe
+- **кататься нсв I — покататься св I на чём?** — to ride, to go for a ride
+- **каток, р.п. ед.ч. катка** — skating rink
+- **католик; католичка; р.п. мн.ч. католичек** — Catholic (person)
+- **католицизм только ед.ч.** — Catholicism
+- **кафе неизм.** — café
+- **кафедра** — department, chair (university)
+- **качать нсв I — покачать св I 1) качать головой 2) качать ребёнка** — to rock, to shake: 1) to shake one's head 2) to rock a child
+- **качаться нсв I** — to swing, to sway
+- **качественный, -ая, -ое, -ые; качественно** — of high quality; qualitatively
+- **качество только ед.ч.** — quality
+- **каша** — kasha, porridge
+- **кашель только ед.ч., р.п. кашля** — cough
+- **кашлять нсв I** — to cough
+- **квадрат** — square
+- **квадратный, -ая, -ое, -ые** — square (adj.)
+- **квалифицированный, -ая, -ое, -ые** — qualified
+- **квартира** — flat, apartment
+- **квас только ед.ч.** — kvass
+- **квитанция** — receipt
+- **кекс** — cake, muffin
+- **кепка; р.п. мн.ч. кепок** — cap
+- **керамика только ед.ч.** — ceramics
+- **кефир только ед.ч.** — kefir
+- **кивать нсв I — кивнуть св I** — to nod
+- **кивнуть св I см. кивать** — to nod
+- **килограмм** — kilogram
+- **километр** — kilometre
+- **кино неизм.** — cinema, movies
+- **кинотеатр** — cinema (building)
+- **киоск** — kiosk
+- **кипеть нсв II** — to boil
+- **кипятить (кипячу, кипятишь) нсв II — вскипятить (вскипячу, вскипятишь) св II что?** — to boil
+- **кипячёный, -ая, -ое, -ые** — boiled
+- **кирпич** — brick
+- **кисель** — kissel (jelly-like dessert)
+- **кислород только ед.ч.** — oxygen
+- **кислый, -ая, -ое, -ые** — sour
+- **китаец; мн.ч. китайцы; китаянка; р.п. мн.ч. китаянок** — Chinese (person)
+- **китайский, -ая, -ое, -ие** — Chinese
+- **китайско-русский, -ая, -ое, -ие** — Chinese-Russian
+- **класс 1) учиться в первом классе 2) специалист высокого класса** — class, grade: 1) to be in first grade 2) high-class specialist
+- **классический, -ая, -ое, -ие** — classical
+- **классовый, -ая, -ое, -ые — классовое общество** — class (adj.) — class society
+- **класть (кладу, кладёшь) нсв I — положить св II что? куда?** — to put
+- **клеить нсв II что?** — to glue
+- **клей только ед.ч.** — glue
+- **клиент** — client
+- **климат только ед.ч.** — climate
+- **клуб** — club
+- **клубника только ед.ч.** — strawberry
+- **клюква только ед.ч.** — cranberry
+- **ключ** — key
+- **книга** — book
+- **книжный, -ая, -ое, -ые** — book (adj.)
+- **ковёр, р.п.ед.ч. ковра; мн.ч. ковры** — carpet
+- **когда** — when
+- **когда-либо** — sometime
+- **когда-нибудь** — someday
+- **когда-то** — once, at some point
+- **код** — code
+- **кое-где** — here and there
+- **кое-как** — anyhow
+- **кое-какой** — some
+- **кое-когда** — now and then
+- **кое-кто** — somebody
+- **кое-куда** — somewhere
+- **кое-что** — something
+- **кожа только ед.ч.** — skin, leather
+- **кожаный, -ая, -ое, -ые** — leather (adj.)
+- **колбаса** — sausage
+- **колготки только мн.ч., р.п. колготок** — tights
+- **колено** — knee
+- **колесо** — wheel
+- **количество** — quantity, amount
+- **коллега м. и ж. р.** — colleague
+- **колледж** — college
+- **коллектив** — collective, team
+- **коллективный, -ая, -ое, -ые** — collective
+- **коллекционер** — collector
+- **коллекционировать (коллекционирую, коллекционируешь) нсв I что?** — to collect
+- **коллекция** — collection
+- **колокол** — bell
+- **кольцо; р.п. мн.ч. колец** — ring
+- **коляска; р.п. мн.ч. колясок — детская, инвалидная коляска** — carriage — baby carriage, wheelchair
+- **команда** — team; command
+- **командировка; р.п. мн.ч. командировок** — business trip
+- **командовать (командую, командуешь) нсв I кем? чем?** — to command
+- **комар** — mosquito
+- **комедия** — comedy
+- **комитет** — committee
+- **комментировать (комментирую, комментируешь) нсв I — прокомментировать (прокомментирую, прокомментируешь) св I что?** — to comment (on)
+- **коммерческий, -ая, -ое, -ие** — commercial
+- **коммунист** — communist
+- **коммунистический, -ая, -ое, -ие** — communist (adj.)
+- **комната** — room
+- **компания 1) компания друзей 2) энергетическая компания** — company, group: 1) group of friends 2) energy company
+- **компенсация** — compensation
+- **компенсировать (компенсирую, компенсируешь) нсв и св I что? кому?** — to compensate
+- **комплекс** — complex
+- **комплимент** — compliment
+- **композитор** — composer
+- **компот** — compote
+- **компресс** — compress
+- **компромисс** — compromise
+- **компьютер** — computer
+- **комфортный, -ая, -ое, -ые; комфортно** — comfortable; comfortably
+- **конверт** — envelope
+- **конгресс** — congress
+- **кондитерский, -ая, -ое, -ие** — confectionery (adj.)
+- **кондиционер** — air conditioner
+- **кондуктор** — (bus/train) conductor
+- **конец, р.п. ед.ч. конца** — end
+- **конечно** — of course
+- **конкретный, -ая, -ое, -ые; конкретно** — concrete, specific; specifically
+- **конкурент** — competitor
+- **конкуренция только ед.ч.** — competition
+- **конкурс** — contest, competition
+- **консервативный, -ая, -ое, -ые; консервативно** — conservative; conservatively
+- **консерватория** — conservatory (music school)
+- **консервы только мн.ч.** — canned food
+- **конспектировать (конспектирую, конспектируешь) нсв I — законспектировать (законспектирую, законспектируешь) св I что?** — to take notes, to summarize
+- **конституция** — constitution
+- **консультант** — consultant
+- **консультация** — consultation
+- **контрабанда только ед.ч.** — contraband
+- **контракт** — contract
+- **контроль только ед.ч.** — control
+- **контрольный, -ая, -ое, -ые — контрольная работа** — control (adj.) — test (at school)
+- **конференция** — conference
+- **конфета** — sweet, candy
+- **конфликт** — conflict
+- **концерт** — concert
+- **кончать нсв I — кончить св II что? / + инф. нсв** — to finish, to end
+- **кончаться нсв I — кончиться св II** — to end, to come to an end
+- **кончить св II см. кончать** — to finish, to end
+- **кончиться св II см. кончаться** — to end, to come to an end
+- **коньки мн.ч.; ед.ч. конёк, р.п. ед.ч. конька** — skates
+- **копейка; р.п. мн.ч. копеек** — kopeck
+- **копить (коплю, копишь) нсв II — накопить (накоплю, накопишь) св II что?** — to save up, to accumulate
+- **копия** — copy
+- **корабль** — ship
+- **Коран** — the Koran
+- **корень; мн.ч. корни** — root
+- **коридор** — corridor
+- **коричневый, -ая, -ое, -ые** — brown
+- **кормить (кормлю, кормишь) нсв II — накормить (накормлю, накормишь) св II кого?** — to feed
+- **коробка; р.п. мн.ч. коробок** — box
+- **корова** — cow
+- **король; королева** — king; queen
+- **короткий, -ая, -ое, -ие; коротко сравн.ст. короче 1) короткая юбка 2) короткая поездка, короткий срок** — short; briefly; shorter: 1) short skirt 2) short trip, short term
+- **корпус** — building, hull, torso
+- **корреспондент** — correspondent
+- **коррупция только ед.ч.** — corruption
+- **косметика только ед.ч.** — cosmetics
+- **косметический, -ая, -ое, -ие** — cosmetic
+- **космический, -ая, -ое, -ие** — cosmic, space (adj.)
+- **космонавт** — cosmonaut, astronaut
+- **космос только ед.ч.** — space, cosmos
+- **коснуться св см. касаться** — to touch, to concern
+- **кость ж.р.** — bone
+- **костюм** — suit, costume
+- **кот** — tomcat
+- **котёнок, р.п. котёнка; мн.ч. котята** — kitten
+- **котлета** — cutlet
+- **который, -ая, -ое, -ые** — which, who, that
+- **кофе м.р., неизм.** — coffee
+- **кофеварка; р.п. мн.ч. кофеварок** — coffee maker
+- **кофемолка; р.п. мн.ч. кофемолок** — coffee grinder
+- **кошелёк, р.п. ед.ч. кошелька; мн.ч. кошельки** — purse, wallet
+- **кошка; р.п. мн.ч. кошек** — cat
+- **кран — водопроводный кран** — tap — water tap
+- **красивый, -ая, -ое, -ые; красиво** — beautiful; beautifully
+- **красить (крашу, красишь) нсв II — покрасить (покрашу, покрасишь) св II что?** — to paint, to dye
+- **краснеть нсв I — покраснеть св I** — to blush, to turn red
+- **красный, -ая, -ое, -ые** — red
+- **красота только ед.ч.** — beauty
+- **красть (краду, крадёшь) нсв I — украсть (украду, украдёшь) св I кого? что? у кого?** — to steal
+- **краткий, -ая, -ое, -ие; кратко** — short, brief; briefly
+- **кратковременный, -ая, -ое, -ые** — short-term
+- **кредит** — credit, loan
+- **крем 1) крем для рук, для обуви 2) торт с кремом** — cream: 1) hand cream, shoe polish 2) cream cake
+- **кремль** — kremlin, citadel
+- **крепкий, -ая, -ое, -ие; крепко сравн.ст. крепче 1) крепкий орех 2) крепкий чай 3) крепкий старик 4) крепкий сон** — strong, firm; firmly; stronger: 1) hard nut 2) strong tea 3) hale old man 4) deep sleep
+- **крепость ж.р.** — fortress
+- **кресло; р.п. мн.ч. кресел** — armchair
+- **крест** — cross
+- **крестьянин; мн.ч. крестьяне, р.п. мн.ч. крестьян; крестьянка; р.п. мн.ч. крестьянок** — peasant
+- **кривой, -ая, -ое, -ые; криво** — crooked; crookedly
+- **кризис** — crisis
+- **крик** — cry, shout
+- **крикнуть св I см. кричать** — to shout, to cry out
+- **криминальный, -ая, -ое, -ые** — criminal
+- **критерий** — criterion
+- **критик** — critic
+- **критика только ед.ч.** — criticism
+- **критиковать (критикую, критикуешь) нсв I кого? что?** — to criticize
+- **критический, -ая, -ое, -ие; критически 1) критическая статья 2) критическая ситуация** — critical; critically: 1) critical article 2) critical situation
+- **кричать нсв II — крикнуть (крикну, крикнешь) св I** — to shout, to cry out
+- **кровать ж.р.** — bed
+- **кровь ж.р. только ед.ч.** — blood
+- **кроме + р.п.** — except, besides
+- **кроссворд** — crossword
+- **кроссовки мн.ч., р.п. кроссовок** — trainers, sneakers
+- **круг** — circle
+- **круглый, -ая, -ое, -ые** — round
+- **крупа** — grain, cereal
+- **крупный, -ая, -ое, -ые** — big, major
+- **крыжовник только ед.ч.** — gooseberry
+- **крыша** — roof
+- **крышка; р.п. мн.ч. крышек** — lid, cover
+- **ксерокс** — photocopier, photocopy
+- **кстати** — by the way, incidentally
+- **кто** — who
+- **кто-либо** — somebody, anybody
+- **кто-нибудь** — somebody, anyone
+- **кто-то** — somebody
+- **куда** — where (to)
+- **куда-либо** — somewhere, anywhere
+- **куда-нибудь** — somewhere, anywhere
+- **куда-то** — somewhere
+- **кукла; р.п. мн.ч. кукол** — doll
+- **кукуруза только ед.ч.** — corn, maize
+- **кулинария только ед.ч.** — cookery, cuisine
+- **кульминация** — culmination
+- **культура** — culture
+- **культурный, -ая, -ое, -ые; культурно** — cultural, cultured; in a civilized manner
+- **купальник** — swimsuit
+- **купаться нсв I** — to bathe, to swim
+- **купе неизм.** — compartment (train)
+- **купить св II см. покупать** — to buy
+- **курить нсв II** — to smoke
+- **курица, мн.ч. куры** — hen, chicken
+- **курс 1) учиться на первом курсе 2) курс лекций, курс обучения 3) курс валюты** — course, year, rate: 1) to study in the first year 2) lecture course, curriculum 3) exchange rate
+- **курьер** — courier
+- **курсы только мн.ч. — учить русский язык на курсах** — courses — to learn Russian at classes
+- **куртка; р.п. мн.ч. курток** — jacket
+- **кусать только нсв I кого? что?** — to bite, to sting
+- **кусаться нсв I** — to bite (habitually)
+- **кусок, р.п. ед.ч. куска; мн.ч. куски** — piece, bit
+- **кухня; р.п. мн.ч. кухонь** — kitchen
+- **кушать нсв I** — to eat
+
+## Л
+
+- **лаборатория** — laboratory
+- **ладно разг.** — all right, OK
+- **ладонь ж.р.** — palm (of the hand)
+- **лак** — lacquer, varnish
+- **лампа** — lamp
+- **лампочка; р.п. мн.ч. лампочек** — light bulb
+- **ландыш** — lily of the valley
+- **лапша только ед.ч.** — noodles
+- **ласковый, -ая, -ое, -ые; ласково** — affectionate, tender; tenderly
+- **латинский, -ая, -ое, -ие** — Latin
+- **лауреат** — prize winner, laureate
+- **лаять только нсв I** — to bark
+- **лев; им.п. мн.ч. львы** — lion
+- **левый, -ая, -ое, -ые 1) левая рука 2) левая оппозиция, партия** — left: 1) left hand 2) leftist opposition, party
+- **легальный, -ая, -ое, -ые; легально** — legal; legally
+- **легенда** — legend
+- **легкомысленный, -ая, -ое, -ые; легкомысленно** — frivolous, light-minded; thoughtlessly
+- **лежать (лежу, лежишь) нсв II где? на чём?** — to lie
+- **лезть нсв I куда?** — to climb, to crawl
+- **лейтенант** — lieutenant
+- **лекарство** — medicine
+- **лектор** — lecturer
+- **лекция** — lecture
+- **ленивый, -ая, -ое, -ые; лениво** — lazy; lazily
+- **лениться нсв II** — to be lazy
+- **лень ж.р. только ед.ч.** — laziness
+- **лес** — forest
+- **лестница** — stairs
+- **летать нсв I куда? откуда? 1) Птицы летают. 2) Мы часто летаем в Испанию.** — to fly (multidirectional): 1) Birds fly. 2) We often fly to Spain.
+- **лететь (лечу, летишь) нсв II — полететь (полечу, полетишь) св II 1) куда? откуда? — лететь из Петербурга в Москву 2) пыль летит 3) годы летят** — to fly: 1) to fly from St Petersburg to Moscow 2) dust is flying 3) years are flying by
+- **летний, -яя, -ее, -ие** — summer (adj.)
+- **лето** — summer
+- **летом** — in summer
+- **лечить нсв II — вылечить св II кого?** — to treat, to cure
+- **лечь св I см. ложиться** — to lie down
+- **лёгкий, -ая, -ое, -ие; легко сравн.ст. легче 1) лёгкая сумка 2) лёгкая задача 3) лёгкий характер, человек** — easy, light; easily; easier: 1) light bag 2) easy task 3) easy-going character, person
+- **лёд, р.п. ед.ч. льда** — ice
+- **лётчик** — pilot
+- **ли** — whether, if
+- **либеральный, -ая, -ое, -ые** — liberal
+- **либо** — or
+- **лидер** — leader
+- **ликвидировать (ликвидирую, ликвидируешь) нсв и св I кого? что?** — to liquidate, to eliminate
+- **ликёр** — liqueur
+- **лимон** — lemon
+- **лингвистика только ед.ч.** — linguistics
+- **линия 1) прямая линия 2) линия поведения** — line: 1) straight line 2) line of conduct, policy
+- **лиса** — fox
+- **лист 1; мн.ч. листья — листья на дереве** — leaf — leaves on a tree
+- **лист 2; мн. ч. листы — лист бумаги** — sheet — sheet of paper
+- **литература** — literature
+- **литературный, -ая, -ое, -ые** — literary
+- **литр** — litre
+- **лить (лью, льёшь) нсв I что?** — to pour
+- **литься 1 и 2 л. не употр. (льётся) нсв I** — to flow, to pour
+- **лифт** — lift, elevator
+- **лицей** — lyceum
+- **лицо** — face
+- **личность ж.р.** — personality, individual
+- **личный, -ая, -ое, -ые; лично** — personal; personally
+- **лишний, -яя, -ее, -ие** — superfluous, extra
+- **лишь** — only, merely
+- **лоб, р.п. ед.ч. лба** — forehead
+- **ловить (ловлю, ловишь) нсв II — поймать св I кого? что? 1) ловить рыбу 2) поймать такси** — to catch: 1) to catch fish 2) to catch a taxi
+- **логика только ед.ч.** — logic
+- **логичный, -ая, -ое, -ые; логично** — logical; logically
+- **лоджия** — loggia
+- **лодка; р.п. мн.ч. лодок** — boat
+- **ложиться нсв II — лечь (лягу, ляжешь; прош.вр. лёг, легла, легли) св I куда? / + инф. — лёг спать** — to lie down — went to bed
+- **ложка; р.п. мн.ч. ложек** — spoon
+- **ложь ж.р. только ед.ч.** — lie, falsehood
+- **ломать нсв I — сломать св I что?** — to break
+- **ломаться нсв I — сломаться св I** — to break down
+- **лошадь ж.р.** — horse
+- **лужа** — puddle
+- **лук только ед.ч.** — onion
+- **луна** — moon
+- **лучший, -ая, -ее, -ие** — better, best
+- **лыжи мн.ч.; ед.ч. лыжа** — skis; ski
+- **лыжник** — skier
+- **лысый, -ая, -ое, -ые** — bald
+- **льгота** — privilege, benefit
+- **любимый, -ая, -ое, -ые** — beloved, favourite
+- **любитель** — lover, fan, amateur
+- **любить (люблю, любишь) нсв II кого? что? / + инф.** — to love, to like
+- **любоваться (любуюсь, любуешься) нсв I — полюбоваться (полюбуюсь, полюбуешься) св I кем? чем?** — to admire
+- **любовь ж.р.; р.п. любви только ед.ч.** — love
+- **любознательный, -ая, -ое, -ые** — inquisitive
+- **любой, -ая, -ое, -ые** — any
+- **любопытный, -ая, -ое, -ые; любопытно** — curious; it's interesting/curious
+- **люди мн.ч.; ед.ч. человек** — people
+- **люстра** — chandelier
+
+## М
+
+- **магазин** — shop
+- **магистр** — master (degree)
+- **магистрант** — master's degree candidate
+- **магнитофон** — tape recorder
+- **мазать (мажу, мажешь) нсв I — намазать (намажу, намажешь) св I что?** — to spread, to smear
+- **май** — May
+- **майонез** — mayonnaise
+- **майор** — major
+- **макароны мн.ч.** — pasta, macaroni
+- **максимум** — maximum
+- **маленький, -ая, -ое, -ие; кр.ф. мал, -а, -о, -ы сравн. ст. меньше** — small, little; smaller
+- **малина только ед.ч.** — raspberry
+- **мало сравн. ст. меньше** — little, not enough; less
+- **малыш** — kid, little one
+- **мальчик** — boy
+- **мама** — mum
+- **мандарин** — tangerine, mandarin
+- **маргарин** — margarine
+- **маринованный, -ая, -ое, -ые** — marinated, pickled
+- **марка; р.п. мн.ч. марок** — (postage) stamp; brand
+- **мармелад только ед.ч.** — fruit jelly candy
+- **март** — March
+- **маршрут** — route
+- **маршрутка; р.п. мн.ч. маршруток разг.** — shuttle bus, minibus taxi
+- **масло только ед.ч.** — butter, oil
+- **мастер** — master craftsman, foreman
+- **мастерская** — workshop
+- **математик** — mathematician
+- **математика только ед.ч.** — mathematics
+- **математический, -ая, -ое, -ие** — mathematical
+- **материал 1) строительный материал 2) материал на платье 3) материал для статьи** — material: 1) building material 2) fabric for a dress 3) material for an article
+- **материальный, -ая, -ое, -ые; материально 1) материальный мир 2) материальное положение** — material; materially: 1) material world 2) financial situation
+- **матрёшка; р.п. мн.ч. матрёшек** — matryoshka (nested doll)
+- **матч** — match
+- **мать ж.р., р.п. ед.ч. матери; мн.ч. матери, р.п. мн.ч. матерей** — mother
+- **мафия только ед.ч.** — mafia
+- **махать (машу, машешь) нсв I — махнуть св I** — to wave
+- **машина** — car, machine
+- **мгновение** — moment, instant
+- **мебель ж.р., только ед.ч.** — furniture
+- **медаль ж.р.** — medal
+- **медведь** — bear
+- **медицина только ед.ч.** — medicine
+- **медицинский, -ая, -ое, -ие** — medical
+- **медленный, -ая, -ое, -ые; медленно** — slow; slowly
+- **медсестра; мн.ч. медсёстры, р.п. мн.ч. медсестёр** — nurse
+- **между + т.п. 1) между лесом и рекой 2) ссора между друзьями** — between: 1) between the forest and the river 2) a quarrel between friends
+- **междугородный, -ая, -ое, -ые** — intercity
+- **международный, -ая, -ое, -ые** — international
+- **мелкий, -ая, -ое, -ие; мелко; сравн. ст. мельче 1) мелкая река 2) мелкий песок 3) мелкие деньги** — small, shallow, fine; finely; smaller: 1) shallow river 2) fine sand 3) small change
+- **мелодия** — melody
+- **мелодрама** — melodrama
+- **мелочь ж.р. 1) только ед.ч. — в кошельке только мелочь 2) бытовые мелочи, мелочи жизни** — small change; trifle: 1) there's only small change in the wallet 2) everyday trifles, trifles of life
+- **мемуары только мн.ч.** — memoirs
+- **менее** — less
+- **меньшинство только ед.ч.** — minority
+- **менять нсв I — поменять св I что? на что?** — to change, to exchange
+- **меняться нсв I — поменяться св I 1) чем? — меняться книгами 2) погода меняется** — to change, to exchange: 1) to exchange books 2) the weather is changing
+- **мерить нсв II — померить св II что?** — to try on, to measure
+- **местный, -ая, -ое, -ые** — local
+- **место 1) положить вещи на место 2) свободное место 3) занять 1-е место** — place: 1) to put things back in place 2) vacant seat 3) to take first place
+- **месяц** — month
+- **металл** — metal
+- **металлический, -ая, -ое, -ие** — metal, metallic
+- **метель ж.р.** — snowstorm
+- **метод** — method
+- **метр** — metre
+- **метро неизм.** — metro, underground
+- **мех** — fur
+- **меценат** — patron (of the arts)
+- **мечта** — dream
+- **мечтать нсв I о ком? о чём? / + инф.** — to dream
+- **мешать нсв I — помешать св I 1) кому? + инф. — Шум мешает мне заниматься. 2) что? — Надо помешать суп.** — to disturb; to stir: 1) The noise stops me from studying. 2) The soup needs stirring.
+- **мёд только ед.ч.** — honey
+- **мёрзнуть (прош.вр. мёрз, мёрзла, мёрзли) нсв I — замёрзнуть (прош.вр. замёрз, замёрзла, замёрзло, замёрзли) св I** — to freeze
+- **мёртвый, -ая, -ое, -ые** — dead
+- **миксер** — mixer
+- **милиционер** — militiaman, policeman
+- **милиция** — militia, police
+- **миллиард** — billion
+- **миллион** — million
+- **милый, -ая, -ое, -ые; мило** — dear, nice, sweet; nicely
+- **мимо + р.п.** — past, by
+- **минеральный — минеральная вода** — mineral — mineral water
+- **минимальный, -ая, -ое, -ые** — minimal
+- **минимум** — minimum
+- **министерство** — ministry
+- **министр** — minister
+- **минус** — minus
+- **минута** — minute
+- **мир 1 только ед.ч. — Его знают во всём мире.** — world — He is known throughout the world.
+- **мир 2 только ед.ч. — Хотим мира, а не войны.** — peace — We want peace, not war.
+- **мириться нсв II — помириться св II с кем? с чем?** — to reconcile, to make peace
+- **мирный, -ая, -ое, -ые; мирно** — peaceful; peacefully
+- **мировоззрение** — world outlook, worldview
+- **мировой, -ая, -ое, -ые** — world (adj.)
+- **миролюбивый, -ая, -ое, -ые** — peace-loving
+- **митинг** — (political) rally
+- **младший, -ая, -ее, -ие** — younger, youngest, junior
+- **мнение** — opinion
+- **многие** — many
+- **много; сравн. ст. больше** — much, many, a lot; more
+- **мода** — fashion
+- **модель ж.р.** — model
+- **модный, -ая, -ое, -ые; модно** — fashionable; it's fashionable
+- **может быть** — maybe, perhaps
+- **можно** — one can, one may
+- **мозг** — brain
+- **мой, моя, моё, мои** — my, mine
+- **мокрый, -ая, -ое, -ые** — wet
+- **молиться нсв II — помолиться св II** — to pray
+- **молния** — lightning; zipper
+- **молодеть нсв I — помолодеть св I** — to grow younger, to look younger
+- **молодёжный, -ая, -ое, -ые** — youth (adj.)
+- **молодёжь ж.р., только ед.ч.** — young people, youth
+- **молодец** — fine fellow, well done
+- **молодой, -ая, -ое, -ые; сравн. ст. моложе** — young; younger
+- **молодость ж.р.; только ед.ч.** — youth
+- **молоко только ед.ч.** — milk
+- **молчаливый, -ая, -ое, -ые** — taciturn, silent
+- **молчать (молчу, молчишь) нсв II — промолчать (промолчу, промолчишь) св II** — to keep silent
+- **момент** — moment
+- **монета** — coin
+- **монолог** — monologue
+- **моральный, -ая, -ое, -ые** — moral
+- **море** — sea
+- **морковь ж.р. только ед.ч.** — carrot
+- **мороженое сущ. только ед.ч.** — ice cream
+- **мороз** — frost
+- **морозный, -ая, -ое, -ые** — frosty
+- **морс** — fruit drink
+- **морской, -ая, -ое, -ие** — sea, nautical (adj.)
+- **морщина** — wrinkle
+- **моряк** — sailor
+- **москвич; москвичка, р.п. мн.ч. москвичек** — Muscovite
+- **московский, -ая, -ое, -ие** — Moscow (adj.)
+- **мост** — bridge
+- **мотор** — motor
+- **мотоцикл** — motorcycle
+- **мочь (могу, можешь; прош.вр. мог, могла, могли) нсв I — смочь (смогу, сможешь; прош.вр. смог, смогла, смогли) св I + инф.** — to be able to, can
+- **мощный, -ая, -ое, -ые** — powerful, mighty
+- **мрамор только ед.ч.** — marble
+- **мрачный, -ая, -ое, -ые; мрачно 1) мрачное место 2) мрачный человек** — gloomy, sombre; gloomily: 1) gloomy place 2) gloomy person
+- **мстить (мщу, мстишь) нсв II — отомстить (отомщу, отомстишь) св II кому?** — to take revenge (on)
+- **мудрый, -ая, -ое, -ые; мудро** — wise; wisely
+- **муж; мн.ч. мужья** — husband
+- **мужественный, -ая, -ое, -ые; мужественно** — courageous; courageously
+- **мужество только ед.ч.** — courage
+- **мужской, -ая, -ое, -ие** — male, masculine, men's
+- **мужчина м.р.** — man
+- **музей** — museum
+- **музыка только ед.ч.** — music
+- **музыкальный, -ая, -ое, -ые** — musical
+- **музыкант** — musician
+- **мука только ед.ч.** — flour
+- **мультфильм** — cartoon
+- **мусор только ед.ч.** — rubbish, garbage
+- **мусоропровод** — rubbish chute
+- **мусульманин; мусульманка; мн.ч. мусульмане** — Muslim
+- **мусульманство только ед.ч.** — Islam
+- **муха** — fly (insect)
+- **мчаться (мчусь, мчишься) нсв II** — to rush, to race
+- **мы** — we
+- **мыло только ед.ч.** — soap
+- **мыльница** — soap dish
+- **мысль ж.р.** — thought
+- **мыть (мою, моешь) нсв I — вымыть (вымою, вымоешь) св; помыть (помою, помоешь) св I кого? что?** — to wash
+- **мыться (моюсь, моешься) нсв I — вымыться (вымоюсь, вымоешься) св I; помыться (помоюсь, помоешься) св I** — to wash oneself
+- **мышь ж.р.** — mouse
+- **мягкий, -ая, -ое, -ие; мягко; сравн.ст. мягче 1) мягкий диван 2) мягкий хлеб 3) мягкий характер** — soft; softly; softer: 1) soft sofa 2) soft bread 3) gentle character
+- **мясо только ед.ч.** — meat
+- **мяукать нсв I** — to mew, to meow
+- **мяч** — ball
+
+## Н
+
+- **на 1) п.п. где? — быть на выставке; 2) п.п. на чём? — лететь на самолёте; 3) п.п. когда? — на прошлой неделе 4) в.п. куда? — идти на выставку; 5) в.п. на кого? на что? — смотреть на девушку, на речку 6) в.п. на сколько времени? — приехать на неделю** — on, at, to, for: 1) to be at the exhibition 2) to fly by plane 3) last week 4) to go to the exhibition 5) to look at the girl, at the river 6) to come for a week
+- **набережная сущ.** — embankment
+- **набирать нсв I — чего? набрать (наберу, наберёшь) св I что? 1) набирать номер телефона, код 2) набрать много баллов** — to dial, to gather: 1) to dial a phone number, a code 2) to score a lot of points
+- **наблюдательный, -ая, -ое, -ые — наблюдательный человек** — observant — observant person
+- **наблюдать нсв I что? / за кем? за чем?** — to observe
+- **набрать св I см. набирать** — to dial, to gather
+- **наверное; наверно** — probably
+- **наверх** — upward, up
+- **наверху** — above, upstairs
+- **навестить св II см. навещать** — to visit
+- **навещать нсв I — навестить (навещу, навестишь) св II кого?** — to visit
+- **наводнение** — flood
+- **наволочка; р.п. мн.ч. наволочек** — pillowcase
+- **наврать св I см. врать** — to tell lies
+- **навсегда** — forever
+- **навстречу + д.п.** — towards, to meet
+- **наговориться св II** — to talk one's fill
+- **награда** — reward, award
+- **наградить св II см. награждать** — to award
+- **награждать нсв I — наградить (награжу, наградишь) св II кого?** — to award
+- **нагрубить св II см. грубить** — to be rude
+- **нагуляться только св I** — to have had a long walk
+- **над, надо + т.п.** — over, above
+- **надевать нсв I — надеть (надену, наденешь) св I что?** — to put on (clothes)
+- **надежда** — hope
+- **надеть св I см. надевать** — to put on
+- **надеяться (надеюсь, надеешься) нсв I на кого? на что?** — to hope
+- **надо + инф.** — one must, one needs to
+- **надоедать нсв I — надоесть (надоем, надоешь) св I кому?** — to bother, to bore, to pester
+- **надоесть св I см. надоедать** — to bother, to bore
+- **надпись ж.р.** — inscription
+- **надолго** — for a long time
+- **надстраивать нсв I — надстроить св II что?** — to build on, to add a storey
+- **надстроить св II см. надстраивать** — to build on, to add a storey
+- **наедине** — in private, alone (together)
+- **наесться (наемся, наешься) св I** — to eat one's fill
+- **нажать св I см. нажимать** — to press
+- **нажимать нсв I — нажать (нажму, нажмёшь) св I что? / на что?** — to press
+- **назад** — backwards, ago
+- **название** — name, title
+- **назвать св I см. называть** — to name, to call
+- **назначать нсв II — назначить св II 1) что? — назначить встречу на 3 часа 2) кого? кем? — назначить Петрова директором 3) что? кому? — назначить лекарство больному** — to appoint, to set, to prescribe: 1) to schedule a meeting for 3 o'clock 2) to appoint Petrov as director 3) to prescribe medicine to the patient
+- **называть нсв I — назвать (назову, назовёшь) св I 1) кого? как? — Ребёнка назвали Сергеем. 2) кого? кем? / что? чем? — Петербург называют северной столицей.** — to name, to call: 1) The child was named Sergey. 2) Petersburg is called the northern capital.
+- **называться нсв I** — to be called
+- **наиболее** — most (of all)
+- **наивный, -ая, -ое, -ые; наивно** — naive; naively
+- **наизусть** — by heart
+- **наименее** — least (of all)
+- **найти св I см. находить, искать** — to find
+- **наказание** — punishment
+- **наказать св I см. наказывать** — to punish
+- **наказывать нсв I — наказать (накажу, накажешь) св I кого?** — to punish
+- **накануне + р.п.** — the day before, on the eve of
+- **наклеивать нсв I — наклеить св II что? куда?** — to stick on, to paste
+- **наклеить св II см. наклеивать** — to stick on, to paste
+- **наклониться св II см. наклоняться** — to bend, to lean
+- **наклоняться нсв I — наклониться св II** — to bend, to lean
+- **наконец** — at last, finally
+- **накопить св II см. копить** — to save up
+- **накормить св II см. кормить** — to feed
+- **накупить (накуплю, накупишь) св II чего?** — to buy up, to buy a lot of
+- **налево** — to the left
+- **наливать нсв I — налить (налью, нальёшь) св I что? / чего? куда?** — to pour
+- **налить св I см. наливать** — to pour
+- **наличные мн.ч. — деньги** — cash
+- **налог** — tax
+- **намазать св I см. мазать** — to spread, to smear
+- **намекать нсв I — намекнуть св I** — to hint
+- **намекнуть св I см. намекать** — to hint
+- **намерен, -а, -о, -ы + инф.** — to intend
+- **намерение** — intention
+- **намного** — much, considerably (with comparatives)
+- **намочить св II** — to wet, to moisten
+- **нанимать нсв I — нанять (найму, наймёшь) св I кого?** — to hire
+- **нанять св I см. нанимать** — to hire
+- **наоборот** — on the contrary, vice versa
+- **нападать нсв I — напасть (нападу, нападёшь; прош.вр. напал, напала, напали) св I на кого? на что?** — to attack
+- **напасть св I см. нападать** — to attack
+- **напечатать св I см. печатать** — to print, to type
+- **напиваться нсв I — напиться (напьюсь, напьёшься) св I** — to drink one's fill, to get drunk
+- **написать св I см. писать** — to write
+- **напиток, р.п. ед.ч. напитка; мн.ч. напитки** — drink, beverage
+- **напиться св I см. напиваться** — to drink one's fill, to get drunk
+- **напоминать нсв I — напомнить св II кому? о ком? о чём? / кого? что? 1) Напомни мне о встрече. 2) Саша напоминает мне моего брата.** — to remind: 1) Remind me about the meeting. 2) Sasha reminds me of my brother.
+- **напомнить св II см. напоминать** — to remind
+- **направление** — direction
+- **направо** — to the right
+- **напрасно** — in vain
+- **например** — for example
+- **напротив + р.п.** — opposite
+- **напряжённый, -ая, -ое, -ые; напряжённо** — tense, intense; tensely
+- **нарезать нсв I — нарезать (нарежу, нарежешь) св I** — to cut, to slice
+- **нарисовать св I см. рисовать** — to draw, to paint
+- **наркоман** — drug addict
+- **наркомания только ед.ч.** — drug addiction
+- **наркотик** — drug, narcotic
+- **народ** — people, nation
+- **народный, -ая, -ое, -ые** — people's, folk (adj.)
+- **нарочно** — on purpose
+- **нарушать нсв I — нарушить св II что?** — to violate, to disturb
+- **нарушить св I см. нарушать** — to violate, to disturb
+- **нарядный, -ая, -ое, -ые; нарядно** — smart, well-dressed; smartly
+- **насекомое** — insect
+- **население только ед.ч.** — population
+- **насилие только ед.ч.** — violence
+- **насквозь** — through
+- **насколько** — how much, as far as
+- **наследство** — inheritance
+- **насморк** — cold (in the head)
+- **насмотреться св II чего? / на что?** — to see plenty of, to have looked one's fill
+- **насорить св II см. сорить** — to litter
+- **настаивать нсв I — настоять св II на чём?** — to insist (on)
+- **настойчивый, -ая, -ое, -ые; настойчиво** — persistent; persistently
+- **настолько** — so, to such an extent
+- **настольный, -ая, -ое, -ые 1) настольная лампа 2) настольный теннис** — table, desk (adj.): 1) desk lamp 2) table tennis
+- **настоять св II см. настаивать** — to insist (on)
+- **настоящий, -ая, -ее, -ие 1) В настоящее время я не работаю. 2) Это настоящее золото. 3) Он настоящий друг.** — real, present: 1) At present I am not working. 2) This is real gold. 3) He is a true friend.
+- **настроение** — mood
+- **наступать 1 нсв I — наступить 1 (1 и 2-е лицо не употр.) св II — Наступила осень.** — to come, to set in — Autumn has come.
+- **наступать 2 нсв I — наступить 2 (наступлю, наступишь) св II — Он нечаянно наступил мне на ногу.** — to step (on) — He accidentally stepped on my foot.
+- **наступить 1 св II см. наступать 1** — to come, to set in
+- **наступить 2 св II см. наступать 2** — to step (on)
+- **наступление** — attack, onset
+- **натощак** — on an empty stomach
+- **натуральный, -ая, -ое, -ые** — natural
+- **натюрморт** — still life
+- **наука** — science
+- **научить св II см. учить** — to teach
+- **научиться св II см. учиться** — to learn
+- **научный, -ая, -ое, -ые; научно** — scientific; scientifically
+- **наушники только мн.ч.** — headphones
+- **находить (нахожу, находишь) нсв II — найти (найду, найдёшь; прош.вр. нашёл, нашла, нашли) св I кого? что? 1) найти потерянную вещь 2) найти верное решение** — to find: 1) to find a lost thing 2) to find the right solution
+- **находиться нсв II где?** — to be (situated)
+- **находчивый, -ая, -ое, -ые** — resourceful, quick-witted
+- **национализм только ед.ч.** — nationalism
+- **националист** — nationalist
+- **националистический, -ая, -ое, -ие** — nationalistic
+- **национальность ж.р.** — nationality
+- **национальный, -ая, -ое, -ые** — national
+- **нация** — nation
+- **начало** — beginning
+- **начальник** — boss, chief
+- **начать св I см. начинать** — to begin
+- **начаться св см. начинаться** — to begin, to start
+- **начинать нсв I — начать (начну, начнёшь) св I что? / + инф. нсв** — to begin
+- **начинаться нсв I — начаться (1 и 2 л. не употр.; начнётся) св I** — to begin, to start
+- **наш, -а, -е, -и** — our, ours
+- **не** — not, no
+- **небо; мн.ч. небеса** — sky
+- **невеста** — bride, fiancée
+- **невозможно** — impossible
+- **негде + инф.** — (there is) nowhere to
+- **недавно** — recently
+- **недалеко** — not far
+- **неделя** — week
+- **нежный, -ая, -ое, -ые; нежно** — tender, gentle; tenderly
+- **недоделать св I см. недоделывать** — to leave unfinished
+- **недоделывать нсв I — недоделать св I что?** — to leave unfinished
+- **недостаток, р.п. ед.ч. недостатка; мн.ч. недостатки — недостатки в работе** — shortcoming, flaw — flaws in the work
+- **независимость ж.р., только ед.ч.** — independence
+- **некогда** — (there is) no time
+- **некоторый** — some, certain
+- **некуда + инф.** — nowhere (to)
+- **нельзя + инф.** — one cannot, it is forbidden
+- **немедленно** — immediately
+- **немец; мн.ч. немцы; немка; р.п. мн.ч. немок** — German (person)
+- **немецкий, -ая, -ое, -ие** — German
+- **немецко-русский, -ая, -ое, -ие** — German-Russian
+- **немного** — a little, a few
+- **немой, -ая, -ое, -ые сущ.** — mute person
+- **ненавидеть (ненавижу, ненавидишь) только нсв II кого? что?** — to hate
+- **ненависть ж.р. только ед.ч.** — hatred
+- **необходимо + инф.** — it is necessary
+- **необходимость ж.р. только ед.ч.** — necessity
+- **необходимый, -ая, -ое, -ые; необходимо** — necessary; necessarily
+- **необыкновенный, -ая, -ое, -ые; необыкновенно** — unusual; unusually
+- **неожиданный, -ая, -ое, -ые; неожиданно** — unexpected; unexpectedly
+- **неопредёленный, -ая, -ое, -ые** — indefinite, vague
+- **неповторимый, -ая, -ое, -ые** — unique
+- **неподвижный, -ая, -ое, -ые; неподвижно** — motionless; motionlessly
+- **неправда только ед.ч.** — untruth, lie
+- **непрерывный, -ая, -ое, -ые; непрерывно** — continuous; continuously
+- **неприятность ж.р.** — trouble, unpleasantness
+- **неприятный, -ая, -ое, -ые; неприятно** — unpleasant; unpleasantly
+- **нервничать нсв I** — to be nervous
+- **нервный, -ая, -ое, -ые; нервно** — nervous; nervously
+- **несколько** — several, some
+- **несмотря на + в.п.** — in spite of, despite
+- **несправедливость ж.р. только ед.ч.** — injustice
+- **несправедливый, -ая, -ое, -ые; несправедливо** — unjust; unjustly
+- **нести (несу, несёшь; прош.вр. нёс, несла, несли) только нсв I что? куда? 1) нести продукты домой 2) нести ответственность** — to carry, to bear: 1) to carry groceries home 2) to bear responsibility
+- **несчастный, -ая, -ое, -ые** — unhappy, unfortunate
+- **несчастье** — misfortune
+- **нет 1) Нет, я не знаю. 2) У меня нет брата. 3) Его нет дома.** — no; there is no: 1) No, I don't know. 2) I have no brother. 3) He is not at home.
+- **не только..., но и...** — not only... but also...
+- **неудачный, -ая, -ое, -ые; неудачно** — unsuccessful; unsuccessfully
+- **неудобный, -ая, -ое, -ые; неудобно** — uncomfortable; uncomfortably
+- **неудовлетворительно** — unsatisfactorily
+- **неужели** — really? is that so?
+- **нефть ж.р., только ед.ч.** — oil, petroleum
+- **нечаянно** — accidentally
+- **нечего + инф. — Мне нечего делать.** — there is nothing (to) — I have nothing to do.
+- **нечётный, -ая, -ое, -ые** — odd (number)
+- **нечто** — something
+- **ни — Ни один студент не пришёл.** — not a single — Not a single student came.
+- **нигде** — nowhere
+- **нижний, -яя, -ее, -ие** — lower
+- **низкий, -ая, -ое, -ие; низко; сравн.ст. ниже** — low; low; lower
+- **никак** — by no means
+- **никакой, -ая, -ое, -ие** — none, no ... at all
+- **никогда** — never
+- **никто** — nobody
+- **никуда** — nowhere
+- **ниоткуда** — from nowhere
+- **нисколько** — not at all
+- **нитка; р.п. мн.ч. ниток** — thread
+- **ничей** — nobody's
+- **ничто** — nothing
+- **ничуть — ничуть не устал** — not a bit — not a bit tired
+- **ничья сущ.** — draw, tie (game)
+- **нищета только ед.ч.** — poverty, destitution
+- **нищий, -ая, -ее, -ие** — destitute
+- **нищий, -ая, ие сущ.** — beggar
+- **но** — but
+- **новинка; р.п. мн.ч. новинок** — novelty
+- **новогодний, -яя, -ее, -ие** — New Year's
+- **новость ж.р.** — news
+- **новый, -ая, -ое, -ые** — new
+- **нога** — leg, foot
+- **ноготь, р.п. ед.ч. ногтя; мн.ч. ногти** — nail (finger/toe)
+- **нож; ножик** — knife
+- **ножка; р.п. мн.ч. ножек — ножка стола, стула** — leg — table leg, chair leg
+- **ножницы только мн.ч.** — scissors
+- **ноль** — zero
+- **номер 1) номер дома 2) номер в гостинице** — number, room: 1) house number 2) hotel room
+- **номерок, р.п. номерка; мн.ч. номерки** — cloakroom ticket
+- **нормальный, -ая, -ое, -ые; нормально** — normal; normally
+- **нос** — nose
+- **носильщик** — porter
+- **носить (ношу, носишь) нсв II что? 1) носить портфель 2) носить очки, часы 3) носить светлые костюмы** — to carry, to wear (habitually): 1) to carry a briefcase 2) to wear glasses, a watch 3) to wear light-coloured suits
+- **носки мн.ч.; ед.ч. носок, р.п. ед.ч. носка** — socks; sock
+- **нотариус** — notary
+- **ночевать (ночую, ночуешь) нсв I** — to spend the night
+- **ночной, -ая, -ое, -ые** — night (adj.)
+- **ночь ж.р.** — night
+- **ночью** — at night
+- **ноябрь** — November
+- **нравиться (нравлюсь, нравишься) нсв II — понравиться (понравлюсь, понравишься) св II кому? + инф.** — to please, to like
+- **нравственный, -ая, -ое, -ые; нравственно** — moral; morally
+- **ну** — well, now
+- **нуждаться нсв I 1) семья нуждается 2) в чём? — нуждаться в помощи** — to need, to be in need: 1) the family is in need 2) to need help
+- **нужен, нужна, нужно, нужны кому?** — needed, necessary
+- **нужно + инф.** — it is necessary
+- **нужный, -ая, -ое, -ые** — necessary
+- **нулевой, -ая, -ое, -ые** — zero (adj.)
+- **нынешний, -яя, -ее, -ие** — present, current
+- **нырнуть св I см. нырять** — to dive
+- **нырять нсв I — нырнуть св I** — to dive
+- **нюхать нсв I — понюхать св I что?** — to smell, to sniff
+- **няня** — nanny, nurse
+
+## О
+
+- **о, об (обо) + п.п.** — about, of
+- **оба** — both
+- **обанкротиться (обанкрочусь, обанкротишься) св II** — to go bankrupt
+- **обаятельный, -ая, -ое, -ые** — charming
+- **обвенчаться св I см. венчаться** — to get married (in church)
+- **обвинение** — accusation
+- **обвинить св II см. обвинять** — to accuse
+- **обвинять нсв I — обвинить св II кого? в чём?** — to accuse
+- **обгонять нсв I — обогнать св II кого? что?** — to overtake
+- **обдумать св I см. обдумывать** — to think over
+- **обдумывать нсв I — обдумать св I что?** — to think over
+- **обед** — dinner, lunch
+- **обедать нсв I — пообедать св I** — to have dinner/lunch
+- **обеднеть св I см. беднеть** — to become poorer
+- **обезьяна** — monkey
+- **обеспеченный, -ая, -ое, -ые** — well-off, well provided-for
+- **обеспечивать нсв I — обеспечить св II что?** — to provide, to ensure
+- **обеспечить св II см. обеспечивать** — to provide, to ensure
+- **обещание** — promise
+- **обещать нсв I — пообещать св I кому? + инф. / что?** — to promise
+- **обжечься св I см. обжигаться** — to burn oneself
+- **обжигаться нсв I — обжечься (обожгусь, обожжёшься) св I** — to burn oneself
+- **обзор** — review, survey
+- **обида** — insult, offence
+- **обидеть св II см. обижать** — to offend, to hurt
+- **обидеться св II см. обижаться** — to take offence
+- **обидный, -ая, -ое, -ые; обидно** — offensive; it's a shame
+- **обидчивый, -ая, -ое, -ые** — touchy
+- **обижать нсв I — обидеть (обижу, обидишь) св II кого?** — to offend, to hurt
+- **обижаться нсв I — обидеться (обижусь, обидишься) св II на кого? на что?** — to take offence (at)
+- **обладать нсв I чем?** — to possess
+- **облако** — cloud
+- **областной, -ая, -ое, -ые** — regional
+- **область ж.р. 1) северные области Европы 2) Московская область 3) открытие в области генетики** — region, oblast, field: 1) the northern regions of Europe 2) Moscow Oblast 3) discovery in the field of genetics
+- **облачный, -ая, -ое, -ые; облачно** — cloudy; it's cloudy
+- **облегчать нсв I — облегчить св II что?** — to lighten, to ease
+- **облегчить св II см. облегчать** — to lighten, to ease
+- **обливать нсв I — облить (оболью, обольёшь) св I кого? что? чем?** — to pour over, to douse
+- **облить св I см. обливать** — to pour over, to douse
+- **обложка; р.п. мн.ч. обложек** — cover (of a book)
+- **обман** — deception
+- **обмануть св I см. обманывать** — to deceive
+- **обманывать нсв I — обмануть св I кого?** — to deceive
+- **обмен** — exchange
+- **обменивать нсв I — обменять св I что?** — to exchange
+- **обмениваться нсв I — обменяться св I чем? — обменяться визитками, мнениями** — to exchange — to exchange business cards, opinions
+- **обменять св I см. обменивать** — to exchange
+- **обменяться св I см. обмениваться** — to exchange
+- **обморок** — fainting fit
+- **обнимать нсв I — обнять (обниму, обнимешь) св I кого? что?** — to embrace, to hug
+- **обнять св I см. обнимать** — to embrace, to hug
+- **обновить св II см. обновлять** — to renew, to update
+- **обновлять нсв I — обновить (обновлю, обновишь) св II что?** — to renew, to update
+- **обобщать нсв I — обобщить св II что?** — to generalize
+- **обобщение** — generalization
+- **обобщить св II см. обобщать** — to generalize
+- **обогнать св II см. обгонять** — to overtake
+- **обожать нсв I кого? что?** — to adore
+- **обозреватель** — commentator, observer
+- **обои только мн.ч.** — wallpaper
+- **обойти св I см. обходить** — to go round, to avoid
+- **оборона только ед.ч.** — defence
+- **обострение** — aggravation, worsening
+- **обостриться св II см. обостряться** — to become aggravated, to worsen
+- **обостряться (1 и 2 л. не употр.) нсв I — обостриться (1 и 2 л. не употр.) св II** — to become aggravated, to worsen
+- **обрадовать св I см. радовать** — to make happy
+- **обрадоваться св I см. радоваться** — to be glad
+- **образец, р.п. ед.ч. образца** — example, sample
+- **образование только ед.ч. 1) образование государства 2) получить высшее образование** — formation; education: 1) formation of the state 2) to get a higher education
+- **образовать св I см. образовывать** — to form
+- **образовывать нсв I — образовать (образую, образуешь) св I что?** — to form
+- **обратиться св II см. обращаться** — to apply, to turn (to)
+- **обратно** — back
+- **обращаться нсв I — обратиться (обращусь, обратишься) св II к кому? куда?** — to apply, to turn (to)
+- **обслуживание только ед.ч.** — service
+- **обстановка; р.п. мн.ч. обстановок — политическая обстановка** — situation, setting — political situation
+- **обстоятельства мн.ч.; ед.ч. обстоятельство — семейные обстоятельства** — circumstances — family circumstances
+- **обсудить св II см. обсуждать** — to discuss
+- **обсуждать нсв I — обсудить (обсужу, обсудишь) св II что? с кем?** — to discuss
+- **обувь ж.р., только ед.ч.** — footwear, shoes
+- **обучать нсв I — обучить св II кого?** — to teach, to train
+- **обучение только ед.ч.** — training, education
+- **обучить св II см. обучать** — to teach, to train
+- **обходить (обхожу, обходишь) нсв II — обойти (обойду, обойдёшь; прош.вр. обошёл, обошла, обошли) св I кого? что? / вокруг чего?** — to go round, to avoid
+- **общаться только нсв I с кем?** — to associate, to communicate
+- **общежитие** — hostel, dormitory
+- **общение только ед.ч.** — communication, association
+- **общественный, -ая, -ое, -ые** — public, social
+- **общество** — society
+- **общий, -ая, -ее, -ие** — common, general
+- **общительный, -ая, -ое, -ые** — sociable
+- **объединение 1) объединение мелких банков в крупные 2) объединение (союз) художников** — unification, association: 1) merger of small banks into large ones 2) an artists' union
+- **объединиться св II см. объединяться** — to unite
+- **объединяться нсв I — объединиться св II** — to unite
+- **объезжать нсв I — объехать (объеду, объедешь) св I кого? что?** — to go round, to travel all over
+- **объект** — object
+- **объективный, -ая, -ое, -ые; объективно** — objective; objectively
+- **объесться (объемся, объешься) св I** — to overeat
+- **объехать св I см. объезжать** — to go round, to travel all over
+- **объявить св II см. объявлять** — to declare, to announce
+- **объявление** — announcement, advertisement
+- **объявлять нсв I — объявить (объявлю, объявишь) св II о чём?** — to declare, to announce
+- **объяснение** — explanation
+- **объяснять нсв I — объяснить св II кому? что?** — to explain
+- **обыкновенный, -ая, -ое, -ые** — usual, ordinary
+- **обычай** — custom
+- **обычный, -ая, -ое, -ые; обычно** — usual; usually
+- **обязан, -а, -о, -ы + инф.** — obliged (to)
+- **обязанность ж.р.** — duty, responsibility
+- **обязательно** — without fail, definitely
+- **овощи только мн.ч.** — vegetables
+- **овощной, -ая, -ое, -ые** — vegetable (adj.)
+- **овца; р.п. мн.ч. овец** — sheep
+- **оглавление** — table of contents
+- **оглохнуть св I см. глохнуть** — to go deaf
+- **оглядываться нсв I — оглянуться св I** — to look back
+- **оглянуться св I см. оглядываться** — to look back
+- **огонь, р.п. огня 1) только ед.ч. — огонь свечи 2) огни города** — fire, light: 1) the flame of a candle 2) city lights
+- **огород** — kitchen/vegetable garden
+- **ограбить св II см. грабить** — to rob
+- **ограничение** — limitation, restriction
+- **ограничивать нсв I — ограничить св II кого? что?** — to limit, to restrict
+- **ограничиваться нсв I — ограничиться св II** — to confine oneself, to be limited
+- **ограничить св II см. ограничивать** — to limit, to restrict
+- **ограничиться св II см. ограничиваться** — to confine oneself, to be limited
+- **огромный, -ая, -ое, -ые** — enormous, huge
+- **огурец, р.п. ед.ч. огурца** — cucumber
+- **одевать нсв I — одеть (одену, оденешь) св I кого?** — to dress (someone)
+- **одеваться нсв I — одеться (оденусь, оденешься) св I** — to dress (oneself), to get dressed
+- **одежда только ед.ч.** — clothes
+- **одеколон** — eau de cologne
+- **одержать св II см. одерживать** — to gain, to win
+- **одерживать нсв I — одержать св II — одержать победу** — to gain, to win — to win a victory
+- **одеть св I см. одевать** — to dress (someone)
+- **одеться св I см. одеваться** — to get dressed
+- **одеяло** — blanket
+- **один, одна, одно, одни** — one, alone
+- **одинаковый, -ая, -ое, -ые; одинаково** — identical; identically
+- **одиннадцать** — eleven
+- **одинокий, -ая, -ое, -ие** — lonely
+- **одиночество только ед.ч.** — loneliness, solitude
+- **однажды** — once
+- **однако** — however
+- **одновременно и одновременно** — simultaneously
+- **одноместный, -ая, -ое, -ые** — single (room/seat)
+- **однообразный, -ая, -ое, -ые; однообразно** — monotonous; monotonously
+- **одноразовый, -ая, -ое, -ые** — disposable
+- **одобрить св II см. одобрять** — to approve
+- **одобрять нсв I — одобрить св II что?** — to approve
+- **одуванчик** — dandelion
+- **ожидание** — expectation, waiting
+- **ожог** — burn
+- **озаглавить св II что?** — to entitle, to head
+- **озеро; мн.ч. озёра** — lake
+- **оказаться св I см. оказываться** — to turn out to be, to find oneself
+- **оказываться 1 нсв I — оказаться (окажусь, окажешься) св I где?** — to find oneself
+- **оказываться 2 нсв I — оказаться (окажусь, окажешься) св I каким?** — to turn out to be
+- **оканчивать нсв I — окончить св II что?** — to finish
+- **оканчиваться нсв I — окончиться св II** — to end
+- **океан** — ocean
+- **оккупировать (оккупирую, оккупируешь) нсв и св I что?** — to occupy
+- **окно; р.п. мн.ч. окон** — window
+- **около + р.п.** — near, about
+- **окончание** — end, ending
+- **окончить св II см. оканчивать** — to finish
+- **окончиться св II см. оканчиваться** — to end
+- **окорок** — ham, leg (of meat)
+- **окраина** — outskirts
+- **окрошка только ед.ч.** — okroshka (cold kvass soup)
+- **округ** — district
+- **окружать нсв I — окружить св II кого? что?** — to surround
+- **окружить св II см. окружать** — to surround
+- **октябрь** — October
+- **окулист** — ophthalmologist
+- **олень** — deer
+- **оливковый, -ая, -ое, -ые** — olive (adj.)
+- **олимпиада** — Olympiad, Olympics
+- **олимпийский, -ая, -ое, -ие** — Olympic
+- **омлет** — omelette
+- **он, она, оно, они** — he, she, it, they
+- **опаздывать нсв I — опоздать св I куда?** — to be late
+- **опасность ж.р.** — danger
+- **опасный, -ая, -ое, -ые; опасно** — dangerous; dangerously
+- **опера** — opera
+- **операция** — operation
+- **оперетта** — operetta
+- **описание** — description
+- **описывать нсв I — описать (опишу, опишешь) св I кого? что?** — to describe
+- **оплатить св II см. оплачивать** — to pay
+- **оплачивать нсв I — оплатить (оплачу, оплатишь) св II что?** — to pay
+- **опоздание** — lateness
+- **опоздать св I см. опаздывать** — to be late
+- **оппозиция только ед.ч.** — opposition
+- **оппонент** — opponent
+- **оправдать св I см. оправдывать** — to justify
+- **оправдывать нсв I — оправдать св I кого? что?** — to justify
+- **определение** — definition
+- **определить св II см. определять** — to define, to determine
+- **определять нсв I — определить св II что?** — to define, to determine
+- **опровергать нсв I — опровергнуть св I кого? что?** — to refute
+- **опровергнуть св I см. опровергать** — to refute
+- **опровержение** — refutation
+- **оптимизм только ед.ч.** — optimism
+- **оптимист** — optimist
+- **оптимистический, -ая, -ое, -ие** — optimistic
+- **опубликовать св I см. публиковать** — to publish
+- **опускать нсв I — опустить (опущу, опустишь) св II кого? что?** — to lower
+- **опыт** — experience, experiment
+- **опытный, -ая, -ое, -ые** — experienced
+- **опять** — again
+- **оранжевый, -ая, -ое, -ые** — orange (colour)
+- **орган 1) орган зрения 2) органы власти** — organ: 1) organ of vision 2) organs/bodies of government
+- **организатор** — organizer
+- **организация 1) организация экскурсии 2) ООН — международная организация.** — organization: 1) organizing an excursion 2) the UN is an international organization
+- **организм** — organism
+- **организовать (организую, организуешь) св и нсв I кого? что?** — to organize
+- **организовывать нсв I — организовать (организую, организуешь) св I кого? что?** — to organize
+- **орден** — order, decoration (award)
+- **орех** — nut
+- **орёл, р.п. ед.ч. орла; мн.ч. орлы** — eagle
+- **оригинал** — original
+- **оригинальный, -ая, -ое, -ые; оригинально** — original; originally
+- **ориентироваться (ориентируюсь, ориентируешься) нсв и св I где? / в чём?** — to orient oneself
+- **оркестр** — orchestra
+- **оружие только ед.ч.** — weapon
+- **осветить св II см. освещать** — to illuminate, to cover (in the press)
+- **освещать нсв I — осветить (освещу, осветишь) св II кого? что? 1) освещать улицу 2) освещать события в прессе** — to illuminate; to cover (in the press): 1) to light a street 2) to cover events in the press
+- **освещение только ед.ч.** — illumination, coverage
+- **освободиться св II см. освобождаться** — to free oneself
+- **освобождать нсв I — освободить (освобожу, освободишь) св II 1) кого? что? — освободить арестованного, освобождать помещение 2) откуда? — освободить из плена 3) от кого? — освободить родную землю от врагов 4) от чего? — освободить от экзаменов** — to free, to liberate, to vacate: 1) to release the arrested person, to vacate the premises 2) to free from captivity 3) to free one's native land from the enemy 4) to exempt from exams
+- **освобождаться нсв I — освободиться (освобожусь, освободишься) св II** — to free oneself
+- **осенний, -яя, -ее, -ие** — autumn (adj.)
+- **осень ж.р.** — autumn
+- **осенью** — in autumn
+- **осетрина только ед.ч.** — sturgeon (meat)
+- **осёл, р.п. ед.ч. осла; мн.ч. ослы** — donkey
+- **оскорбить св II см. оскорблять** — to insult
+- **оскорблять нсв I — оскорбить (оскорблю, оскорбишь) св II кого? что?** — to insult
+- **ослабеть св I см. слабеть** — to weaken
+- **ослепнуть св I см. слепнуть** — to go blind
+- **осложнение 1) осложнение после болезни 2) осложнение ситуации, отношений** — complication: 1) complication after an illness 2) complication of a situation, of relations
+- **осматривать нсв I — осмотреть св II кого? что?** — to examine, to inspect
+- **осмотреть св II см. осматривать** — to examine, to inspect
+- **основа** — basis, foundation
+- **основатель** — founder
+- **основать св I см. основывать** — to found
+- **основной, -ая, -ое, -ые** — main, fundamental
+- **основывать нсв I — основать (осную, оснуёшь) св I что?** — to found
+- **особенно** — especially
+- **особенность ж.р.** — feature, peculiarity
+- **особенный, -ая, -ое, -ые** — special
+- **особняк** — mansion
+- **особый, -ая, -ое, -ые** — special
+- **оставаться (остаюсь, остаёшься) нсв I — остаться (останусь, останешься) св I где?** — to remain, to stay
+- **оставлять нсв I — оставить (оставлю, оставишь) св II кого? что? 1) оставить записку другу 2) оставить зонт в автобусе 3) оставить семью 4) оставить на память** — to leave, to abandon: 1) to leave a note for a friend 2) to leave an umbrella on the bus 3) to abandon one's family 4) to leave as a keepsake
+- **оставить св II см. оставлять** — to leave, to abandon
+- **остальной, -ая, -ое, -ые** — the rest, remaining
+- **останавливать нсв I — остановить (остановлю, остановишь) св I кого? что?** — to stop (something/someone)
+- **останавливаться нсв I — остановиться (остановлюсь, остановишься) св I где?** — to stop, to come to a halt
+- **остановить св II см. останавливать** — to stop
+- **остановиться св II см. останавливаться** — to stop, to come to a halt
+- **остановка; р.п. мн.ч. остановок** — (bus) stop
+- **остаться св I см. оставаться** — to remain, to stay
+- **осторожный, -ая, -ое, -ые; осторожно** — careful; carefully
+- **остров** — island
+- **острый, -ая, -ое, -ые; остро** — sharp, spicy; sharply
+- **остроумный, -ая, -ое, -ые; остроумно** — witty; wittily
+- **остывать нсв I — остыть (остыну, остынешь) св I** — to cool down
+- **остыть св I см. остывать** — to cool down
+- **осудить св II см. осуждать** — to condemn
+- **осуждать нсв I — осудить (осужу, осудишь) св II кого? что?** — to condemn
+- **осуществить св II см. осуществлять** — to realize, to implement
+- **осуществиться св II см. осуществляться** — to come true
+- **осуществлять нсв I — осуществить (осуществлю, осуществишь) св II что?** — to realize, to implement
+- **осуществляться нсв I — осуществиться св II (1 и 2 л. не употр.)** — to come true
+- **от, ото + р.п.** — from
+- **отвезти св I см. отвозить** — to take (by transport)
+- **ответ** — answer
+- **ответить св II см. отвечать** — to answer
+- **ответственность ж.р. только ед.ч.** — responsibility
+- **ответственный, -ая, -ое, -ые; ответственно** — responsible; responsibly
+- **отвечать нсв I — ответить (отвечу, ответишь) св II кому?** — to answer
+- **отдавать (отдаю, отдаёшь) нсв I — отдать (отдам, отдашь, отдаст, отдадим, отдадите, отдадут) св I кого? что? кому?** — to give back, to return
+- **отдать св I см. отдавать** — to give back, to return
+- **отделение 1) только ед.ч. — отделение автономии от государства 2) отделение банка 3) хирургическое отделение 4) первое отделение концерта** — separation; department; section: 1) separation of an autonomy from the state 2) bank branch 3) surgical department 4) the first half of a concert
+- **отдохнуть св I см. отдыхать** — to rest
+- **отдых только ед.ч.** — rest, relaxation
+- **отдыхать нсв I — отдохнуть (отдохну, отдохнёшь) св I** — to rest
+- **отец, р.п. ед.ч. отца** — father
+- **отечественный, -ая, -ое, -ые** — native, of the fatherland
+- **отечество только ед.ч.** — fatherland
+- **отзывчивый, -ая, -ое, -ые** — responsive, sympathetic
+- **отказать св I см. отказывать** — to refuse
+- **отказаться св I см. отказываться** — to refuse, to decline
+- **отказывать нсв I — отказать (откажу, откажешь) св I кому?** — to refuse
+- **отказываться нсв I — отказаться (откажусь, откажешься) св I от кого? от чего? / + инф.** — to refuse, to decline
+- **откладывать нсв I — отложить св II что? 1) отложить газету в сторону 2) отложить встречу 3) откладывать деньги на поездку** — to put aside, to postpone: 1) to put a newspaper aside 2) to postpone a meeting 3) to save money for a trip
+- **отключать нсв I — отключить св II что?** — to switch off, to disconnect
+- **отключить св II см. отключать** — to switch off, to disconnect
+- **откровенный, -ая, -ое, -ые; откровенно** — frank; frankly
+- **открывать нсв I — открыть (открою, откроешь) св I что? 1) открыть окно 2) открыть воду 3) открыть собрание** — to open: 1) to open a window 2) to turn on the water 3) to open a meeting
+- **открываться нсв I — открыться (откроется, откроются) св I** — to open
+- **открытие** — discovery, opening
+- **открытка; р.п. мн.ч. открыток** — postcard
+- **открытый, -ая, -ое, -ые; открыто 1) открытое окно 2) открытый человек** — open; openly: 1) open window 2) open person
+- **открыть св I см. открывать** — to open
+- **открыться св I см. открываться** — to open
+- **откуда** — where from
+- **откуда-то** — from somewhere
+- **откусить св II см. откусывать** — to bite off
+- **откусывать нсв I — откусить (откушу, откусишь) св II** — to bite off
+- **отличаться нсв I от кого? от чего? чем?** — to differ
+- **отличие** — difference, distinction
+- **отличительный, -ая, -ое, -ые** — distinctive
+- **отличный, -ая, -ое, -ые; отлично** — excellent; perfectly
+- **отложить св II см. откладывать** — to put aside, to postpone
+- **отменить св II см. отменять** — to cancel
+- **отменять нсв I — отменить св II** — to cancel
+- **отметить св II см. отмечать** — to mark, to celebrate
+- **отметка; р.п. мн.ч. отметок** — mark, grade
+- **отмечать нсв I — отметить (отмечу, отметишь) св II что? 1) отметить важную информацию в тексте 2) отмечать юбилей** — to mark, to note, to celebrate: 1) to mark important information in the text 2) to celebrate an anniversary
+- **отнести св II см. относить** — to take, to carry
+- **отнимать нсв I — отнять (отниму, отнимешь) св II кого? что? 1) что? у кого? — Отними спички у ребёнка! 2) Работа отнимает много времени. 3) от 40 отнять 20** — to take away, to subtract: 1) Take the matches away from the child! 2) Work takes up a lot of time. 3) to subtract 20 from 40
+- **относить (отношу, относишь) нсв II — отнести св I кого? что? кому? куда?** — to take, to carry
+- **относиться (отношусь, относишься) нсв II к кому? к чему? как?** — to treat, to have an attitude towards
+- **отношение 1) только ед.ч. — отношение к работе 2) только мн.ч. — дипломатические отношения 3) только мн.ч. — отношения между людьми** — attitude, relation: 1) attitude to work 2) diplomatic relations 3) relations between people
+- **отнять св I см. отнимать** — to take away, to subtract
+- **отовсюду** — from everywhere
+- **отойти св II см. отходить** — to move away, to step aside
+- **отомстить св II см. мстить** — to take revenge
+- **отопление только ед.ч.** — heating
+- **оторвать св I см. отрывать** — to tear off
+- **отправить св II см. отправлять** — to send
+- **отправиться св II см. отправляться** — to set off
+- **отправлять нсв I — отправить (отправлю, отправишь) св II кого? что? куда?** — to send
+- **отправляться нсв I — отправиться (отправлюсь, отправишься) св II куда?** — to set off, to depart
+- **отпрашиваться нсв I — отпроситься (отпрошусь, отпросишься) св II** — to ask for leave
+- **отпроситься св II см. отпрашиваться** — to ask for leave
+- **отпуск** — (vacation) leave, holiday
+- **отпускать нсв I — отпустить (отпущу, отпустишь) св II кого?** — to let go, to release
+- **отпустить св II см. отпускать** — to let go, to release
+- **отравиться (отравлюсь, отравишься) св II** — to poison oneself, to get poisoned
+- **отражать нсв I — отразить (отражу, отразишь) св II что? 1) Зеркало отражает свет. 2) Литература отражает жизнь.** — to reflect: 1) The mirror reflects the light. 2) Literature reflects life.
+- **отразить св II см. отражать** — to reflect
+- **отреагировать св I см. реагировать** — to react
+- **отрезать св I см. отрезать** — to cut off
+- **отрезать нсв I — отрезать (отрежу, отрежешь) св I что?** — to cut off
+- **отремонтировать св I см. ремонтировать** — to repair, to fix
+- **отреставрировать св I см. реставрировать** — to restore, to renovate
+- **отрицательный, -ая, -ое, -ые; отрицательно** — negative; negatively
+- **отрывать нсв I — оторвать св I** — to tear off
+- **отрывок, р.п. ед.ч. отрывка** — fragment, excerpt
+- **отставка; р.п. мн.ч. отставок** — resignation, retirement
+- **отсталый, -ая, -ое, -ые** — backward
+- **отстать св I см. отставать** — to fall behind, to lag
+- **отставать (отстаю, отстаёшь) нсв I — отстать (отстану, отстанешь) св I** — to fall behind, to lag
+- **отсутствовать (отсутствую, отсутствуешь) нсв I** — to be absent
+- **отсюда** — from here
+- **оттуда** — from there
+- **отходить (отхожу, отходишь) нсв II — отойти (отойду, отойдёшь; прош.вр. отошёл, отошла, отошли) св I от кого? от чего? куда?** — to move away, to step aside
+- **отчего** — why
+- **отчего-то** — for some reason
+- **отчество** — patronymic
+- **отчёт** — report, account
+- **отъезд** — departure
+- **офицер** — officer
+- **официальный, -ая, -ое, -ые; официально** — official; officially
+- **официант** — waiter
+- **оформить св II см. оформлять** — to complete official registration, to draw up
+- **оформление только ед.ч.** — registration, execution (of documents)
+- **оформлять нсв I — оформить (оформлю, оформишь) св II** — to complete official registration, to draw up
+- **охота только ед.ч.** — hunt, hunting
+- **охотиться (охочусь, охотишься) только нсв II на кого? на что? за кем? за чем?** — to hunt
+- **охотник** — hunter
+- **охотно** — willingly
+- **охрана только ед.ч.** — protection, security
+- **охранник** — guard
+- **охранять нсв I кого? что?** — to guard, to protect
+- **оценивать нсв I — оценить св II кого? что?** — to evaluate, to appraise
+- **оценить св II см. оценивать** — to evaluate, to appraise
+- **оценка; р.п. мн.ч. оценок** — grade, mark, assessment
+- **очень** — very
+- **очередной, -ая, -ое, -ые** — next, another
+- **очередь ж.р.** — queue
+- **очки только мн.ч.** — glasses
+- **ошибаться нсв I — ошибиться (ошибусь, ошибёшься; прош.вр. ошибся, ошиблась, ошиблись) св I** — to make a mistake
+- **ошибка; р.п. мн.ч. ошибок** — mistake
+- **оштрафовать св I см. штрафовать** — to fine
+- **ощутить св II см. ощущать** — to feel, to sense
+- **ощущать нсв I — ощутить (ощущу, ощутишь) св II что?** — to feel, to sense
+- **ощущение** — sensation, feeling
+
+## П
+
+- **падать нсв I — упасть (упаду, упадёшь; прош.вр. упал, упала, упали) св I куда? откуда?** — to fall
+- **падение** — fall
+- **пакет 1) пакет молока 2) пакет акций 3) полиэтиленовый, пластиковый пакет** — carton, packet; bag: 1) milk carton 2) block of shares 3) plastic bag
+- **палата 1) больничная палата 2) палата парламента** — ward; chamber: 1) hospital ward 2) chamber of parliament
+- **палатка; р.п. мн.ч. палаток 1) туристская палатка 2) овощная палатка** — tent; stall: 1) camping tent 2) vegetable stall
+- **палец, р.п. ед.ч. пальца; мн.ч. пальцы** — finger, toe
+- **палка; р.п. мн.ч. палок** — stick
+- **пальто неизм.** — overcoat
+- **памятник** — monument
+- **память ж.р.; только ед.ч.** — memory
+- **паника только ед.ч.** — panic
+- **папа м.р.** — dad
+- **папка; р.п. мн.ч. папок** — folder
+- **пар только ед.ч.** — steam
+- **пара** — pair, couple
+- **парад** — parade
+- **парализовать (парализую, парализуешь) нсв и св I кого? что?** — to paralyse
+- **параллельный, -ая, -ое, -ые; параллельно** — parallel; in parallel
+- **парикмахер** — hairdresser
+- **парикмахерская сущ.** — hairdresser's, barber shop
+- **парк** — park
+- **паркет только ед.ч.** — parquet
+- **парковаться (паркуюсь, паркуешься) нсв I — припарковаться (припаркуюсь, припаркуешься) св I** — to park
+- **парламент** — parliament
+- **партер** — the stalls (theatre)
+- **партийный, -ая, -ое, -ые** — party (adj.)
+- **партия 1) политическая партия 2) шахматная партия** — party; game: 1) political party 2) chess game
+- **парфюмерия только ед.ч.** — perfumery
+- **пасмурный, -ая, -ое, -ые; пасмурно** — overcast; it's overcast
+- **паспорт** — passport
+- **пассажир** — passenger
+- **пассивный, -ая, -ое, -ые; пассивно** — passive; passively
+- **Пасха** — Easter
+- **патриот** — patriot
+- **патриотизм только ед.ч.** — patriotism
+- **пауза** — pause
+- **паук** — spider
+- **пахнуть нсв I** — to smell (of)
+- **пачка; р.п. мн.ч. пачек 1) пачка масла, сигарет 2) пачка газет** — pack, bundle: 1) pack of butter, of cigarettes 2) bundle of newspapers
+- **пачкать нсв I — испачкать св I** — to dirty, to soil
+- **пачкаться нсв I — испачкаться св I** — to get dirty
+- **паштет** — pâté
+- **певец, р.п. ед.ч. певца; мн.ч. певцы; певица** — singer
+- **педагогический, -ая, -ое,-ие** — pedagogical
+- **пейзаж** — landscape
+- **пельмени мн.ч.** — pelmeni (dumplings)
+- **пена только ед.ч.** — foam
+- **пенсионер; пенсионерка; р.п. мн.ч. пенсионерок** — pensioner
+- **пенсия** — pension
+- **первый, -ая, -ое, -ые** — first
+- **перевезти св I см. перевозить** — to transport
+- **перевести св I см. переводить** — to translate, to transfer
+- **перевод** — translation
+- **переводить (перевожу, переводишь) нсв II — перевести (переведу, переведёшь; прош.вр. перевёл, перевела, перевели) св I 1) кого? — перевести ребёнка через дорогу 2) кого? куда? — перевести секретаря на другую работу 3) что? — переводить часы 4) что? – перевести статью на английский язык 5) что? – перевести деньги в банк** — to translate, to transfer, to move: 1) to take a child across the road 2) to transfer a secretary to another job 3) to set a clock (forward/back) 4) to translate an article into English 5) to transfer money to a bank
+- **переводчик; переводчица** — translator, interpreter
+- **перевозить (перевожу, перевозишь) нсв II — перевезти (перевезу, перевезёшь; прош.вр. перевёз, перевезла, перевезли) св кого? что? куда?** — to transport
+- **перевязать св I см. перевязывать** — to bandage
+- **перевязывать нсв I — перевязать (перевяжу, перевяжешь) св I кого? что?** — to bandage
+- **переговоры только мн.ч.** — negotiations
+- **перед, передо + т.п.** — in front of, before
+- **передавать (передаю, передаёшь) нсв I — передать (передам, передашь, передаст, передадим, передадите, передадут) св I что? 1) что? кому? — передать записку, привет другу 2) передавать новости по радио** — to pass, to transmit: 1) to pass a note, to give regards to a friend 2) to broadcast news on the radio
+- **передать св I см. передавать** — to pass, to transmit
+- **передача — радиопередача, телепередача** — broadcast, programme — radio programme, TV programme
+- **передумать св I** — to change one's mind
+- **переезжать нсв I — переехать (перееду, переедешь) св I куда?** — to move (house)
+- **переехать св I см. переезжать** — to move (house)
+- **перезванивать нсв I — перезвонить св II кому?** — to call back
+- **перезвонить св II см. перезванивать** — to call back
+- **переиздавать нсв I — переиздать (переиздам, переиздашь) св I что?** — to republish
+- **переиздать св I см. переиздавать** — to republish
+- **перейти св I см. переходить** — to cross, to switch over
+- **переключить св II см. переключать** — to switch (over)
+- **переключать нсв I — переключить св II что?** — to switch (over)
+- **перекрёсток, р.п. ед.ч. перекрёстка** — crossroads
+- **перекладывать нсв I — переложить св II кого? что?** — to move, to shift
+- **переложить св II см. перекладывать** — to move, to shift
+- **перенести св I см. переносить** — to carry over, to postpone, to endure
+- **переносить (переношу, переносишь) нсв II — перенести (перенесу, перенесёшь; прош.вр. перенёс, перенесла, перенесли) св I 1) кого? что? куда? — переносить вещи в другую комнату 2) что? куда? на какое время? — перенести встречу на вторник 3) что? — переносить трудности** — to carry, to postpone, to endure: 1) to carry things into another room 2) to postpone a meeting to Tuesday 3) to endure difficulties
+- **переобуваться нсв I — переобуться св I** — to change one's shoes
+- **переобуться св I см. переобуваться** — to change one's shoes
+- **переодеваться нсв I — переодеться (переоденусь, переоденешься) св I** — to change one's clothes
+- **переодеться св I см. переодеваться** — to change one's clothes
+- **переписка; р.п. мн.ч. переписок** — correspondence
+- **переписываться нсв I с кем?** — to correspond (with)
+- **переполнить св II см. переполнять** — to overfill
+- **переполнять нсв I — переполнить св II** — to overfill
+- **перепутать св I см. путать** — to confuse, to mix up
+- **перерыв** — break, interval
+- **пересадка; р.п. мн.ч. пересадок** — transfer, change (of transport)
+- **пересаживаться нсв I — пересесть (пересяду, пересядешь) св I куда? откуда?** — to change (seats, trains)
+- **пересесть св I см. пересаживаться** — to change (seats, trains)
+- **пересказать св I см. пересказывать** — to retell
+- **пересказывать нсв I — пересказать (перескажу, перескажешь) св I что?** — to retell
+- **переслать св I см. пересылать** — to send, to forward
+- **переставать (перестаю, перестаёшь) нсв I — перестать (перестану, перестанешь) св I + инф. нсв** — to stop, to cease
+- **перестать св I см. переставать** — to stop, to cease
+- **пересылать нсв I — переслать (перешлю, перешлёшь) св I что?** — to send, to forward
+- **переулок, р.п. ед.ч. переулка; р.п. мн.ч. переулков** — lane, side street
+- **переутомиться св II см. переутомляться** — to overwork oneself, to tire oneself out
+- **переутомляться нсв I — переутомиться (переутомлюсь, переутомишься) св II** — to overwork oneself
+- **переход** — crossing, passage
+- **переходить (перехожу, переходишь) нсв II — перейти (перейду, перейдёшь; прош.вр.: перешёл, перешла, перешли) св I что? / через что? / куда? 1) переходить улицу / через улицу 2) перейти на другую работу** — to cross, to move to: 1) to cross the street 2) to move to another job
+- **перец, р.п. перца** — pepper
+- **период** — period
+- **периодический, -ая, -ое, -ие; периодически** — periodic; periodically
+- **персик** — peach
+- **перспектива** — prospect, perspective
+- **перспективный, -ая, -ое, -ые; перспективно** — promising; promisingly
+- **перчатки мн.ч., р.п. мн.ч. перчаток; ед.ч. перчатка** — gloves; glove
+- **песня; р.п. мн.ч. песен** — song
+- **песок, р.п. ед.ч. песка** — sand
+- **пессимизм только ед.ч.** — pessimism
+- **пессимист** — pessimist
+- **пессимистический, -ая, -ое, -ие** — pessimistic
+- **песчаный, -ая, -ое, -ые** — sandy
+- **петух** — rooster
+- **петь (пою, поёшь) нсв I — спеть (спою, споёшь) св I** — to sing
+- **печальный, -ая, -ое, -ые; печально** — sad; sadly
+- **печатать нсв I — напечатать св I что?** — to print, to type
+- **печать ж.р.** — the press; seal, stamp
+- **печень ж.р. только ед.ч.** — liver
+- **печенье только ед.ч.** — cookies, biscuits
+- **печь (пеку, печёшь) нсв I — испечь (испеку, испечёшь) св I что?** — to bake
+- **печь ж.р.; печка; р.п. мн.ч. печек** — stove, oven
+- **пешеход** — pedestrian
+- **пешком** — on foot
+- **пианино неизм.** — (upright) piano
+- **пианист** — pianist
+- **пиво только ед.ч.** — beer
+- **пирог** — pie
+- **пирожное сущ.** — fancy cake, pastry
+- **пирожок, р.п. ед.ч. пирожка; мн.ч. пирожки** — pasty, small pie
+- **писатель** — writer
+- **писать (пишу, пишешь) нсв I — написать (напишу, напишешь) св I что?** — to write
+- **письмо; р.п. мн.ч. писем** — letter
+- **пить (пью, пьёшь) нсв I — выпить (выпью, выпьешь) св I; попить (попью, попьёшь) св I что?** — to drink
+- **плавать нсв I** — to swim (multidirectional)
+- **плакать (плачу, плачешь) нсв I** — to cry
+- **пламя, р.п. ед.ч. пламени ср.р. только ед.ч.** — flame
+- **план** — plan
+- **планета** — planet
+- **планировать (планирую, планируешь) нсв I — запланировать (запланирую, запланируешь) св I что? / + инф.** — to plan
+- **пластмассовый, -ая, -ое, -ые** — plastic (adj.)
+- **пластырь** — plaster (medical)
+- **платить (плачу, платишь) нсв II — заплатить (заплачу, заплатишь) св II за что?** — to pay
+- **платный, -ая, -ое, -ые** — paid, fee-based
+- **платок, р.п. платка** — headscarf, handkerchief
+- **платье** — dress
+- **плащ** — raincoat
+- **плевать (плюю, плюёшь) нсв I — плюнуть св I** — to spit
+- **плеер** — (music) player
+- **племянник; племянница** — nephew; niece
+- **плен только ед.ч.** — captivity
+- **плечо** — shoulder
+- **плёнка; р.п. мн.ч. плёнок** — film, tape
+- **плов только ед.ч.** — pilaf
+- **пловец, р.п. ед.ч. пловца; мн.ч. пловцы** — swimmer
+- **плодотворный, -ая, -ое, -ые; плодотворно** — fruitful; fruitfully
+- **плохой, -ая, -ое, -ие; плохо сравн. ст. хуже** — bad; badly; worse
+- **площадь ж.р.** — square
+- **плыть (плыву, плывёшь) только нсв I куда? откуда?** — to swim (unidirectional)
+- **плюнуть св I см. плевать** — to spit
+- **плюс** — plus
+- **пляж** — beach
+- **плясать (пляшу, пляшешь) нсв I** — to dance
+- **пневмония** — pneumonia
+- **по 1) + д.п. где? — гулять по городу 2) + д.п. какой? — учебник по физике 3) + д.п. мн.ч. когда? — отдыхать по субботам 4) + д.п. — показывать по телевизору 5) + д.п. почему? — сделать ошибку по невнимательности 6) + в.п. — отпуск по 20-ое июня 7) + д.п. — получили по сто рублей 8) + п.п. — по окончании учёбы** — around, according to, on, by: 1) to walk around town 2) physics textbook 3) to rest on Saturdays 4) to show on TV 5) to make a mistake out of carelessness 6) leave until the 20th of June 7) they received a hundred roubles each 8) upon completion of studies
+- **по-английски** — in English
+- **победа** — victory
+- **победить св II см. побеждать** — to win, to defeat
+- **побежать (побегу, побежишь) св I куда?** — to start running
+- **побеждать нсв I — победить (1 л. не употр.) св II кого? что?** — to win, to defeat
+- **побелеть св I см. белеть** — to turn white
+- **побережье** — coast
+- **поблагодарить св II см. благодарить** — to thank
+- **побледнеть св I см. бледнеть** — to turn pale
+- **поболтать св I см. болтать** — to chat
+- **побриться св I см. бриться** — to shave (oneself)
+- **побывать св I см. бывать** — to visit
+- **повар** — cook
+- **поведение только ед.ч.** — behaviour
+- **поверить св II см. верить** — to believe
+- **повезти 1 (повезу, повезёшь; прош.вр. повёз, повезла, повезли) св I кого? что? куда? откуда?** — to carry, to convey
+- **повезти 2 св I см. везти 2** — to be lucky
+- **повернуться св I см. поворачиваться** — to turn
+- **повесить св II см. вешать** — to hang
+- **повести (поведу, поведёшь, прош.вр. повёл, повела, повели) св I кого? что? куда? откуда?** — to lead, to take
+- **повесть ж.р.** — novella, story
+- **по-видимому** — apparently
+- **повлиять св I см. влиять** — to influence
+- **повод** — occasion, reason
+- **поворачиваться нсв I — повернуться св I** — to turn
+- **поворот** — turn, bend
+- **повреждение** — damage
+- **повседневный, -ая, -ое, -ые** — everyday
+- **повсюду** — everywhere
+- **повторение** — repetition
+- **повторить св II см. повторять** — to repeat
+- **повторный, -ая, -ое, -ые** — repeated, recurring
+- **повторять нсв I — повторить св II что?** — to repeat
+- **повысить св II см. повышать** — to raise, to increase
+- **повыситься св II см. повышаться** — to rise, to increase
+- **повышать нсв I — повысить (повышу, повысишь) св II** — to raise, to increase
+- **повышаться нсв I — повыситься (повышусь, повысишься) св II** — to rise, to increase
+- **погасить св II см. гасить** — to extinguish
+- **погаснуть св I см. гаснуть** — to go out, to fade
+- **погибать нсв I — погибнуть (погибну, погибнешь; прош.вр. погиб, погибла, погибли) св I** — to perish, to die
+- **погибнуть св I см. гибнуть, погибать** — to perish, to die
+- **погладить св II см. гладить** — to iron, to stroke
+- **поглядеть св II см. глядеть** — to look, to glance
+- **поговорить св II** — to have a talk
+- **поговорка; р.п. мн.ч. поговорок** — saying
+- **погода** — weather
+- **пограничник** — border guard
+- **под, подо 1) + т.п. где? — сумка стоит под столом 2) + в.п. куда? — поставить сумку под стол** — under: 1) the bag is under the table 2) to put the bag under the table
+- **подавать (подаю, подаёшь) нсв I — подать (подам, подашь, подаёт, подадут) св I что?** — to give, to serve
+- **подарить св II см. дарить** — to give as a present
+- **подарок, р.п. подарка; мн.ч. подарки** — gift, present
+- **подать св I см. подавать** — to give, to serve
+- **подбегать нсв I — подбежать (подбегу, подбежишь) св II** — to run up (to)
+- **подбежать св II см. подбегать** — to run up (to)
+- **подбородок, р.п. ед.ч. подбородка** — chin
+- **подвал** — basement, cellar
+- **подвезти св I см. подвозить** — to give a lift
+- **подвести св I см. подводить** — to lead up (to), to let down
+- **подвиг** — feat, heroic deed
+- **подвинуть св I** — to move (something)
+- **подвинуться св I** — to move over
+- **подводить (подвожу, подводишь) нсв II — подвести (подведу, подведёшь) св I 1) кого? — Гид подвёл туристов к собору. 2) Он не принёс книгу и подвёл друга. 3) Давайте подведём итоги.** — to lead up to; to let down; to sum up: 1) The guide led the tourists up to the cathedral. 2) He didn't bring the book and let his friend down. 3) Let's sum up.
+- **подвозить (подвожу, подвозишь) нсв II — подвезти св I кого? что?** — to give a lift
+- **подготовить св II см. готовить** — to prepare
+- **подготовиться св II см. готовиться** — to prepare (oneself)
+- **подготовка; р.п. мн.ч. подготовок** — preparation, training
+- **поддержать св II см. поддерживать** — to support
+- **поддерживать нсв I — поддержать св II кого? что? 1) поддерживать под руку дедушку 2) поддержать друга в трудную минуту 3) поддержать предложение 4) поддерживать разговор** — to support: 1) to support grandfather by the arm 2) to support a friend in a difficult moment 3) to support a proposal 4) to keep up a conversation
+- **поддержка; р.п. мн.ч. поддержек** — support
+- **подействовать св I см. действовать** — to act, to take effect
+- **поделить св II см. делить** — to divide
+- **поделиться св II см. делиться** — to share
+- **подешеветь св I см. дешеветь** — to become cheaper
+- **подмести св I см. подметать** — to sweep
+- **подметать нсв I — подмести (подмету, подметёшь) св I** — to sweep
+- **поднимать нсв I — поднять (подниму, поднимешь) св I кого? что?** — to lift, to raise
+- **подниматься нсв I — подняться (поднимусь, поднимешься) св I** — to rise, to go up
+- **поднять св I см. поднимать** — to lift, to raise
+- **подняться св I см. подниматься** — to rise, to go up
+- **подогревать нсв I — подогреть св I что?** — to warm up, to heat up
+- **подогреть св II см. подогревать** — to warm up, to heat up
+- **пододеяльник** — duvet cover
+- **подождать св I см. ждать** — to wait
+- **подойти св I см. подходить** — to approach, to come up (to)
+- **подоконник** — window sill
+- **подорожать св I см. дорожать** — to become more expensive
+- **подписать св I см. подписывать** — to sign
+- **подписаться св I см. подписываться** — to sign, to subscribe
+- **подписывать нсв I — подписать (подпишу, подпишешь) св I что?** — to sign
+- **подписываться нсв I — подписаться (подпишусь, подпишешься) св I** — to sign, to subscribe
