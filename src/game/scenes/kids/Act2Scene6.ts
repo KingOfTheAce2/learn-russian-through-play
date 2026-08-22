@@ -2,6 +2,7 @@ import { StoryScene } from '../StoryScene';
 import { SceneScript, SCENE_6_PORRIDGE } from '@/data/scenes/kids/act2_story_script';
 import { Character } from '@/game/sprites/Character';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class Act2Scene6 extends StoryScene {
   private masha!: Character;
@@ -190,7 +191,7 @@ export class Act2Scene6 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(1000);
     this.time.delayedCall(1000, () => {
-      this.scene.start(SCENES.ACT3_SCENE1);
+      startScene(this, SCENES.ACT3_SCENE1);
     });
   }
 }

@@ -1,6 +1,7 @@
 ﻿import { StoryScene } from '../StoryScene';
 import { SceneScript } from '@/data/scenes/types';
 import { GAME_WIDTH, GAME_HEIGHT } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * ADULT MODE - Introduction
@@ -91,7 +92,7 @@ export class AdultIntroScene extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500);
     this.time.delayedCall(500, () => {
-      this.scene.start('AdultAct1Scene1');
+      startScene(this, 'AdultAct1Scene1');
     });
   }
 }

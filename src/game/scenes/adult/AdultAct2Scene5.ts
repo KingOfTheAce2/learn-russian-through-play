@@ -2,6 +2,7 @@
 import { SceneScript } from '@/data/scenes/types';
 import { ADULT_SCENE_5_E } from '@/data/scenes/adult/act2_adult_script';
 import { GAME_WIDTH } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class AdultAct2Scene5 extends StoryScene {
   constructor() {
@@ -36,7 +37,7 @@ export class AdultAct2Scene5 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500);
     this.time.delayedCall(500, () => {
-      this.scene.start('AdultAct2Scene6');
+      startScene(this, 'AdultAct2Scene6');
     });
   }
 }

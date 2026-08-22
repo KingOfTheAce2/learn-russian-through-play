@@ -2,6 +2,7 @@
 import { SceneScript } from '@/data/scenes/types';
 import { ADULT_SCENE_6_Y_SIGNS } from '@/data/scenes/adult/act5_adult_script';
 import { GAME_WIDTH } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class AdultAct5Scene6 extends StoryScene {
   constructor() { super('AdultAct5Scene6'); }
@@ -32,7 +33,7 @@ export class AdultAct5Scene6 extends StoryScene {
     // Final scene - show completion message
     this.cameras.main.fadeOut(1000);
     this.time.delayedCall(1000, () => {
-      this.scene.start('AdultIntroScene'); // Loop back to intro or show completion
+      startScene(this, 'AdultIntroScene'); // Loop back to intro or show completion
     });
   }
 }

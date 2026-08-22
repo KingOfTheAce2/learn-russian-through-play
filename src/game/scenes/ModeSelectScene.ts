@@ -2,6 +2,7 @@ import Phaser from 'phaser';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
 import { GameState } from '@/systems/progress';
 import { AudioManager } from '@/systems/audio';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * Mode Selection Scene
@@ -47,7 +48,7 @@ export class ModeSelectScene extends Phaser.Scene {
       () => {
         audio.sfxClick();
         state.setLearningMode('kids');
-        this.scene.start(SCENES.MAIN_MENU);
+        startScene(this, SCENES.MAIN_MENU);
       }
     );
 
@@ -62,7 +63,7 @@ export class ModeSelectScene extends Phaser.Scene {
       () => {
         audio.sfxClick();
         state.setLearningMode('adult');
-        this.scene.start(SCENES.MAIN_MENU);
+        startScene(this, SCENES.MAIN_MENU);
       }
     );
 

@@ -2,6 +2,7 @@
 import { SceneScript, SCENE_3_REUNION } from '@/data/scenes/kids/act1_story_script';
 import { Character } from '@/game/sprites/Character';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * Act 1, Scene 3: "Masha Finds Shura"
@@ -201,7 +202,7 @@ export class Act1Scene3 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500, 0, 0, 0);
     this.time.delayedCall(500, () => {
-      this.scene.start(SCENES.ACT1_SCENE4);
+      startScene(this, SCENES.ACT1_SCENE4);
     });
   }
 }

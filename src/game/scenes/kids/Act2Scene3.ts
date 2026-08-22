@@ -2,6 +2,7 @@ import { StoryScene } from '../StoryScene';
 import { SceneScript, SCENE_3_WASPS } from '@/data/scenes/kids/act2_story_script';
 import { Character } from '@/game/sprites/Character';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class Act2Scene3 extends StoryScene {
   private masha!: Character;
@@ -144,7 +145,7 @@ export class Act2Scene3 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500);
     this.time.delayedCall(500, () => {
-      this.scene.start(SCENES.ACT2_SCENE4);
+      startScene(this, SCENES.ACT2_SCENE4);
     });
   }
 }

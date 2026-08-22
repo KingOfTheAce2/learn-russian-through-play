@@ -2,6 +2,7 @@
 import { SceneScript } from '@/data/scenes/types';
 import { ADULT_SCENE_1_ZH } from '@/data/scenes/adult/act3_adult_script';
 import { GAME_WIDTH } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class AdultAct3Scene1 extends StoryScene {
   constructor() { super('AdultAct3Scene1'); }
@@ -19,6 +20,6 @@ export class AdultAct3Scene1 extends StoryScene {
   protected createHotspots(): void {}
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500);
-    this.time.delayedCall(500, () => { this.scene.start('AdultAct3Scene2'); });
+    this.time.delayedCall(500, () => { startScene(this, 'AdultAct3Scene2'); });
   }
 }

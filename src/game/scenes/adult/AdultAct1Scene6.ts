@@ -2,6 +2,7 @@
 import { SceneScript } from '@/data/scenes/types';
 import { ADULT_SCENE_6_N } from '@/data/scenes/adult/act1_adult_script';
 import { GAME_WIDTH, GAME_HEIGHT } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * ADULT MODE - Act 1, Scene 6
@@ -56,7 +57,7 @@ export class AdultAct1Scene6 extends StoryScene {
     this.cameras.main.fadeOut(500);
     this.time.delayedCall(500, () => {
       // Act 1 complete, transition to Act 2
-      this.scene.start('AdultAct2Scene1');
+      startScene(this, 'AdultAct2Scene1');
     });
   }
 }

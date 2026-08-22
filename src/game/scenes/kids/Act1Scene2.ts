@@ -3,6 +3,7 @@ import { SceneScript, SCENE_2_CALLING } from '@/data/scenes/kids/act1_story_scri
 import { Character } from '@/game/sprites/Character';
 import { LetterParticle } from '@/game/sprites/LetterParticle';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * Act 1, Scene 2: "Calling for Help"
@@ -283,7 +284,7 @@ export class Act1Scene2 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500, 0, 0, 0);
     this.time.delayedCall(500, () => {
-      this.scene.start(SCENES.ACT1_SCENE3);
+      startScene(this, SCENES.ACT1_SCENE3);
     });
   }
 }

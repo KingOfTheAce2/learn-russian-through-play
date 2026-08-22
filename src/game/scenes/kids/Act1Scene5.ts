@@ -2,6 +2,7 @@
 import { SceneScript, SCENE_5_BRIDGE } from '@/data/scenes/kids/act1_story_script';
 import { Character } from '@/game/sprites/Character';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 export class Act1Scene5 extends StoryScene {
   private masha!: Character;
@@ -121,7 +122,7 @@ export class Act1Scene5 extends StoryScene {
   protected transitionToNextScene(): void {
     this.cameras.main.fadeOut(500);
     this.time.delayedCall(500, () => {
-      this.scene.start(SCENES.ACT1_SCENE6);
+      startScene(this, SCENES.ACT1_SCENE6);
     });
   }
 }

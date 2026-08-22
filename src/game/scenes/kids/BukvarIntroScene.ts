@@ -3,6 +3,7 @@ import { SceneScript } from '@/data/scenes/kids/act1_story_script';
 import { BUKVAR_INTRO_SCRIPT } from '@/data/scenes/kids/act1_intro_script';
 import { Character } from '@/game/sprites/Character';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * Bukvar Introduction Scene
@@ -329,7 +330,7 @@ export class BukvarIntroScene extends StoryScene {
 
     this.time.delayedCall(1000, () => {
       // Go to Scene 1: The Echo
-      this.scene.start(SCENES.ACT1_SCENE1);
+      startScene(this, SCENES.ACT1_SCENE1);
     });
   }
 

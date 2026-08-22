@@ -1,6 +1,7 @@
 import Phaser from 'phaser';
 import { SCENES, GAME_WIDTH, GAME_HEIGHT, COLORS, FONT_FAMILY } from '@/game/config';
 import { GameState } from '@/systems/progress';
+import { startScene } from '@/systems/sceneLoader';
 
 export class PreloadScene extends Phaser.Scene {
   constructor() {
@@ -43,7 +44,7 @@ export class PreloadScene extends Phaser.Scene {
           }
 
           // Go directly to main menu (no mode selection)
-          this.scene.start(SCENES.MAIN_MENU);
+          startScene(this, SCENES.MAIN_MENU);
         });
       },
     });

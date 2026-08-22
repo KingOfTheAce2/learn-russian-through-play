@@ -2,6 +2,7 @@ import Phaser from 'phaser';
 import { SCENES, GAME_WIDTH, GAME_HEIGHT, COLORS, FONT_FAMILY } from '@/game/config';
 import { GameState } from '@/systems/progress';
 import { AudioManager } from '@/systems/audio';
+import { startScene } from '@/systems/sceneLoader';
 
 export class MainMenuScene extends Phaser.Scene {
   constructor() {
@@ -62,9 +63,9 @@ export class MainMenuScene extends Phaser.Scene {
       // Route to correct intro based on learning mode
       const mode = state.getLearningMode();
       if (mode === 'adult') {
-        this.scene.start('AdultIntroScene');
+        startScene(this, 'AdultIntroScene');
       } else {
-        this.scene.start(SCENES.BUKVAR_INTRO);
+        startScene(this, SCENES.BUKVAR_INTRO);
       }
     });
 
@@ -77,9 +78,9 @@ export class MainMenuScene extends Phaser.Scene {
         // Route based on saved mode
         const mode = state.getLearningMode();
         if (mode === 'adult') {
-          this.scene.start('AdultIntroScene');
+          startScene(this, 'AdultIntroScene');
         } else {
-          this.scene.start(SCENES.BUKVAR_INTRO);
+          startScene(this, SCENES.BUKVAR_INTRO);
         }
       });
     }

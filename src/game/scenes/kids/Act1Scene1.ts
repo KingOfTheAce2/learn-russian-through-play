@@ -3,6 +3,7 @@ import { SceneScript, SCENE_1_THE_ECHO } from '@/data/scenes/kids/act1_story_scr
 import { Character } from '@/game/sprites/Character';
 import { LetterParticle } from '@/game/sprites/LetterParticle';
 import { GAME_WIDTH, GAME_HEIGHT, SCENES } from '@/game/config';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * Act 1, Scene 1: "The Echo"
@@ -284,7 +285,7 @@ export class Act1Scene1 extends StoryScene {
     this.cameras.main.fadeOut(500, 0, 0, 0);
     this.time.delayedCall(500, () => {
       // Next: Scene 2 (Letter Ð£)
-      this.scene.start(SCENES.ACT1_SCENE2);
+      startScene(this, SCENES.ACT1_SCENE2);
     });
   }
 }

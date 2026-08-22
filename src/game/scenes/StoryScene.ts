@@ -7,6 +7,7 @@ import { AudioManager } from '@/systems/audio';
 import { GameState } from '@/systems/progress';
 import { GAME_WIDTH, GAME_HEIGHT, COLORS, FONT_FAMILY } from '@/game/config';
 import { getTheme, Theme } from '@/game/themes';
+import { startScene } from '@/systems/sceneLoader';
 
 /**
  * StoryScene - Base class for all interactive storybook scenes
@@ -608,7 +609,7 @@ export abstract class StoryScene extends Phaser.Scene {
     // Default: return to main menu
     this.cameras.main.fadeOut(500, 0, 0, 0);
     this.time.delayedCall(500, () => {
-      this.scene.start('MainMenuScene');
+      startScene(this, 'MainMenuScene');
     });
   }
 

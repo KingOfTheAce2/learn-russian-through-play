@@ -2,6 +2,7 @@ import Phaser from 'phaser';
 import { SCENES, GAME_WIDTH, GAME_HEIGHT, FONT_FAMILY } from '@/game/config';
 import { GameState } from '@/systems/progress';
 import { AudioManager } from '@/systems/audio';
+import { startScene } from '@/systems/sceneLoader';
 
 export class BootScene extends Phaser.Scene {
   constructor() {
@@ -38,7 +39,7 @@ export class BootScene extends Phaser.Scene {
     this.input.once('pointerdown', () => {
       AudioManager.getInstance().unlock();
       this.cameras.main.fadeOut(300, 0, 0, 0);
-      this.time.delayedCall(300, () => this.scene.start(SCENES.PRELOAD));
+      this.time.delayedCall(300, () => startScene(this, SCENES.PRELOAD));
     });
   }
 }

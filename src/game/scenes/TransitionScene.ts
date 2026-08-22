@@ -1,6 +1,7 @@
 import Phaser from 'phaser';
 import { SCENES, GAME_WIDTH, GAME_HEIGHT, COLORS, FONT_FAMILY } from '@/game/config';
 import { GameState } from '@/systems/progress';
+import { startScene } from '@/systems/sceneLoader';
 
 export class TransitionScene extends Phaser.Scene {
   constructor() {
@@ -67,7 +68,7 @@ export class TransitionScene extends Phaser.Scene {
     menuText.setAlpha(0);
 
     menuBtn.on('pointerdown', () => {
-      this.scene.start(SCENES.MAIN_MENU);
+      startScene(this, SCENES.MAIN_MENU);
     });
 
     // Animated reveals
